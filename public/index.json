@@ -18,7 +18,14 @@
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": "Copyright \u0026copy; 2017 Rozzi Media Group. By contributing changes to this documentation through Github you grant Rozzi Media Group a license to re-use your content.\n"
+	"content": "Copyright \u0026copy; 2017-18 Rozzi Media Group\n"
+},
+{
+	"uri": "/introduction/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Introduction to OPRAmachine\n"
 },
 {
 	"uri": "/opra-request-templates/",
