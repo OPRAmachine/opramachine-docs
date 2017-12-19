@@ -21,13 +21,6 @@
 	"content": "Copyright \u0026copy; 2017-18 Rozzi Media Group\n"
 },
 {
-	"uri": "/introduction/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": "Introduction to OPRAmachine\n"
-},
-{
 	"uri": "/opra-request-templates/",
 	"title": "",
 	"tags": [],
@@ -40,6 +33,13 @@
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "/introduction/",
+	"title": "Introduction",
+	"tags": [],
+	"description": "",
+	"content": "Introduction to OPRAmachine\n"
 },
 {
 	"uri": "/tags/",

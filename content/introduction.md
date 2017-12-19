@@ -10,6 +10,8 @@ creatoremail = "gr@gavinrozzi.com"
 lastmodifierdisplayname = "Gavin Rozzi"
 # LastModifier's Email
 lastmodifieremail = "gr@gavinrozzi.com"
+title = "Introduction"
+head ="<label>Introduction</label> "
 +++
 
 Introduction to OPRAmachine

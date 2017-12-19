@@ -31,20 +31,20 @@
     
     <item>
       <title></title>
-      <link>/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/introduction/</guid>
-      <description>Introduction to OPRAmachine</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/opra-request-templates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/opra-request-templates/</guid>
       <description>We offer several different types of templates for requests on OPRAmachine.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/introduction/</guid>
+      <description>Introduction to OPRAmachine</description>
     </item>
     
   </channel>
