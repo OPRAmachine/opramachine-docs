@@ -3,8 +3,8 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 
 title = "OPRAmachine Documentation"
-theme = "hugo-theme-docdock"
-#themesdir = ""
+theme = "docdock"
+themesdir = "././themes"
 
 [params]
 editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
