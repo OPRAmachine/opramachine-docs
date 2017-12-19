@@ -4,7 +4,7 @@
 	"title": "Introduction",
 	"tags": [],
 	"description": "Introduction",
-	"content": " Introduction to OPRAmachine "
+	"content": "OPRAmachine is an interactive web application designed to simplify the process of submitting a New Jersey Open Public Records Act (OPRA) request to state and local governmental agencies. OPRAmachine provides tracking functionality to ensure that your request is dealt with by public bodies in the time period prescribed by law. Each request that is made through the site is published on our website for all to see, allowing the entire public to benefit from each individual request that is made through the site.\n"
 },
 {
 	"uri": "/",
@@ -12,6 +12,20 @@
 	"tags": [],
 	"description": "Providing information for users, records custodians and administrators of OPRAmachine.com",
 	"content": " Welcome to the OPRAmachine Documentation The OPRAmachine Documentation (docs.opramachine.com) is your destination for guides on how to make requests for public records under the New Jersey Open Public Records Act using the OPRAmachine web portal. Beginning in 2018, this documentation website will supersede the existing help material that is currently hosted at the existing OPRAmachine website.\nOne of the reasons we have chose to migrate to this platform is the fact that this documentation is hosted on a separate server and content delivery network from the main OPRAmachine application and it will not be impacted by server outages or maintenance issues. The OPRAmachine administration aims to communicate site technical issues both on this platform and on the OPRAmachine blog (blog.opramachine.com).\nDocumentation website This current documentation has been statically generated with the Hugo static site generator with a simple command : hugo -t docdock \u0026ndash; the source code of this documentation is open source and available here at GitHub  \nContribute to this documentation Feel free to update this content, just click the Edit this page link displayed on top right of each page, and pullrequest it Your modification will be deployed automatically when merged. Your Feedback Please reach out to the documentation\u0026rsquo;s editor, Gavin Rozzi, www.gavinrozzi.com with any feedback about this documentation. Feedback may also be submitted to any other member of the OPRAmachine team for their consideration. Issues may be submitted via Github to any of our website repositories.\n"
+},
+{
+	"uri": "/policies-and-procedures/",
+	"title": "Policies and Procedures",
+	"tags": [],
+	"description": "Policies and Procedures that govern OPRAmachine site operations",
+	"content": ""
+},
+{
+	"uri": "/site-administration/",
+	"title": "Site Administration",
+	"tags": [],
+	"description": "Information for OPRAmachine site administrators",
+	"content": "Please note that this section of the documentation is only intended for the site administration. This document is being made public as a part of our documentation in order to be transparent about how moderation and administration decisions are made for the site. Some of the contents of this documentation is being adopted from the Alaveteli site administration guide in order to provide a centralized repository for information to the volunteers that help run the site.\n"
 },
 {
 	"uri": "/_header/",
@@ -42,11 +56,11 @@
 	"content": ""
 },
 {
-	"uri": "/introduction/introduction/",
-	"title": "Introduction",
+	"uri": "/policies-and-procedures/content-removal/",
+	"title": "Content Removal",
 	"tags": [],
-	"description": "",
-	"content": "Introduction to OPRAmachine1\n"
+	"description": "Policy on content removal",
+	"content": " Policy on Content Removal The OPRAmachine site administration will\nTypes of Content Subject To Removal Removal Decisions Before removing content, the OPRAmachine site administration will conduct a public interest balancing test. Before making\n"
 },
 {
 	"uri": "/tags/",
