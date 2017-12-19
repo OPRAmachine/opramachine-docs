@@ -22,6 +22,26 @@ Remove of content is an extraordinary remedy. The OPRAmachine site administratio
     </item>
     
     <item>
+      <title>Email Logs</title>
+      <link>/request-templates/emails/emaillogs/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/emails/emaillogs/</guid>
+      <description>Since the New Jersey Supreme Court&amp;rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.
+Email logs consist of the metadata associated with a public employee&amp;rsquo;s email account. They are almost like a snapshot of the account&amp;rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee&amp;rsquo;s email account.</description>
+    </item>
+    
+    <item>
+      <title>Use of Force Reports</title>
+      <link>/request-templates/police-records/uof/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/police-records/uof/</guid>
+      <description>Police use of force reports can be
+Example successful requests for use of force reports</description>
+    </item>
+    
+    <item>
       <title>header</title>
       <link>/_header/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>

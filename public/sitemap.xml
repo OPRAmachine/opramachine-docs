@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>/request-templates/emails/emaillogs/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/police-records/uof/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/introduction/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
@@ -18,7 +28,22 @@
   </url>
   
   <url>
+    <loc>/request-templates/police-records/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/policies-and-procedures/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/emails/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
