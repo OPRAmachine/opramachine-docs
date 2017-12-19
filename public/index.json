@@ -1,5 +1,12 @@
 [
 {
+	"uri": "/policies-and-procedures/content-removal/",
+	"title": "Content Removal",
+	"tags": [],
+	"description": "Policy on content removal",
+	"content": " The OPRAmachine site administration will endeavor to remove site content in legitimate instances where private identifying information , such as social security numbers and dates of birth,\nRemove of content is an extraordinary remedy. The OPRAmachine site administration intends for the site to further governmental transparency and openness. We believe that the transparency provided by the site, including the publication of request and responses provides a public service. We will therefore only remove content when exceedingly persuasive justification is provided that the content\u0026rsquo;s publication will directly and substantially injure a private citizen.\nTypes of Content Subject To Removal Removal Decisions Before removing content, the OPRAmachine site administration will conduct a public interest balancing test. We will balance the privacy interest expressed by the party requesting removal of the material with our journalistic interest in publishing the documents. If we conclude that additional redactions or removal of the documents is necessary, we will attempt to work with the public body\u0026rsquo;s records custodian to provide a properly redacted version of the files.\n"
+},
+{
 	"uri": "/introduction/",
 	"title": "Introduction",
 	"tags": [],
@@ -54,13 +61,6 @@
 	"tags": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "/policies-and-procedures/content-removal/",
-	"title": "Content Removal",
-	"tags": [],
-	"description": "Policy on content removal",
-	"content": " Policy on Content Removal The OPRAmachine site administration will\nTypes of Content Subject To Removal Removal Decisions Before removing content, the OPRAmachine site administration will conduct a public interest balancing test. Before making\n"
 },
 {
 	"uri": "/tags/",

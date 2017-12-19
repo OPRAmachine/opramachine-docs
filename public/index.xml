@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Content Removal</title>
+      <link>/policies-and-procedures/content-removal/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/policies-and-procedures/content-removal/</guid>
+      <description>The OPRAmachine site administration will endeavor to remove site content in legitimate instances where private identifying information , such as social security numbers and dates of birth,
+Remove of content is an extraordinary remedy. The OPRAmachine site administration intends for the site to further governmental transparency and openness. We believe that the transparency provided by the site, including the publication of request and responses provides a public service. We will therefore only remove content when exceedingly persuasive justification is provided that the content&amp;rsquo;s publication will directly and substantially injure a private citizen.</description>
+    </item>
+    
+    <item>
       <title>header</title>
       <link>/_header/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
@@ -36,16 +46,6 @@
       
       <guid>/opra-request-templates/</guid>
       <description>We offer several different types of templates for requests on OPRAmachine.</description>
-    </item>
-    
-    <item>
-      <title>Content Removal</title>
-      <link>/policies-and-procedures/content-removal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/policies-and-procedures/content-removal/</guid>
-      <description>Policy on Content Removal The OPRAmachine site administration will
-Types of Content Subject To Removal Removal Decisions Before removing content, the OPRAmachine site administration will conduct a public interest balancing test. Before making</description>
     </item>
     
   </channel>
