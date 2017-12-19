@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/_header/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
