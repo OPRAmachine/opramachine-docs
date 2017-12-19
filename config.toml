@@ -16,6 +16,9 @@ disableHomeIcon = false # default is false
 disableSearch = false # default is false
 disableNavChevron = false # set true to hide next/prev chevron, default is false
 
+[params]
+themeStyle = "flex"
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
