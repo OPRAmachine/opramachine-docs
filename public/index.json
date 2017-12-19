@@ -1,5 +1,12 @@
 [
 {
+	"uri": "/making-requests/best/",
+	"title": "Best Practices",
+	"tags": [],
+	"description": "Best practices for making requests on OPRAmachine.",
+	"content": "Keep your request concise. Be as specific as possible. Try and identify specific documents and use narrow date ranges. This helps the custodian to quickly locate the public records that are responsive to your request, and helps you avoid being charged special service fees due to the time required to fulfill your request, such as if it is exceedingly voluminous.\n"
+},
+{
 	"uri": "/policies-and-procedures/content-removal/",
 	"title": "Content Removal",
 	"tags": [],
@@ -12,6 +19,13 @@
 	"tags": [],
 	"description": "Getting email logs under OPRA",
 	"content": "Since the New Jersey Supreme Court\u0026rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.\nEmail logs consist of the metadata associated with a public employee\u0026rsquo;s email account. They are almost like a snapshot of the account\u0026rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee\u0026rsquo;s email account.\nEmail logs can reveal who a public official is talking to and what they are saying. That\u0026rsquo;s why they are a powerful tool for journalists and the public.\n"
+},
+{
+	"uri": "/making-requests/types/",
+	"title": "Types of Records You Can Request",
+	"tags": [],
+	"description": "The types of records you can request using OPRAmachine",
+	"content": ""
 },
 {
 	"uri": "/request-templates/police-records/uof/",
@@ -33,6 +47,13 @@
 	"tags": [],
 	"description": "Introduction",
 	"content": "OPRAmachine is an interactive web application designed to simplify the process of submitting a New Jersey Open Public Records Act (OPRA) request to state and local governmental agencies. OPRAmachine provides tracking functionality to ensure that your request is dealt with by public bodies in the time period prescribed by law. Each request that is made through the site is published on our website for all to see, allowing the entire public to benefit from each individual request that is made through the site.\n"
+},
+{
+	"uri": "/making-requests/",
+	"title": "Making Requests",
+	"tags": [],
+	"description": "Making requests using OPRAmachine",
+	"content": "Making requests with OPRAmachine is easy.\nStart by selecting the public authority you would like to send your OPRA request to. Please note that only New Jersey state and local governmental agencies are subject to the Open Public Records Act and its restrictions. The New Jersey Judiciary and Legislature are both exempt from OPRA, so any requests to those entities made under the law would be invalid.\nFederal agencies, such as the FBI or DHS are not subject to OPRA. Their records can instead be accessed under the federal Freedom of Information Act (FOIA). OPRAmachine currently only supports requests made under OPRA. A future website may be added that supports making FOIA requests using a similar interface.\n"
 },
 {
 	"uri": "/request-templates/",
