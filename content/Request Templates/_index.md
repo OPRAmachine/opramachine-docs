@@ -1,6 +1,6 @@
 +++
-title = "Policies and Procedures"
-description = "Policies and Procedures that govern OPRAmachine site operations"
+title = "OPRA Request Templates"
+description = "Boilerplate language to request specific types of documents"
 date = "2017-04-24T18:36:24+02:00"
 
 +++

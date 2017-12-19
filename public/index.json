@@ -21,11 +21,25 @@
 	"content": "Police use of force reports can be\nExample successful requests for use of force reports\n"
 },
 {
+	"uri": "/request-templates/emails/",
+	"title": "Emails",
+	"tags": [],
+	"description": "Getting emails of public officials",
+	"content": ""
+},
+{
 	"uri": "/introduction/",
 	"title": "Introduction",
 	"tags": [],
 	"description": "Introduction",
 	"content": "OPRAmachine is an interactive web application designed to simplify the process of submitting a New Jersey Open Public Records Act (OPRA) request to state and local governmental agencies. OPRAmachine provides tracking functionality to ensure that your request is dealt with by public bodies in the time period prescribed by law. Each request that is made through the site is published on our website for all to see, allowing the entire public to benefit from each individual request that is made through the site.\n"
+},
+{
+	"uri": "/request-templates/",
+	"title": "OPRA Request Templates",
+	"tags": [],
+	"description": "Boilerplate language to request specific types of documents",
+	"content": ""
 },
 {
 	"uri": "/",
@@ -43,20 +57,6 @@
 },
 {
 	"uri": "/policies-and-procedures/",
-	"title": "Policies and Procedures",
-	"tags": [],
-	"description": "Policies and Procedures that govern OPRAmachine site operations",
-	"content": ""
-},
-{
-	"uri": "/request-templates/emails/",
-	"title": "Policies and Procedures",
-	"tags": [],
-	"description": "Policies and Procedures that govern OPRAmachine site operations",
-	"content": ""
-},
-{
-	"uri": "/request-templates/",
 	"title": "Policies and Procedures",
 	"tags": [],
 	"description": "Policies and Procedures that govern OPRAmachine site operations",
