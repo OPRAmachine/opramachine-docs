@@ -14,6 +14,20 @@
 	"content": "OPRAmachine Documentation\n"
 },
 {
+	"uri": "/_footer/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Copyright \u0026copy; 2017 Rozzi Media Group. By contributing changes to this documentation through Github you grant Rozzi Media Group a license to re-use your content.\n"
+},
+{
+	"uri": "/opra-request-templates/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "We offer several different types of templates for requests on OPRAmachine.\n"
+},
+{
 	"uri": "/categories/",
 	"title": "Categories",
 	"tags": [],

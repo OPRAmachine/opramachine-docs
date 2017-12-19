@@ -13,6 +13,14 @@
   </url>
   
   <url>
+    <loc>/_footer/</loc>
+  </url>
+  
+  <url>
+    <loc>/opra-request-templates/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
