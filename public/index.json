@@ -119,6 +119,20 @@
 	"content": "By default, users of OPRAmachine are limited to 6 requests per day. This limit on the number of OPRA requests that may be submitted by user accounts is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.\nWe recognize that some users may need to make more than this amount of requests per day. Therefore, if you contact us and provide justification as to why you would like us to lift the limit, we will consider increasing the amount of requests you are allowed to send per day at our discretion. We will be more likely to grant your request if your account has a history of making high-quality past requests.\n"
 },
 {
+	"uri": "/responding-to-requests-for-custodians/email/",
+	"title": "Responding via Email",
+	"tags": [],
+	"description": "How to respond to an OPRAmachine request via email",
+	"content": "You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email.\n"
+},
+{
+	"uri": "/responding-to-requests-for-custodians/direct/",
+	"title": "Responding via the Web",
+	"tags": [],
+	"description": "How to respond to an OPRAmachine request directly on its web page",
+	"content": "If you would prefer to respond to an OPRAmachine request directly from your web browser, you can do so without having to bother with email. Please note that this method of responding will require you to register for an account with the OPRAmachine website using your government email address.\n"
+},
+{
 	"uri": "/request-templates/legal-documents/settlements/",
 	"title": "Settlement Agreements",
 	"tags": [],
@@ -222,6 +236,13 @@
 	"tags": [],
 	"description": "Policies and Procedures that govern OPRAmachine site operations",
 	"content": ""
+},
+{
+	"uri": "/responding-to-requests-for-custodians/",
+	"title": "Responding to Requests",
+	"tags": [],
+	"description": "How to respond to requests on OPRAmachine",
+	"content": "Responding to requests made via OPRAmachine is simple and designed for both the convenience of the requester and the custodian of records. This section of the documentation will fully explain the process of responding to a request.\n"
 },
 {
 	"uri": "/site-administration/",
