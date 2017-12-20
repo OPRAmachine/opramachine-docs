@@ -21,6 +21,13 @@
 	"content": "Since the New Jersey Supreme Court\u0026rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.\nEmail logs consist of the metadata associated with a public employee\u0026rsquo;s email account. They are almost like a snapshot of the account\u0026rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee\u0026rsquo;s email account.\nEmail logs can reveal who a public official is talking to and what they are saying. That\u0026rsquo;s why they are a powerful tool for journalists and the public.\n"
 },
 {
+	"uri": "/site-administration/reactive/",
+	"title": "Reactive Moderation Principles",
+	"tags": [],
+	"description": "How we moderate",
+	"content": "To maximize the freedom of users to engage with our site, we moderate its content reactively. This means that we generally wait until an issue is brought to our attention to take action. Members of the site administration team are expected to adhere to this principle. The goal of the site administration should be to only intervene in cases in which it is warranted, and get out of the way as much as possible in order to ensure a positive user experience.\n"
+},
+{
 	"uri": "/making-requests/types/",
 	"title": "Types of Records You Can Request",
 	"tags": [],
