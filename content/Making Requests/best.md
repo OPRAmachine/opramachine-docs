@@ -16,3 +16,5 @@ lastmodifieremail = "gr@gavinrozzi.com"
 
 Keep your request concise.
 Be as specific as possible. Try and identify specific documents and use narrow date ranges. This helps the custodian to quickly locate the public records that are responsive to your request, and helps you avoid being charged special service fees due to the time required to fulfill your request, such as if it is exceedingly voluminous.
+
+Don't use overbroad language in your request. For example, requests that seek information and not specifically identifiable government records, and requests seeking "any and all records" will likely be denied as invalid under OPRA.
