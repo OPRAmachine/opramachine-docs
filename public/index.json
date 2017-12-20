@@ -21,6 +21,13 @@
 	"content": "We have a code of conduct that governs user behavior on the OPRAmachine website, including the content of OPRA requests, annotations, and comment in our sponsored Facebook groups and pages. The purpose of this code of conduct is to maximize the ability of users to engage in a robust, wide open debate on matters of public concern, while also ensuring that the site administration can preserve the OPRAmachine community by moderating content that is contrary to the values expressed in this Code of Conduct.\n"
 },
 {
+	"uri": "/request-templates/legal-documents/complaints/",
+	"title": "Complaints",
+	"tags": [],
+	"description": "Obtaining complaints",
+	"content": "The complaint is the first document that is filed in a lawsuit. It is a summary of the factual and legal allegations that give rise to the lawsuit.\n"
+},
+{
 	"uri": "/policies-and-procedures/content-removal/",
 	"title": "Content Removal",
 	"tags": [],
@@ -49,6 +56,13 @@
 	"content": "Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any proider, including throwaway / mailinator type services.\nThis policy is in place so that we can represent to public authorities that the OPRA requests submitted through the OPRAmachine website are submitted by real persons and not computer spam programs. This also serves to increase our sending reputation with email providers by preventing any spam and having mechanisms in place to limit its reach.\n"
 },
 {
+	"uri": "/request-templates/legal-documents/motions/",
+	"title": "Motion Papers",
+	"tags": [],
+	"description": "Obtaining motion papers in civil litigation using OPRA",
+	"content": "Motion papers are filed during the case and can take a variety of forms. The common thread of all motion papers is that they are requesting that the court do something, such as compel depositions, or a motion requesting that a lawsuit be dismissed.\nRequesting motion documents can be useful if you are attempting to follow a case as it is making its way through the system, typically during the pretrial phase of the case.\n"
+},
+{
 	"uri": "/request-templates/police-records/mva-reports/",
 	"title": "Motor Vehicle Accident Reports",
 	"tags": [],
@@ -68,6 +82,13 @@
 	"tags": [],
 	"description": "Our policy on rate limiting requests",
 	"content": "By default, users of OPRAmachine are limited to 6 requests per day. This limit on the number of OPRA requests that may be submitted by user accounts is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.\nWe recognize that some users may need to make more than this amount of requests per day. Therefore, if you contact us and provide justification as to why you would like us to lift the limit, we will consider increasing the amount of requests you are allowed to send per day at our discretion. We will be more likely to grant your request if your account has a history of making high-quality past requests.\n"
+},
+{
+	"uri": "/request-templates/legal-documents/settlements/",
+	"title": "Settlement Agreements",
+	"tags": [],
+	"description": "Civil Settlement Agreements",
+	"content": "When a lawsuit is settled against a public agency, the terms of the settlement are memorialized as a settlement agreement. The settlement agreement recites some basic facts about the procedural history of a lawsuit before outlining the terms of the settlement. Typically, the plaintiff (the person who filed the lawsuit) is paid a sum of money to withdraw their litigation without the public body admitting any liability.\nSettlement agreements can be a useful tool for learning about the outcomes of litigation. Oftentimes, they are the only way of conclusively learning the end outcome of litigation against public bodies, as many times the settlement agreements will contain a confidentiality clause the prevents either the public body or the individual that sued them from speaking publicly about the events that gave rise to the litigation and settlement agreement, but courts have held that this confidentiality provision does not outweigh the public\u0026rsquo;s right to obtain a copy of the settlement agreement under OPRA\n"
 },
 {
 	"uri": "/making-requests/types/",
@@ -103,6 +124,13 @@
 	"tags": [],
 	"description": "Introduction",
 	"content": "OPRAmachine is an interactive web application designed to simplify the process of submitting a New Jersey Open Public Records Act (OPRA) request to state and local governmental agencies. OPRAmachine provides tracking functionality to ensure that your request is dealt with by public bodies in the time period prescribed by law. Each request that is made through the site is published on our website for all to see, allowing the entire public to benefit from each individual request that is made through the site.\n"
+},
+{
+	"uri": "/request-templates/legal-documents/",
+	"title": "Legal Documents",
+	"tags": [],
+	"description": "You can obtain legal documents using OPRA",
+	"content": "You can obtain legal documents that are served on, or filed on behalf of government agencies in state or federal court. Obtaining legal documents under OPRA is often more convenient and cheaper, as it allows you to avoid having to make your request to courts outside of OPRA where you will likely be charged fees and face longer wait times.\n"
 },
 {
 	"uri": "/making-requests/",

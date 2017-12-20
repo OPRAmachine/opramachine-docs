@@ -40,6 +40,15 @@ Requesting CAD reports can allow you to get an idea of the types of police, fire
     </item>
     
     <item>
+      <title>Complaints</title>
+      <link>/request-templates/legal-documents/complaints/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/legal-documents/complaints/</guid>
+      <description>The complaint is the first document that is filed in a lawsuit. It is a summary of the factual and legal allegations that give rise to the lawsuit.</description>
+    </item>
+    
+    <item>
       <title>Content Removal</title>
       <link>/policies-and-procedures/content-removal/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -79,6 +88,16 @@ This policy is in place so that we can represent to public authorities that the 
     </item>
     
     <item>
+      <title>Motion Papers</title>
+      <link>/request-templates/legal-documents/motions/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/legal-documents/motions/</guid>
+      <description>Motion papers are filed during the case and can take a variety of forms. The common thread of all motion papers is that they are requesting that the court do something, such as compel depositions, or a motion requesting that a lawsuit be dismissed.
+Requesting motion documents can be useful if you are attempting to follow a case as it is making its way through the system, typically during the pretrial phase of the case.</description>
+    </item>
+    
+    <item>
       <title>Motor Vehicle Accident Reports</title>
       <link>/request-templates/police-records/mva-reports/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -104,6 +123,16 @@ This policy is in place so that we can represent to public authorities that the 
       <guid>/policies-and-procedures/request-limits/</guid>
       <description>By default, users of OPRAmachine are limited to 6 requests per day. This limit on the number of OPRA requests that may be submitted by user accounts is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.
 We recognize that some users may need to make more than this amount of requests per day. Therefore, if you contact us and provide justification as to why you would like us to lift the limit, we will consider increasing the amount of requests you are allowed to send per day at our discretion.</description>
+    </item>
+    
+    <item>
+      <title>Settlement Agreements</title>
+      <link>/request-templates/legal-documents/settlements/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/legal-documents/settlements/</guid>
+      <description>When a lawsuit is settled against a public agency, the terms of the settlement are memorialized as a settlement agreement. The settlement agreement recites some basic facts about the procedural history of a lawsuit before outlining the terms of the settlement. Typically, the plaintiff (the person who filed the lawsuit) is paid a sum of money to withdraw their litigation without the public body admitting any liability.
+Settlement agreements can be a useful tool for learning about the outcomes of litigation.</description>
     </item>
     
     <item>
