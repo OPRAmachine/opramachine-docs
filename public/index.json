@@ -189,13 +189,6 @@
 	"content": "When a lawsuit is settled against a public agency, the terms of the settlement are memorialized as a settlement agreement. The settlement agreement recites some basic facts about the procedural history of a lawsuit before outlining the terms of the settlement. Typically, the plaintiff (the person who filed the lawsuit) is paid a sum of money to withdraw their litigation without the public body admitting any liability.\nSettlement agreements can be a useful tool for learning about the outcomes of litigation. Oftentimes, they are the only way of conclusively learning the end outcome of litigation against public bodies, as many times the settlement agreements will contain a confidentiality clause the prevents either the public body or the individual that sued them from speaking publicly about the events that gave rise to the litigation and settlement agreement, but courts have held that this confidentiality provision does not outweigh the public\u0026rsquo;s right to obtain a copy of the settlement agreement under OPRA\n"
 },
 {
-	"uri": "/making-requests/types/",
-	"title": "Types of Records You Can Request",
-	"tags": [],
-	"description": "The types of records you can request using OPRAmachine",
-	"content": "The emails sent by public officials relating to government business, whether sent on their personal or official accounts, are obtainable by the public under OPRA.\n"
-},
-{
 	"uri": "/request-templates/police-records/uof/",
 	"title": "Use of Force Reports",
 	"tags": [],
@@ -267,7 +260,7 @@
 },
 {
 	"uri": "/request-templates/",
-	"title": "OPRA Request Templates",
+	"title": "OPRA Request Examples",
 	"tags": [],
 	"description": "Boilerplate language to request specific types of documents",
 	"content": "You can use the boilerplate language featured in this section of the documentation in order to formulate your next OPRA request. Simply copy and paste the template into a new request to your chosen public authority on OPRAmachine in order to request the records covered by your template. Be sure to customize the base language of the template to include the date range / locality of the records that you are interested in obtaining.\n"
