@@ -14,9 +14,9 @@ lastmodifierdisplayname = "Gavin Rozzi"
 lastmodifieremail = "gr@gavinrozzi.com"
 +++
 
-The OPRAmachine site administration will endeavor to remove site content in legitimate instances where private identifying information , such as social security numbers and dates of birth,
+The OPRAmachine site administration will endeavor to remove site content in legitimate instances where private identifying information , such as social security numbers and dates of birth. Generally, we will require a showing of material and substantial harm to an individual that would come as a result of the continued publication of information on OPRAmachine.
 
-Remove of content is an extraordinary remedy. The OPRAmachine site administration intends for the site to further governmental transparency and openness. We believe that the transparency provided by the site, including the publication of request and responses provides a public service. We will therefore only remove content when exceedingly persuasive justification is provided that the content's publication will directly and substantially injure a private citizen.
+Removal of content from the publicly visible website and database of request is an extraordinary remedy that will only be deployed on a case by case basis based upon the totality of the circumstances and any mitigating factors - not solely along bright line criteria. Site administration intends for OPRAmachine to further governmental transparency and openness. We believe that the transparency provided by the site, including the publication of request and responses provides a public service. We will therefore only remove content when exceedingly persuasive justification is provided that the content's publication will directly and substantially injure a private citizen.
 
 # Types of Content Subject To Removal
 
