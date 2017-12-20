@@ -5,7 +5,7 @@ date = "2017-04-24T18:36:24+02:00"
 
 +++
 
-# Welcome to the OPRAmachine Documentation
+# Welcome
 The OPRAmachine Documentation (docs.opramachine.com) is your destination for guides on how to make requests for public records under the New Jersey Open Public Records Act using the OPRAmachine web portal. Beginning in 2018, this documentation website will supersede the existing help material that is currently hosted at the existing OPRAmachine website.
 
  One of the reasons we have chose to migrate to this platform is the fact that this documentation is hosted on a separate server and content delivery network from the main OPRAmachine application and it will not be impacted by server outages or maintenance issues. The OPRAmachine administration aims to communicate site technical issues both on this platform and on the OPRAmachine blog (blog.opramachine.com).
