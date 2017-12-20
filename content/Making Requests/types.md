@@ -13,3 +13,5 @@ lastmodifierdisplayname = "Gavin Rozzi"
 # LastModifier's Email
 lastmodifieremail = "gr@gavinrozzi.com"
 +++
+
+The emails sent by public officials relating to government business, whether sent on their personal or official accounts, are obtainable by the public under OPRA.
