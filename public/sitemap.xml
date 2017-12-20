@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>/tracking-requests/email-alerts/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/request-templates/emails/bodies/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
@@ -64,6 +69,11 @@
   
   <url>
     <loc>/request-templates/police-records/internal-affairs/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracking-requests/using-data-feeds/json/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -89,6 +99,11 @@
   
   <url>
     <loc>/request-templates/financial-records/public-employee-salaries/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracking-requests/using-data-feeds/rss/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -173,6 +188,11 @@
   </url>
   
   <url>
+    <loc>/tracking-requests/using-data-feeds/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/request-templates/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
@@ -199,6 +219,11 @@
   
   <url>
     <loc>/site-administration/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracking-requests/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   

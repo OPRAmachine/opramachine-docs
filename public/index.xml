@@ -95,6 +95,15 @@ Requesting CAD reports can allow you to get an idea of the types of police, fire
     </item>
     
     <item>
+      <title>Email Alerts</title>
+      <link>/tracking-requests/email-alerts/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/tracking-requests/email-alerts/</guid>
+      <description>Our email alerts feature allows you to receive an email notification every time there is new activity related to the requests, public bodies or users that you follow on OPRAmachine. It is the simplest way to begin tracking OPRA requests. You can track requests made through the site without requiring you to publicly file requests under your real name, so if having your identity exposed is a concern preventing you from making a request, email alerts allow you to directly benefit from the information obtained by other people&amp;rsquo;s requests made on the OPRAmachine platform.</description>
+    </item>
+    
+    <item>
       <title>Email Bodies</title>
       <link>/request-templates/emails/bodies/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -131,6 +140,15 @@ This policy is in place so that we can represent to public authorities that the 
       
       <guid>/request-templates/police-records/internal-affairs/</guid>
       <description>The types of internal affairs records that the public can obtain under OPRA is limited to aggregate level summaries of cases that do not individually identify the officers that were involved in the case. Typically, the summary reports obtainable under OPRA will include a list of the types of cases and their disposition, such as whether the allegations were sustained or not.</description>
+    </item>
+    
+    <item>
+      <title>JSON Data Feeds</title>
+      <link>/tracking-requests/using-data-feeds/json/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/tracking-requests/using-data-feeds/json/</guid>
+      <description>You can get JSON-formatted data out of OPRAmachine by simply adding &amp;ldquo;.json&amp;rdquo; to the end of a URL.</description>
     </item>
     
     <item>
@@ -177,6 +195,16 @@ Requesting motion documents can be useful if you are attempting to follow a case
       
       <guid>/request-templates/financial-records/public-employee-salaries/</guid>
       <description>The Open Public Records Act provides that a requester can request that a governmental agency provide a list of all employees, including salary, job title, date of hire and reason for termination.</description>
+    </item>
+    
+    <item>
+      <title>RSS Feeds</title>
+      <link>/tracking-requests/using-data-feeds/rss/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/tracking-requests/using-data-feeds/rss/</guid>
+      <description>You can use RSS feeds to obtain data on requests and responses sent via the OPRAmachine platform. On most URLs of the site, you can simply preface links with /feed/ in order to obtain an RSS feed for a particular public body, user or request.
+Local news websites have incorporated the RSS feeds by allowing their readers to view requests for a given government, such as a county or municipal government.</description>
     </item>
     
     <item>
