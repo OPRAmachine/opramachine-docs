@@ -15,3 +15,6 @@ lastmodifieremail = "gr@gavinrozzi.com"
 +++
 
 If you would prefer to respond to an OPRAmachine request directly from your web browser, you can do so without having to bother with email. Please note that this method of responding will require you to register for an account with the OPRAmachine website using your government email address.
+
+##Responding using the web interface
+To respond to a request directly from the OPRAmachine website, simply navigate to the request webpage using a web browser.

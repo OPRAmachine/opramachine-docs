@@ -169,8 +169,7 @@ Email logs consist of the metadata associated with a public employee&amp;rsquo;s
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
       <guid>/site-policies-and-procedures/email-verification/</guid>
-      <description>Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any proider, including throwaway / mailinator type services.
-This policy is in place so that we can represent to public authorities that the OPRA requests submitted through the OPRAmachine website are submitted by real persons and not computer spam programs.</description>
+      <description>Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any provider, including throwaway / mailinator type services that allow an individual to anonymously register for an email account.</description>
     </item>
     
     <item>
@@ -281,7 +280,7 @@ Local news websites have incorporated the RSS feeds by allowing their readers to
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
       <guid>/site-administration/reactive/</guid>
-      <description>To maximize the freedom of users to engage with our site, we moderate its content reactively. This means that we generally wait until an issue is brought to our attention to take action. Members of the site administration team are expected to adhere to this principle. The goal of the site administration should be to only intervene in cases in which it is warranted, and get out of the way as much as possible in order to ensure a positive user experience.</description>
+      <description>To maximize the freedom of users to engage with our site, we moderate its content reactively. This means that we generally wait until an issue is brought to our attention to take action. Unless the user has continuously violated our policies after being given a warning, we are extremely hesitant to intervene, in the interest of allowing the users of our platform to freely express themselves. Members of the site administration team are expected to adhere to this principle.</description>
     </item>
     
     <item>
@@ -300,7 +299,8 @@ We recognize that some users may need to make more than this amount of requests 
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
       <guid>/responding-to-requests/email/</guid>
-      <description>You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email.</description>
+      <description>##Reply to the request email You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email that you would receive from any other sender.
+Please note that the characters that appear before @requests.opramachine.com in the email addresses that send requests are used by the OPRAmachine software to categorize &amp;amp; track OPRA requests.</description>
     </item>
     
     <item>
@@ -309,7 +309,8 @@ We recognize that some users may need to make more than this amount of requests 
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
       <guid>/responding-to-requests/direct/</guid>
-      <description>If you would prefer to respond to an OPRAmachine request directly from your web browser, you can do so without having to bother with email. Please note that this method of responding will require you to register for an account with the OPRAmachine website using your government email address.</description>
+      <description>If you would prefer to respond to an OPRAmachine request directly from your web browser, you can do so without having to bother with email. Please note that this method of responding will require you to register for an account with the OPRAmachine website using your government email address.
+##Responding using the web interface To respond to a request directly from the OPRAmachine website, simply navigate to the request webpage using a web browser.</description>
     </item>
     
     <item>
@@ -343,12 +344,32 @@ Jeff Epstein Jeff Epstein serves as one of OPRAmachine&amp;rsquo;s administrator
     </item>
     
     <item>
+      <title>Spam</title>
+      <link>/site-policies-and-procedures/spam/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-policies-and-procedures/spam/</guid>
+      <description>The OPRAmachine team takes our responsibility to prevent our platform from propagating internet spam seriously. User accounts that post spam links in the comment section, annotations, requests or any other area of our web properties risk immediate suspension using OPRAmachine web services.</description>
+    </item>
+    
+    <item>
       <title>Summonses &amp; Charging Documents</title>
       <link>/request-examples/police-records/summonses/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
       <guid>/request-examples/police-records/summonses/</guid>
       <description>You can obtain copies of summonses for ordinance, municipal code or traffic violations issued by local police departments under OPRA. Be as specific as you can when describing the incident. Name the location, parties involved, and nature of the charges, if known in order to help the department identify and locate records that are responsive to your request.</description>
+    </item>
+    
+    <item>
+      <title>Terms of Service</title>
+      <link>/site-policies-and-procedures/terms/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-policies-and-procedures/terms/</guid>
+      <description>These are the official terms of service that govern your usage of the OPRAmachine website. Please read these terms carefully as you agree to them in consideration of making continued use of the OPRAmachine web application and affiliated online properties.
+##No Warranty The OPRAmachine service is offered free of charge. We offer no warranty and do not represent that product is merchantable or fit for any specific commercial purpose.
+##Service Availability We make no guarantee as to the availability of the service.</description>
     </item>
     
     <item>
