@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Body Cam Footage</title>
+      <link>/request-templates/police-records/bodycam/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/police-records/bodycam/</guid>
+      <description>Police body camera footage can be obtained under OPRA, however a special concern associated with it will inevitably be the large size of video files. For that reason, the video files produced by the body cameras are often too large to email. Police departments may request that you pay a fee to have the video burned onto a disc or loaded onto a USB flash drive. Keep this in mind when requesting body camera footage of specific incidents.</description>
+    </item>
+    
+    <item>
       <title>CAD Reports</title>
       <link>/request-templates/police-records/cad-reports/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -41,10 +50,10 @@ Requesting CAD reports can allow you to get an idea of the types of police, fire
     
     <item>
       <title>Code of Conduct</title>
-      <link>/policies-and-procedures/code-of-conduct/</link>
+      <link>/site-policies-and-procedures/code-of-conduct/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
-      <guid>/policies-and-procedures/code-of-conduct/</guid>
+      <guid>/site-policies-and-procedures/code-of-conduct/</guid>
       <description>We have a code of conduct that governs user behavior on the OPRAmachine website, including the content of OPRA requests, annotations, and comment in our sponsored Facebook groups and pages. The purpose of this code of conduct is to maximize the ability of users to engage in a robust, wide open debate on matters of public concern, while also ensuring that the site administration can preserve the OPRAmachine community by moderating content that is contrary to the values expressed in this Code of Conduct.</description>
     </item>
     
@@ -68,10 +77,10 @@ Requesting CAD reports can allow you to get an idea of the types of police, fire
     
     <item>
       <title>Content Removal</title>
-      <link>/policies-and-procedures/content-removal/</link>
+      <link>/site-policies-and-procedures/content-removal/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
-      <guid>/policies-and-procedures/content-removal/</guid>
+      <guid>/site-policies-and-procedures/content-removal/</guid>
       <description>The OPRAmachine site administration will endeavor to remove site content in legitimate instances where private identifying information, such as social security numbers and dates of birth are disclosed by way of the government documents published in the course of the site&amp;rsquo;s operation. Generally, we will require a showing of material and substantial harm to an individual that would come as a result of the continued publication of information on OPRAmachine.</description>
     </item>
     
@@ -97,10 +106,10 @@ Email logs consist of the metadata associated with a public employee&amp;rsquo;s
     
     <item>
       <title>Email Verification</title>
-      <link>/policies-and-procedures/email-verification/</link>
+      <link>/site-policies-and-procedures/email-verification/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
-      <guid>/policies-and-procedures/email-verification/</guid>
+      <guid>/site-policies-and-procedures/email-verification/</guid>
       <description>Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any proider, including throwaway / mailinator type services.
 This policy is in place so that we can represent to public authorities that the OPRA requests submitted through the OPRAmachine website are submitted by real persons and not computer spam programs.</description>
     </item>
@@ -112,6 +121,15 @@ This policy is in place so that we can represent to public authorities that the 
       
       <guid>/request-templates/police-records/internal-affairs/</guid>
       <description>The types of internal affairs records that the public can obtain under OPRA is limited to aggregate level summaries of cases that do not individually identify the officers that were involved in the case. Typically, the summary reports obtainable under OPRA will include a list of the types of cases and their disposition, such as whether the allegations were sustained or not.</description>
+    </item>
+    
+    <item>
+      <title>Local Finance Board Case Rosters</title>
+      <link>/request-templates/ethics/lfb/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/ethics/lfb/</guid>
+      <description>The state Local Finance Board holds jurisdiction over state ethics matters such as the filing of financial disclosure forms by local public officials. They maintain a roster in the form of an Excel spreadsheet that lists ethics cases against local public officials that are adjudicated by the board.</description>
     </item>
     
     <item>
@@ -162,10 +180,10 @@ Requesting motion documents can be useful if you are attempting to follow a case
     
     <item>
       <title>Request Limits</title>
-      <link>/policies-and-procedures/request-limits/</link>
+      <link>/site-policies-and-procedures/request-limits/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
-      <guid>/policies-and-procedures/request-limits/</guid>
+      <guid>/site-policies-and-procedures/request-limits/</guid>
       <description>By default, users of OPRAmachine are limited to 6 requests per day. This limit on the number of OPRA requests that may be submitted by user accounts is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.
 We recognize that some users may need to make more than this amount of requests per day. Therefore, if you contact us and provide justification as to why you would like us to lift the limit, we will consider increasing the amount of requests you are allowed to send per day at our discretion.</description>
     </item>
@@ -186,6 +204,15 @@ We recognize that some users may need to make more than this amount of requests 
       
       <guid>/responding-to-requests-for-custodians/direct/</guid>
       <description>If you would prefer to respond to an OPRAmachine request directly from your web browser, you can do so without having to bother with email. Please note that this method of responding will require you to register for an account with the OPRAmachine website using your government email address.</description>
+    </item>
+    
+    <item>
+      <title>School Ethics Information</title>
+      <link>/request-templates/ethics/schoolethics/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/ethics/schoolethics/</guid>
+      <description>Before you file a request for records related to a school ethics matter, be sure to first check the website of the state School Ethics Commission. The commission regularly publishes PDF versions of their rulings in schools ethics complaints filed against school members.</description>
     </item>
     
     <item>
@@ -228,10 +255,10 @@ Example successful requests for use of force reports</description>
     
     <item>
       <title>Vexatious Requests</title>
-      <link>/policies-and-procedures/vexatious/</link>
+      <link>/site-policies-and-procedures/vexatious/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
-      <guid>/policies-and-procedures/vexatious/</guid>
+      <guid>/site-policies-and-procedures/vexatious/</guid>
       <description>Requests that are filed solely to harass governmental agencies (vexatious requests) are strictly prohibited and will not be tolerated on the OPRAmachine service. The OPRAmachine site administration does not condone the contents of any OPRA request.
 The OPRAmachine site administration reserves the sole right to determine whether or not a request was vexatious, and we may wait to take action against a vexatious requester until the requester was provided an opportunity to be heard and / or an opportunity to correct or abate the vexatious requests.</description>
     </item>

@@ -13,12 +13,17 @@
   </url>
   
   <url>
+    <loc>/request-templates/police-records/bodycam/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/request-templates/police-records/cad-reports/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/policies-and-procedures/code-of-conduct/</loc>
+    <loc>/site-policies-and-procedures/code-of-conduct/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -33,7 +38,7 @@
   </url>
   
   <url>
-    <loc>/policies-and-procedures/content-removal/</loc>
+    <loc>/site-policies-and-procedures/content-removal/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -48,12 +53,17 @@
   </url>
   
   <url>
-    <loc>/policies-and-procedures/email-verification/</loc>
+    <loc>/site-policies-and-procedures/email-verification/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
     <loc>/request-templates/police-records/internal-affairs/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/ethics/lfb/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -83,7 +93,7 @@
   </url>
   
   <url>
-    <loc>/policies-and-procedures/request-limits/</loc>
+    <loc>/site-policies-and-procedures/request-limits/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -94,6 +104,11 @@
   
   <url>
     <loc>/responding-to-requests-for-custodians/direct/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/ethics/schoolethics/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -118,7 +133,7 @@
   </url>
   
   <url>
-    <loc>/policies-and-procedures/vexatious/</loc>
+    <loc>/site-policies-and-procedures/vexatious/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -168,7 +183,7 @@
   </url>
   
   <url>
-    <loc>/policies-and-procedures/</loc>
+    <loc>/site-policies-and-procedures/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
