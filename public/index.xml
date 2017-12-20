@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>CAD Reports</title>
+      <link>/request-templates/police-records/cad-reports/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/police-records/cad-reports/</guid>
+      <description>Almost every police department currently makes use of a Computer Aided Dispatch (CAD) system. CAD allows police departments to effectively store data about calls for service and the status of officers in the field. It allows law enforcement officers to quickly obtain the information that they need to accomplish their jobs, as well as assisting dispatchers with the logistics of their operations.
+Requesting CAD reports can allow you to get an idea of the types of police, fire &amp;amp; EMS calls for service at a given address for a period of time.</description>
+    </item>
+    
+    <item>
       <title>Code of Conduct</title>
       <link>/policies-and-procedures/code-of-conduct/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -39,11 +49,21 @@
     </item>
     
     <item>
-      <title>Email Logs</title>
-      <link>/request-templates/emails/emaillogs/</link>
+      <title>Email Bodies</title>
+      <link>/request-templates/emails/bodies/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
-      <guid>/request-templates/emails/emaillogs/</guid>
+      <guid>/request-templates/emails/bodies/</guid>
+      <description>The bodies of email messages often reveal the most detail for a given piece of correspondence, yet getting them can often be difficult. In order to obtain the bodies of email, statutory and case law has required that requesters be specific as to the source of the emails (either sender of recipient), as well as the date range and subject matter.
+Oftentimes, a strategy that can be employed by requesters to obtain the bodies of email messages would be to first file an OPRA request for copies of the email logs for a public employee&amp;rsquo;s email account during the date range in question.</description>
+    </item>
+    
+    <item>
+      <title>Email Logs</title>
+      <link>/request-templates/emails/email-logs/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/emails/email-logs/</guid>
       <description>Since the New Jersey Supreme Court&amp;rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.
 Email logs consist of the metadata associated with a public employee&amp;rsquo;s email account. They are almost like a snapshot of the account&amp;rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee&amp;rsquo;s email account.</description>
     </item>
@@ -56,6 +76,15 @@ Email logs consist of the metadata associated with a public employee&amp;rsquo;s
       <guid>/policies-and-procedures/email-verification/</guid>
       <description>Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any proider, including throwaway / mailinator type services.
 This policy is in place so that we can represent to public authorities that the OPRA requests submitted through the OPRAmachine website are submitted by real persons and not computer spam programs.</description>
+    </item>
+    
+    <item>
+      <title>Motor Vehicle Accident Reports</title>
+      <link>/request-templates/police-records/mva-reports/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/police-records/mva-reports/</guid>
+      <description>Reports completed by police departments investigating motor vehicle accidents are obtainable under OPRA. Often, companies will file requests seeking copies of all motor vehicle accident reports for a given period of time. Police typically provide the reports in full, while redacting some sensitive personal information, such as drivers license numbers and insurance policy numbers.</description>
     </item>
     
     <item>

@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/request-templates/police-records/cad-reports/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/policies-and-procedures/code-of-conduct/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
@@ -18,12 +23,22 @@
   </url>
   
   <url>
-    <loc>/request-templates/emails/emaillogs/</loc>
+    <loc>/request-templates/emails/bodies/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/emails/email-logs/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
     <loc>/policies-and-procedures/email-verification/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/police-records/mva-reports/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
