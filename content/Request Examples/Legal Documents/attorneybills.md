@@ -14,6 +14,10 @@ lastmodifierdisplayname = "Gavin Rozzi"
 lastmodifieremail = "gr@gavinrozzi.com"
 +++
 
+{{% notice info %}}
+Warning: If you request several months worth of legal bills with detail billing, you may get hit with a "special service" fee for the labor required to make the redactions. Consider breaking requests for these records into smaller requests.
+{{% /notice %}}
+
 Governments hire attorneys for all for all sorts of legal matters. In many instances, a local government may end up hiring several law firms, with each firm covering a certain area of expertise. In many municipalities it's not unusual to have separate attorneys for general legal matters, collective bargaining & labor relations and another for land use matters.
 
 You can get an idea of what kinds of work a law firm is doing for a government agency by requesting copies of legal bills. If you are simply looking to get the amounts of money that are being paid to a certain law firm each month, a vendor history report would probably do the job instead.
