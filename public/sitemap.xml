@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/request-templates/police-records/911/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/making-requests/batch-requests/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>

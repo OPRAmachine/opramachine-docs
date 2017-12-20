@@ -1,5 +1,12 @@
 [
 {
+	"uri": "/request-templates/police-records/911/",
+	"title": "911 Tapes",
+	"tags": [],
+	"description": "Obtaining 911 tapes",
+	"content": "You can request 911 tapes under OPRA. Typically county sheriff\u0026rsquo;s departments or public safety departments would have custody of these recordings. For recordings of phone calls of municipal police departments, you should file your request with that department\u0026rsquo;s custodian of records.\n"
+},
+{
 	"uri": "/making-requests/batch-requests/",
 	"title": "Batch Requests",
 	"tags": [],
