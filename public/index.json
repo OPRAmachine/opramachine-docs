@@ -224,6 +224,13 @@
 	"content": "Contracts are one of the essential instruments of government business. Contracts are executed at governing body and board meetings on a routine basis, and cover things such as the awarding of competitive bids, collective bargaining and the hiring and firing of rank-and-file government employees and department heads.\n"
 },
 {
+	"uri": "/making-requests/tracking-requests/using-data-feeds/",
+	"title": "Data Feeds",
+	"tags": [],
+	"description": "Using OPRAmachine data feeds",
+	"content": "You can use the data feeds that are produced by OPRAmachine on your own website or in your own projects - it\u0026rsquo;s simple!\n"
+},
+{
 	"uri": "/request-templates/emails/",
 	"title": "Emails",
 	"tags": [],
@@ -250,13 +257,6 @@
 	"tags": [],
 	"description": "You can obtain legal documents using OPRA",
 	"content": "You can obtain legal documents that are served on, or filed on behalf of government agencies in state or federal court. Obtaining legal documents under OPRA is often more convenient and cheaper, as it allows you to avoid having to make your request to courts outside of OPRA where you will likely be charged fees and face longer wait times.\n"
-},
-{
-	"uri": "/making-requests/tracking-requests/using-data-feeds/",
-	"title": "Making Requests",
-	"tags": [],
-	"description": "Making requests using OPRAmachine",
-	"content": "Making requests with OPRAmachine is easy.\nStart by selecting the public authority you would like to send your OPRA request to. Please note that only New Jersey state and local governmental agencies are subject to the Open Public Records Act and its restrictions. The New Jersey Judiciary and Legislature are both exempt from OPRA, so any requests to those entities made under the law would be invalid.\nFederal agencies, such as the FBI or DHS are not subject to OPRA. Their records can instead be accessed under the federal Freedom of Information Act (FOIA). OPRAmachine currently only supports requests made under OPRA. A future website may be added that supports making FOIA requests using a similar interface.\n"
 },
 {
 	"uri": "/making-requests/",
