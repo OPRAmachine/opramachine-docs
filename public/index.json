@@ -7,6 +7,13 @@
 	"content": "Keep your request concise. Be as specific as possible. Try and identify specific documents and use narrow date ranges. This helps the custodian to quickly locate the public records that are responsive to your request, and helps you avoid being charged special service fees due to the time required to fulfill your request, such as if it is exceedingly voluminous.\n"
 },
 {
+	"uri": "/policies-and-procedures/code-of-conduct/",
+	"title": "Code of Conduct",
+	"tags": [],
+	"description": "Code of Conduct for site users &amp; administrators",
+	"content": "We have a code of conduct that governs user behavior on the OPRAmachine website, including the content of OPRA requests, annotations, and comment in our sponsored Facebook groups and pages. The purpose of this code of conduct is to maximize the ability of users to engage in a robust, wide open debate on matters of public concern, while also ensuring that the site administration can preserve the OPRAmachine community by moderating content that is contrary to the values expressed in this Code of Conduct.\n"
+},
+{
 	"uri": "/policies-and-procedures/content-removal/",
 	"title": "Content Removal",
 	"tags": [],
@@ -21,6 +28,13 @@
 	"content": "Since the New Jersey Supreme Court\u0026rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.\nEmail logs consist of the metadata associated with a public employee\u0026rsquo;s email account. They are almost like a snapshot of the account\u0026rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee\u0026rsquo;s email account.\nEmail logs can reveal who a public official is talking to and what they are saying. That\u0026rsquo;s why they are a powerful tool for journalists and the public.\n"
 },
 {
+	"uri": "/policies-and-procedures/email-verification/",
+	"title": "Email Verification",
+	"tags": [],
+	"description": "Policy on verification of email addresses",
+	"content": "Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any proider, including throwaway / mailinator type services.\nThis policy is in place so that we can represent to public authorities that the OPRA requests submitted through the OPRAmachine website are submitted by real persons and not computer spam programs. This also serves to increase our sending reputation with email providers by preventing any spam and having mechanisms in place to limit its reach.\n"
+},
+{
 	"uri": "/site-administration/reactive/",
 	"title": "Reactive Moderation Principles",
 	"tags": [],
@@ -32,7 +46,7 @@
 	"title": "Request Limits",
 	"tags": [],
 	"description": "Our policy on rate limiting requests",
-	"content": "By default, users of OPRAmachine are limited to 6 requests per day. This list is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.\nWe recognize that some users may need to make more than this amount of requests per day. Therefore, if you contact us and provide justification as to why you would like us to lift the limit, we will consider increasing the amount of requests you are allowed to send per day at our discretion. We will be more likely to grant your request if your account has a history of making high-quality past requests.\n"
+	"content": "By default, users of OPRAmachine are limited to 6 requests per day. This limit on the number of OPRA requests that may be submitted by user accounts is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.\nWe recognize that some users may need to make more than this amount of requests per day. Therefore, if you contact us and provide justification as to why you would like us to lift the limit, we will consider increasing the amount of requests you are allowed to send per day at our discretion. We will be more likely to grant your request if your account has a history of making high-quality past requests.\n"
 },
 {
 	"uri": "/making-requests/types/",
@@ -46,7 +60,14 @@
 	"title": "Use of Force Reports",
 	"tags": [],
 	"description": "Use of Force Reports",
-	"content": "Police use of force reports can be\nExample successful requests for use of force reports\n"
+	"content": "Police use of force reports can be a great tool for understanding the types of incidents occurring where members of law enforcement indicated that they used force in order to establish compliance.\nExample successful requests for use of force reports\n"
+},
+{
+	"uri": "/request-templates/financial-records/vendor-history-reports/",
+	"title": "Vendor History Reports",
+	"tags": [],
+	"description": "How to request vendor history reports from New Jersey government",
+	"content": "Vendor history reports are printed reports generated from the procurement software utilized by government agencies. The reports show all of the amounts and payments of money remitted to vendors and contractors paid with taxpayer money. They can be useful for documenting how much money has been paid to professional services vendors retained by governments at the state and local level.\n"
 },
 {
 	"uri": "/request-templates/emails/",
@@ -74,7 +95,7 @@
 	"title": "OPRA Request Templates",
 	"tags": [],
 	"description": "Boilerplate language to request specific types of documents",
-	"content": ""
+	"content": "You can use the boilerplate language featured in this section of the documentation in order to formulate your next OPRA request. Simply copy and paste the template into a new request to your chosen public authority on OPRAmachine in order to request the records covered by your template. Be sure to customize the base language of the template to include the date range / locality of the records that you are interested in obtaining.\n"
 },
 {
 	"uri": "/",
@@ -117,13 +138,6 @@
 	"tags": [],
 	"description": "",
 	"content": "Copyright \u0026copy; 2017-18 Rozzi Media Group\n"
-},
-{
-	"uri": "/opra-request-templates/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": "We offer several different types of templates for requests on OPRAmachine.\n"
 },
 {
 	"uri": "/categories/",

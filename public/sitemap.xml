@@ -8,12 +8,22 @@
   </url>
   
   <url>
+    <loc>/policies-and-procedures/code-of-conduct/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/policies-and-procedures/content-removal/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
     <loc>/request-templates/emails/emaillogs/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/policies-and-procedures/email-verification/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -34,6 +44,11 @@
   
   <url>
     <loc>/request-templates/police-records/uof/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/financial-records/vendor-history-reports/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -84,10 +99,6 @@
   
   <url>
     <loc>/_footer/</loc>
-  </url>
-  
-  <url>
-    <loc>/opra-request-templates/</loc>
   </url>
   
   <url>

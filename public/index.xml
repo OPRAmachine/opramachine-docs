@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Code of Conduct</title>
+      <link>/policies-and-procedures/code-of-conduct/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/policies-and-procedures/code-of-conduct/</guid>
+      <description>We have a code of conduct that governs user behavior on the OPRAmachine website, including the content of OPRA requests, annotations, and comment in our sponsored Facebook groups and pages. The purpose of this code of conduct is to maximize the ability of users to engage in a robust, wide open debate on matters of public concern, while also ensuring that the site administration can preserve the OPRAmachine community by moderating content that is contrary to the values expressed in this Code of Conduct.</description>
+    </item>
+    
+    <item>
       <title>Content Removal</title>
       <link>/policies-and-procedures/content-removal/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -40,6 +49,16 @@ Email logs consist of the metadata associated with a public employee&amp;rsquo;s
     </item>
     
     <item>
+      <title>Email Verification</title>
+      <link>/policies-and-procedures/email-verification/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/policies-and-procedures/email-verification/</guid>
+      <description>Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any proider, including throwaway / mailinator type services.
+This policy is in place so that we can represent to public authorities that the OPRA requests submitted through the OPRAmachine website are submitted by real persons and not computer spam programs.</description>
+    </item>
+    
+    <item>
       <title>Reactive Moderation Principles</title>
       <link>/site-administration/reactive/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -54,7 +73,7 @@ Email logs consist of the metadata associated with a public employee&amp;rsquo;s
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
       <guid>/policies-and-procedures/request-limits/</guid>
-      <description>By default, users of OPRAmachine are limited to 6 requests per day. This list is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.
+      <description>By default, users of OPRAmachine are limited to 6 requests per day. This limit on the number of OPRA requests that may be submitted by user accounts is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.
 We recognize that some users may need to make more than this amount of requests per day. Therefore, if you contact us and provide justification as to why you would like us to lift the limit, we will consider increasing the amount of requests you are allowed to send per day at our discretion.</description>
     </item>
     
@@ -73,8 +92,17 @@ We recognize that some users may need to make more than this amount of requests 
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
       <guid>/request-templates/police-records/uof/</guid>
-      <description>Police use of force reports can be
+      <description>Police use of force reports can be a great tool for understanding the types of incidents occurring where members of law enforcement indicated that they used force in order to establish compliance.
 Example successful requests for use of force reports</description>
+    </item>
+    
+    <item>
+      <title>Vendor History Reports</title>
+      <link>/request-templates/financial-records/vendor-history-reports/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/request-templates/financial-records/vendor-history-reports/</guid>
+      <description>Vendor history reports are printed reports generated from the procurement software utilized by government agencies. The reports show all of the amounts and payments of money remitted to vendors and contractors paid with taxpayer money. They can be useful for documenting how much money has been paid to professional services vendors retained by governments at the state and local level.</description>
     </item>
     
     <item>
@@ -93,15 +121,6 @@ Example successful requests for use of force reports</description>
       
       <guid>/_footer/</guid>
       <description>Copyright &amp;copy; 2017-18 Rozzi Media Group</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/opra-request-templates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/opra-request-templates/</guid>
-      <description>We offer several different types of templates for requests on OPRAmachine.</description>
     </item>
     
   </channel>

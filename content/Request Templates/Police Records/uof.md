@@ -13,6 +13,6 @@ lastmodifierdisplayname = "Gavin Rozzi"
 # LastModifier's Email
 lastmodifieremail = "gr@gavinrozzi.com"
 +++
-Police use of force reports can be
+Police use of force reports can be a great tool for understanding the types of incidents occurring where members of law enforcement indicated that they used force in order to establish compliance. 
 
 Example successful requests for use of force reports
