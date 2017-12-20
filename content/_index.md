@@ -1,21 +1,26 @@
 +++
 title = "OPRAmachine Docs"
-description = "Providing information for users, records custodians and administrators of OPRAmachine.com"
+description = "Providing information for users and administrators of OPRAmachine.com"
 date = "2017-04-24T18:36:24+02:00"
 
 +++
 
-# Welcome
-The OPRAmachine Documentation (docs.opramachine.com) is your destination for guides on how to make requests for public records under the New Jersey Open Public Records Act using the OPRAmachine web portal. Beginning in 2018, this documentation website will supersede the existing help material that is currently hosted at the existing OPRAmachine website.
+## Welcome to the OPRAmachine documentation
+The OPRAmachine Documentation (docs.opramachine.com) is your destination for guides on how to make requests for public records under the New Jersey Open Public Records Act using the OPRAmachine web portal.
 
- One of the reasons we have chose to migrate to this platform is the fact that this documentation is hosted on a separate server and content delivery network from the main OPRAmachine application and it will not be impacted by server outages or maintenance issues. The OPRAmachine administration aims to communicate site technical issues both on this platform and on the OPRAmachine blog (blog.opramachine.com).
+Beginning in 2018, this documentation website will supersede the existing help material that is currently hosted at the existing OPRAmachine website. During the transitional period between the two platforms, both systems will remain operational.
 
-## Documentation website
-This current documentation has been statically generated with the Hugo static site generator with a simple command : `hugo -t docdock` -- the source code of this documentation is open source and [available here at GitHub {{%icon fa-github%}}](https://github.com/gavinrozzi/opramachine-docs/)
+One of the reasons we have chose to migrate to this platform for is the fact that this documentation is
+hosted on a separate server and content delivery network from the main OPRAmachine application and it will
+not be impacted by server outages or maintenance issues. Since the launch of OPRAmachine in October, 2017
+the site administration has received a number of inquiries from users of our platform. We hope that this
+documentation will help answer some of the questions that we have commonly received from requesters and
+records custodians. The OPRAmachine administration also aims to communicate site technical issues and
+outages both on this platform and on the OPRAmachine blog (blog.opramachine.com).
 
-## Contribute to this documentation
-Feel free to update this content, just click the **Edit this page** link displayed on top right of each page, and pullrequest it
+## Help make this documentation better
+Want to improve a page of this documentation? Feel free to update the content, just click the **Edit this page** link displayed on top right of each page, and submit a pull request with your changes.
 {{%alert%}}Your modification will be deployed automatically when merged.{{%/alert%}}
 
-## Your Feedback
+## Your feedback
 Please reach out to the documentation's editor, Gavin Rozzi, www.gavinrozzi.com with any feedback about this documentation. Feedback may also be submitted to any other member of the OPRAmachine team for their consideration. Issues may be submitted via Github to any of our website repositories.
