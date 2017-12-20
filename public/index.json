@@ -280,13 +280,6 @@
 	"content": ""
 },
 {
-	"uri": "/site-policies-and-procedures/",
-	"title": "Policies and Procedures",
-	"tags": [],
-	"description": "Policies and Procedures that govern OPRAmachine site operations",
-	"content": ""
-},
-{
 	"uri": "/responding-to-requests-records-custodians/",
 	"title": "Responding to Requests",
 	"tags": [],
@@ -299,6 +292,13 @@
 	"tags": [],
 	"description": "Information for OPRAmachine site administrators",
 	"content": "Please note that this section of the documentation is only intended for the site administration. This document is being made public as a part of our documentation in order to be transparent about how moderation and administration decisions are made for the site. Some of the contents of this documentation is being adopted from the Alaveteli site administration guide in order to provide a centralized repository for information to the volunteers that help run the site.\n"
+},
+{
+	"uri": "/site-policies-and-procedures/",
+	"title": "Site Policies and Procedures",
+	"tags": [],
+	"description": "Policies and Procedures that govern OPRAmachine site operations",
+	"content": ""
 },
 {
 	"uri": "/making-requests/tracking-requests/",
