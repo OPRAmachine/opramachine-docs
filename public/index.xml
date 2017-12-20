@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Batch Requests</title>
+      <link>/making-requests/batch-requests/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/making-requests/batch-requests/</guid>
+      <description>A batch request is the same OPRA request submitted to multiple governmental agencies at the same time. An individual may wish to submit this sort of request if they were doing comparative research about the differences between municipalities or counties or even particular public bodies.
+Due to spam concerns, the ability to submit batch requests is currently limited and requests to enable them are currently considered on a case-by-case basis. If you are interested in making use of batch requests, please contact us to discuss your needs.</description>
+    </item>
+    
+    <item>
       <title>Best Practices</title>
       <link>/making-requests/best/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -190,19 +200,19 @@ We recognize that some users may need to make more than this amount of requests 
     
     <item>
       <title>Responding via Email</title>
-      <link>/responding-to-requests-for-custodians/email/</link>
+      <link>/responding-to-requests-records-custodians/email/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
-      <guid>/responding-to-requests-for-custodians/email/</guid>
+      <guid>/responding-to-requests-records-custodians/email/</guid>
       <description>You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email.</description>
     </item>
     
     <item>
       <title>Responding via the Web</title>
-      <link>/responding-to-requests-for-custodians/direct/</link>
+      <link>/responding-to-requests-records-custodians/direct/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
-      <guid>/responding-to-requests-for-custodians/direct/</guid>
+      <guid>/responding-to-requests-records-custodians/direct/</guid>
       <description>If you would prefer to respond to an OPRAmachine request directly from your web browser, you can do so without having to bother with email. Please note that this method of responding will require you to register for an account with the OPRAmachine website using your government email address.</description>
     </item>
     

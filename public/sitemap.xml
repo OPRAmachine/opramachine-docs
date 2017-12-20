@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/making-requests/batch-requests/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/making-requests/best/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
@@ -98,12 +103,12 @@
   </url>
   
   <url>
-    <loc>/responding-to-requests-for-custodians/email/</loc>
+    <loc>/responding-to-requests-records-custodians/email/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/responding-to-requests-for-custodians/direct/</loc>
+    <loc>/responding-to-requests-records-custodians/direct/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -188,7 +193,7 @@
   </url>
   
   <url>
-    <loc>/responding-to-requests-for-custodians/</loc>
+    <loc>/responding-to-requests-records-custodians/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   

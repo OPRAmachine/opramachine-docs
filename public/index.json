@@ -1,5 +1,12 @@
 [
 {
+	"uri": "/making-requests/batch-requests/",
+	"title": "Batch Requests",
+	"tags": [],
+	"description": "Making batch OPRA requests",
+	"content": "A batch request is the same OPRA request submitted to multiple governmental agencies at the same time. An individual may wish to submit this sort of request if they were doing comparative research about the differences between municipalities or counties or even particular public bodies.\nDue to spam concerns, the ability to submit batch requests is currently limited and requests to enable them are currently considered on a case-by-case basis. If you are interested in making use of batch requests, please contact us to discuss your needs.\n"
+},
+{
 	"uri": "/making-requests/best/",
 	"title": "Best Practices",
 	"tags": [],
@@ -133,14 +140,14 @@
 	"content": "By default, users of OPRAmachine are limited to 6 requests per day. This limit on the number of OPRA requests that may be submitted by user accounts is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.\nWe recognize that some users may need to make more than this amount of requests per day. Therefore, if you contact us and provide justification as to why you would like us to lift the limit, we will consider increasing the amount of requests you are allowed to send per day at our discretion. We will be more likely to grant your request if your account has a history of making high-quality past requests.\n"
 },
 {
-	"uri": "/responding-to-requests-for-custodians/email/",
+	"uri": "/responding-to-requests-records-custodians/email/",
 	"title": "Responding via Email",
 	"tags": [],
 	"description": "How to respond to an OPRAmachine request via email",
 	"content": "You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email.\n"
 },
 {
-	"uri": "/responding-to-requests-for-custodians/direct/",
+	"uri": "/responding-to-requests-records-custodians/direct/",
 	"title": "Responding via the Web",
 	"tags": [],
 	"description": "How to respond to an OPRAmachine request directly on its web page",
@@ -259,7 +266,7 @@
 	"content": ""
 },
 {
-	"uri": "/responding-to-requests-for-custodians/",
+	"uri": "/responding-to-requests-records-custodians/",
 	"title": "Responding to Requests",
 	"tags": [],
 	"description": "How to respond to requests on OPRAmachine",
