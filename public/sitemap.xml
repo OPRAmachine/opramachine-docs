@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>/tracking-requests/email-alerts/</loc>
+    <loc>/making-requests/tracking-requests/email-alerts/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -73,7 +73,7 @@
   </url>
   
   <url>
-    <loc>/tracking-requests/using-data-feeds/json/</loc>
+    <loc>/making-requests/tracking-requests/using-data-feeds/json/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -103,7 +103,7 @@
   </url>
   
   <url>
-    <loc>/tracking-requests/using-data-feeds/rss/</loc>
+    <loc>/making-requests/tracking-requests/using-data-feeds/rss/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -183,12 +183,12 @@
   </url>
   
   <url>
-    <loc>/making-requests/</loc>
+    <loc>/making-requests/tracking-requests/using-data-feeds/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tracking-requests/using-data-feeds/</loc>
+    <loc>/making-requests/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -223,7 +223,7 @@
   </url>
   
   <url>
-    <loc>/tracking-requests/</loc>
+    <loc>/making-requests/tracking-requests/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
