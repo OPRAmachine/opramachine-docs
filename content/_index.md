@@ -1,11 +1,12 @@
 +++
-title = "OPRAmachine Docs"
+title = "OPRAmachine Documentation"
 description = "Providing information for users and administrators of OPRAmachine.com"
 date = "2017-04-24T18:36:24+02:00"
 
 +++
-
-## Welcome to the OPRAmachine documentation
+# OPRAmachine documentation
+Last updated: December 20th, 2017
+## Welcome
 The OPRAmachine Documentation (docs.opramachine.com) is your destination for information on how the site works, how administration decisions are made, as well as guides on how to make requests for specific types of public records under the New Jersey Open Public Records Act using the OPRAmachine web interface.
 
 Beginning in 2018, this documentation website will supersede the existing help material that is currently hosted at the existing OPRAmachine website, as this documentation platform will allow us to more effectively meet the needs of our users and the community at large. During the transitional period between the two documentation interfaces, both systems will remain operational.
