@@ -125,13 +125,13 @@ Requesting CAD reports can allow you to get an idea of the types of police, fire
     </item>
     
     <item>
-      <title>Dealing with large files</title>
+      <title>Dealing With Large Files</title>
       <link>/responding-to-requests/large-files/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
       <guid>/responding-to-requests/large-files/</guid>
-      <description>Sometimes the response to request will require a large amount of space, such as when videos are requested. There are several ways that custodians canDeal with largeFiles when responding to requests through the OPRAmachine website.
-File Size Limits Each new OPRA request submitted through OPRAmachine results in the generation of a unique @requests.opramachine.com email address. The requests.opramachine.com mail ServerIs currently configured to accept emailAttachmentsUp to 100 MBIn size. Please note that this limit only applies to our server, and your email provider may have smaller quotas for attachment, so caveat emptor.</description>
+      <description>Sometimes the response to request will require a large amount of space, such as when videos are requested. There are several ways that custodians can deal with largeFiles when responding to requests through the OPRAmachine website.
+Email Attachment File Size Limits Each new OPRA request submitted through OPRAmachine results in the generation of a unique @requests.opramachine.com email address. The requests.opramachine.com mail ServerIs currently configured to accept emailAttachmentsUp to 100 MB in size.</description>
     </item>
     
     <item>
@@ -171,6 +171,16 @@ Email logs consist of the metadata associated with a public employee&amp;rsquo;s
       <guid>/site-policies-and-procedures/email-verification/</guid>
       <description>Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any proider, including throwaway / mailinator type services.
 This policy is in place so that we can represent to public authorities that the OPRA requests submitted through the OPRAmachine website are submitted by real persons and not computer spam programs.</description>
+    </item>
+    
+    <item>
+      <title>How OPRAmachine Works</title>
+      <link>/introduction/how-it-works/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/introduction/how-it-works/</guid>
+      <description>The following presentation shows how OPRAmachine works and explains some of the basic concepts about the site and its operations.
+ ## How OPRAmachine Works OPRAmachine is a statewide platform that is helping to make New Jersey government more transparent using the Open Public Records Act. - Send requests to state &amp; local government - Track response time &amp; publish responsive documents ___ ## Send Your Request - Draft request and pick which public authority you want to send it to - Our software delivers requests to the email addresses of government agency&#39;s records custodian - OPRAmachine also takes care of tracking the timeline of the government&#39;s response --- ## Receiving Documents - OPRAmachine parses emails received from public authorities and notifies you when they respond.</description>
     </item>
     
     <item>

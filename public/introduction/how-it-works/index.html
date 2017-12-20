@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="generator" content="Hugo 0.31.1" />
 
-<title>Body Cam Footage :: OPRAmachine Documentation</title>
+<title>How OPRAmachine Works :: OPRAmachine Documentation</title>
 <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link href="/css/nucleus.css" rel="stylesheet">
 <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -23,12 +23,12 @@
     display:none !important;
   }
 </style>
-<meta name="description" content="Obtaining police body camera footage">
+<meta name="description" content="How the site works">
 
 
     
   </head>
-  <body data-url="/request-examples/police-records/bodycam/">
+  <body data-url="/introduction/how-it-works/">
     
       <div id="headermain"></div>
 <nav id="sidebar" class="showVisitedLinks">
@@ -65,12 +65,13 @@
             <li data-nav-id="/" class="dd-item">
             <a href="/"><i class="fa fa-fw fa-home"></i></a>
             </li>
-    <li data-nav-id="/introduction/" class="dd-item">
+    <li data-nav-id="/introduction/" class="dd-item parent">
       <a href="/introduction/">
-        <span>Introduction</span><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+        <span>Introduction</span>
+            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
-      <li data-nav-id="/introduction/how-it-works/" class="dd-item">
+      <li data-nav-id="/introduction/how-it-works/" class="dd-item active">
         <a href="/introduction/how-it-works/">
           <span>How OPRAmachine Works</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
@@ -123,10 +124,9 @@
     </li>
         </ul>
     </li>
-    <li data-nav-id="/request-examples/" class="dd-item parent">
+    <li data-nav-id="/request-examples/" class="dd-item">
       <a href="/request-examples/">
-        <span>OPRA Request Examples</span>
-            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+        <span>OPRA Request Examples</span><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
       <li data-nav-id="/request-examples/financial-records/bill-lists/" class="dd-item">
@@ -227,10 +227,9 @@
     </li>
         </ul>
     </li>
-    <li data-nav-id="/request-examples/police-records/" class="dd-item parent">
+    <li data-nav-id="/request-examples/police-records/" class="dd-item">
       <a href="/request-examples/police-records/">
-        <span>Police Records</span>
-            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+        <span>Police Records</span><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
       <li data-nav-id="/request-examples/police-records/911/" class="dd-item">
@@ -238,7 +237,7 @@
           <span>911 Tapes</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
     </li>
-      <li data-nav-id="/request-examples/police-records/bodycam/" class="dd-item active">
+      <li data-nav-id="/request-examples/police-records/bodycam/" class="dd-item">
         <a href="/request-examples/police-records/bodycam/">
           <span>Body Cam Footage</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
@@ -386,7 +385,7 @@
       
       
     <div id="top-github-link">
-      <a class="github-link" href="https://github.com/gavinrozzi/opramachine-docs/edit/master/content/Request%20Examples/Police%20Records/bodycam.md" target="blank">
+      <a class="github-link" href="https://github.com/gavinrozzi/opramachine-docs/edit/master/content/Introduction/how-it-works.md" target="blank">
         <i class="fa fa-code-fork"></i>
         Edit page
       </a>
@@ -406,12 +405,7 @@
 
 
 
-
-
-
- <a href='/'>OPRAmachine Documentation</a> > <a href='/request-examples/'>OPRA Request Examples</a> > <a href='/request-examples/police-records/'>Police Records</a> > Body Cam Footage
-
- 
+ <a href='/'>OPRAmachine Documentation</a> > <a href='/introduction/'>Introduction</a> > How OPRAmachine Works
 
  
 
@@ -434,7 +428,7 @@
 
 <div id="body-inner">
   
-    <h1>Body Cam Footage</h1>
+    <h1>How OPRAmachine Works</h1>
   
 
 
@@ -442,7 +436,110 @@
     
     
     
-    <p>Police body camera footage can be obtained under OPRA, however a special concern associated with it will inevitably be the large size of video files. For that reason, the video files produced by the body cameras are often too large to email. Police departments may request that you pay a fee to have the video burned onto a disc or loaded onto a USB flash drive. Keep this in mind when requesting body camera footage of specific incidents.</p>
+    <p>The following presentation shows how OPRAmachine works and explains some of the basic concepts about the site and its operations.</p>
+
+<iframe id="slideFrame" src="/none.html" style="width:100%;height:30em; border:0px"></iframe>
+
+<div id="slideContent">
+	<link rel="stylesheet" href="/revealjs/css/reveal.css">
+	<link rel="stylesheet" href="/revealjs/css/theme/moon.css" id="theme">
+	<link rel="stylesheet" href="/revealjs/lib/css/zenburn.css">
+
+	<div class="reveal">
+	<div class="slides">
+	<section data-markdown
+	         data-separator="^---"
+			 data-separator-vertical="^___"
+			 data-separator-notes="^Note:"
+			 data-charset="utf8">
+		
+
+## How OPRAmachine Works
+OPRAmachine is a statewide platform that is helping to make New Jersey government more transparent using the Open Public Records Act.
+- Send requests to state & local government
+- Track response time & publish responsive documents
+
+___
+
+## Send Your Request
+
+- Draft request and pick which public authority you want to send it to
+- Our software delivers requests to the email addresses of government agency's records custodian
+- OPRAmachine also takes care of tracking the timeline of the government's response
+
+---
+
+## Receiving Documents
+
+- OPRAmachine parses emails received from public authorities and notifies you when they respond.
+- Our servers take care of hosting and storing both the documents or denials provided by government agencies as well as a paper trail of all correspondence regarding the public records request.
+___
+
+## Creating Government Transparency
+
+- Documents that one requester received are automatically shared with the entire public through our website.
+- Search engines like Google & Bing index the PDF files hosted on OPRAmachine, allowing internet users to have access to higher quality information about state and local governments and the collective decisions that they make.
+
+___
+
+## Conclusion
+
+- OPRAmachine is a tool that helps you get answers from the government and share those answers with everyone else.
+- You can use the service to request public records from the government, or you can just search our public database of requests to follow requests currently in progress or view documents that other people have obtained.
+___
+
+
+	</section>
+	</div>
+	</div>
+
+	<script async src="/revealjs/lib/js/head.min.js"></script>
+	<script async src="/revealjs/js/reveal.js"></script>
+	<script>
+	function initSlides() {
+		Reveal.initialize({
+		      	embedded : true,
+
+		        controls : false, 
+ 				center: true ,		
+		        history: false ,
+		        progress: "true" ,
+		        transition: "concave",
+
+		        
+		        
+		        dependencies: [
+		          { src: '\/revealjs\/lib\/js\/classList.js"', condition: function() { return !document.body.classList; } },
+		          { src: '\/revealjs\/plugin\/markdown\/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+		          { src: '\/revealjs\/plugin\/markdown\/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+		          { src: '\/revealjs\/plugin\/highlight\/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+		          { src: '\/revealjs\/plugin\/zoom-js\/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+		          { src: '\/revealjs\/plugin\/notes\/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+		        ]
+		      });
+	}
+	</script>
+</div>
+<li><a href="#" onclick="slideFullScreen();">See it fullscreen</a></li>
+
+<script type="text/javascript">
+var toto = document.getElementById('slideContent').innerHTML
+document.getElementById('slideFrame').contentWindow.document.write(document.getElementById('slideContent').innerHTML); 
+document.getElementById('slideContent').remove();
+document.addEventListener("DOMContentLoaded",function(){
+	  setTimeout(function () {
+      document.getElementById('slideFrame').contentWindow.initSlides() ;
+    }, 2000);
+});
+
+
+function slideFullScreen() {
+	document.open();
+	document.write(toto);
+	document.close();
+	initSlides()
+}
+</script>
 
 
     
@@ -457,8 +554,8 @@
 </div>
 
 <div id="navigation">
-<a class="nav nav-prev" href="/request-examples/police-records/911/" title="911 Tapes"> <i class="fa fa-chevron-left"></i></a>
-    <a class="nav nav-next" href="/request-examples/police-records/cad-reports/" title="CAD Reports" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a></div>
+<a class="nav nav-prev" href="/introduction/" title="Introduction"> <i class="fa fa-chevron-left"></i></a>
+    <a class="nav nav-next" href="/making-requests/" title="Making Requests" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a></div>
 
 </section>
 <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
