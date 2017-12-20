@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>/request-templates/financial-records/budgets/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/request-templates/police-records/cad-reports/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
@@ -103,6 +108,11 @@
   </url>
   
   <url>
+    <loc>/request-templates/police-records/training-records/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/request-templates/financial-records/public-employee-salaries/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
@@ -139,6 +149,11 @@
   
   <url>
     <loc>/request-templates/legal-documents/settlements/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/police-records/summonses/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   

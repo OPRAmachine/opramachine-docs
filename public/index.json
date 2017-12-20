@@ -35,6 +35,13 @@
 	"content": "Police body camera footage can be obtained under OPRA, however a special concern associated with it will inevitably be the large size of video files. For that reason, the video files produced by the body cameras are often too large to email. Police departments may request that you pay a fee to have the video burned onto a disc or loaded onto a USB flash drive. Keep this in mind when requesting body camera footage of specific incidents.\n"
 },
 {
+	"uri": "/request-templates/financial-records/budgets/",
+	"title": "Budgets",
+	"tags": [],
+	"description": "Obtaining budgets",
+	"content": "The Municipal Budget is perhaps the most requested municipal record, as it is passed every year and influences the size and scale of municipal government for the upcoming calendar, and for residents, that size and scale comes in the form of property taxes.\nYou can request copies of municipal budgets using OPRAmachine. Note that these budgets are commonly available on other internet websites.\n"
+},
+{
 	"uri": "/request-templates/police-records/cad-reports/",
 	"title": "CAD Reports",
 	"tags": [],
@@ -140,6 +147,13 @@
 	"content": "The amount and types of pensions records maintained by local governments has varied based on the experiences of OPRAmachine users. Some towns provided pension information in response to requests, while others directed requesters to go to the State of New Jersey\u0026rsquo;s online pensions transparency center that allows individuals to lookup the details of state pensions.\n"
 },
 {
+	"uri": "/request-templates/police-records/training-records/",
+	"title": "Police Officer Training Records",
+	"tags": [],
+	"description": "Obtaining police officer training records via OPRAmachine.",
+	"content": "You can request copies of police officer training and certification information for a given pollice department. There were several requests for these types of information that were filed by a user of OPRAmachine in 2017.\n"
+},
+{
 	"uri": "/request-templates/financial-records/public-employee-salaries/",
 	"title": "Public Employee Salaries",
 	"tags": [],
@@ -194,6 +208,13 @@
 	"tags": [],
 	"description": "Civil Settlement Agreements",
 	"content": "When a lawsuit is settled against a public agency, the terms of the settlement are memorialized as a settlement agreement. The settlement agreement recites some basic facts about the procedural history of a lawsuit before outlining the terms of the settlement. Typically, the plaintiff (the person who filed the lawsuit) is paid a sum of money to withdraw their litigation without the public body admitting any liability.\nSettlement agreements can be a useful tool for learning about the outcomes of litigation. Oftentimes, they are the only way of conclusively learning the end outcome of litigation against public bodies, as many times the settlement agreements will contain a confidentiality clause the prevents either the public body or the individual that sued them from speaking publicly about the events that gave rise to the litigation and settlement agreement, but courts have held that this confidentiality provision does not outweigh the public\u0026rsquo;s right to obtain a copy of the settlement agreement under OPRA\n"
+},
+{
+	"uri": "/request-templates/police-records/summonses/",
+	"title": "Summonses &amp; Charging Documents",
+	"tags": [],
+	"description": "Obtaining summonses issued by police and other charging documents using OPRAmachine.",
+	"content": "You can obtain copies of summonses for ordinance, municipal code or traffic violations issued by local police departments under OPRA. Be as specific as you can when describing the incident. Name the location, parties involved, and nature of the charges, if known in order to help the department identify and locate records that are responsive to your request.\n"
 },
 {
 	"uri": "/request-templates/police-records/uof/",
