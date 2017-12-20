@@ -8,12 +8,22 @@
   </url>
   
   <url>
+    <loc>/request-templates/financial-records/bill-lists/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/request-templates/police-records/cad-reports/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
     <loc>/policies-and-procedures/code-of-conduct/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/contracts/collective-bargaining/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -43,12 +53,27 @@
   </url>
   
   <url>
+    <loc>/request-templates/police-records/internal-affairs/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/request-templates/legal-documents/motions/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
     <loc>/request-templates/police-records/mva-reports/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/financial-records/pensions/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/financial-records/public-employee-salaries/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -83,7 +108,22 @@
   </url>
   
   <url>
+    <loc>/policies-and-procedures/vexatious/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/contracts/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/request-templates/emails/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/request-templates/ethics/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
