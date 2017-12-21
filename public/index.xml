@@ -184,7 +184,7 @@ Email logs consist of the metadata associated with a public employee&amp;rsquo;s
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
       <guid>/site-policies-and-procedures/email-verification/</guid>
-      <description>Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any provider, including throwaway / mailinator type services that allow an individual to anonymously register for an email account.</description>
+      <description>Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any provider, including throwaway / Mailinator type services that allow an individual to anonymously register for an email account due to privacy concerns.</description>
     </item>
     
     <item>
@@ -244,16 +244,6 @@ Requesting motion documents can be useful if you are attempting to follow a case
       <guid>/example-requests/police-records/mva-reports/</guid>
       <description>Reports completed by police departments investigating motor vehicle accidents are obtainable under OPRA. Often, companies will file requests seeking copies of all motor vehicle accident reports for a given period of time. Police typically provide the reports in full, while redacting some sensitive personal information, such as drivers license numbers and insurance policy numbers.
 Example requests The following are example requests made for this type of record on OPRAmachine:</description>
-    </item>
-    
-    <item>
-      <title>OPRA Requests</title>
-      <link>/example-requests/legal-documents/oprarequests/</link>
-      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
-      
-      <guid>/example-requests/legal-documents/oprarequests/</guid>
-      <description>Yes, OPRA requests themselves are public records and may be readily obtained using OPRAmachine. We have found that municipalities and counties have varied fairly wildly with the extent to which they redact personally identifying information from the request forms and emails sent requesting public records under OPRA.
-Some government agencies have imposed &amp;ldquo;special service&amp;rdquo; charges to requests that are seeking a high volume of records, such as OPRAs covering several months.</description>
     </item>
     
     <item>

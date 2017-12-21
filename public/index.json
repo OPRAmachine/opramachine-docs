@@ -123,7 +123,7 @@
 	"title": "Email Verification",
 	"tags": [],
 	"description": "Policy on verification of email addresses",
-	"content": "Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any provider, including throwaway / mailinator type services that allow an individual to anonymously register for an email account.\nThis policy is in place so that we can represent to public authorities that the OPRA requests submitted through the OPRAmachine website are submitted by real persons and not computer spam programs. Email verification also allows us to ensure that users are not making use of duplicate accounts. This also serves to increase our sending reputation with email providers by preventing any spam and having mechanisms in place to limit its reach.\n"
+	"content": "Before a user will be allowed to submit an OPRA request to a public authority, they will be required to provide a valid email address. The email address will be confirmed by way of a confirmation email. No OPRA requests will be sent until the email address is confirmed. The email address may be from any provider, including throwaway / Mailinator type services that allow an individual to anonymously register for an email account due to privacy concerns.\nThis policy is in place so that we can represent to public authorities that the OPRA requests submitted through the OPRAmachine website are submitted by real persons and not computer spam programs. Email verification also allows us to ensure that users are not making use of duplicate accounts. This also serves to increase our sending reputation with email providers by preventing any spam and having mechanisms in place to limit its reach.\n"
 },
 {
 	"uri": "/introduction/how-it-works/",
@@ -166,13 +166,6 @@
 	"tags": [],
 	"description": "Obtaining Motor Vehicle Accident reports",
 	"content": " Reports completed by police departments investigating motor vehicle accidents are obtainable under OPRA. Often, companies will file requests seeking copies of all motor vehicle accident reports for a given period of time. Police typically provide the reports in full, while redacting some sensitive personal information, such as drivers license numbers and insurance policy numbers.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
-},
-{
-	"uri": "/example-requests/legal-documents/oprarequests/",
-	"title": "OPRA Requests",
-	"tags": [],
-	"description": "Obtaining OPRA requests using OPRAmachine",
-	"content": " Yes, OPRA requests themselves are public records and may be readily obtained using OPRAmachine. We have found that municipalities and counties have varied fairly wildly with the extent to which they redact personally identifying information from the request forms and emails sent requesting public records under OPRA.\nSome government agencies have imposed \u0026ldquo;special service\u0026rdquo; charges to requests that are seeking a high volume of records, such as OPRAs covering several months. As emphasized in past documentation pages, breaking a request into smaller requests for narrower periods of time is a good way to avoid being charged a fee for the records you are seeking.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/opra_requests_294#incoming-698\nhttps://opramachine.com/request/opra_requests_91#incoming-1510\nhttps://opramachine.com/request/opra_requests_29#incoming-282\n"
 },
 {
 	"uri": "/example-requests/financial-records/pensions/",
@@ -221,7 +214,7 @@
 	"title": "Request Limits",
 	"tags": [],
 	"description": "Our policy on rate limiting requests",
-	"content": "By default, users of OPRAmachine are limited to 6 requests per day. This limit on the number of OPRA requests that may be submitted by user accounts is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.\nWe recognize that some users may need to make more than this amount of requests per day. Therefore, if you contact us and provide justification as to why you would like us to lift the limit, we will consider increasing the amount of requests you are allowed to send per day at our discretion. We will be more likely to grant your request if your account has a history of making high-quality past requests.\n"
+	"content": "By default, users of OPRAmachine are limited to 6 requests per day. This limit on the number of OPRA requests that may be submitted by user accounts is in place to ensure that users do not abuse OPRAmachine or send vexatious requests to public authorities.\nWe recognize that some users may need to make more than this amount of requests per day. Therefore, if you contact us and provide justification as to why you would like us to lift the limit, we will consider increasing the amount of requests you are allowed to send per day at our discretion. We will be more likely to grant your request if your account has a history of making high-quality past requests.\nIf we find that you are using your account in a way that disrupts the overall operations of the OPRAmachine server infrastructure or if you repeatedly violate our terms of service, we reserve the right to limit the number of OPRA requests that can be submitted through the site using your account.\n"
 },
 {
 	"uri": "/responding-to-requests/email/",
@@ -362,6 +355,13 @@
 	"tags": [],
 	"description": "Boilerplate language to request specific types of documents",
 	"content": "You can use the boilerplate language featured in this section of the documentation in order to formulate your next OPRA request. Simply copy and paste the template into a new request to your chosen public authority on OPRAmachine in order to request the records covered by your template. Be sure to customize the base language of the template to include the date range / locality of the records that you are interested in obtaining.\n"
+},
+{
+	"uri": "/example-requests/opra-requests/",
+	"title": "OPRA Requests",
+	"tags": [],
+	"description": "Obtaining OPRA requests using OPRAmachine",
+	"content": " Yes, OPRA requests themselves are public records and may be readily obtained using OPRAmachine. We have found that municipalities and counties have varied fairly wildly with the extent to which they redact personally identifying information from the request forms and emails sent requesting public records under OPRA.\nSome government agencies have imposed \u0026ldquo;special service\u0026rdquo; charges to requests that are seeking a high volume of records, such as OPRAs covering several months. As emphasized in past documentation pages, breaking a request into smaller requests for narrower periods of time is a good way to avoid being charged a fee for the records you are seeking.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/opra_requests_294#incoming-698\nhttps://opramachine.com/request/opra_requests_91#incoming-1510\nhttps://opramachine.com/request/opra_requests_29#incoming-282\n"
 },
 {
 	"uri": "/",

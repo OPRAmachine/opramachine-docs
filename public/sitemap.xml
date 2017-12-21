@@ -123,11 +123,6 @@
   </url>
   
   <url>
-    <loc>/example-requests/legal-documents/oprarequests/</loc>
-    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/example-requests/financial-records/pensions/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
@@ -259,6 +254,11 @@
   
   <url>
     <loc>/example-requests/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/example-requests/opra-requests/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
