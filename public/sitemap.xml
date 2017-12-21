@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/request-examples/police-records/911/</loc>
+    <loc>/example-requests/police-records/911/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/legal-documents/attorneybills/</loc>
+    <loc>/example-requests/legal-documents/attorneybills/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -23,22 +23,22 @@
   </url>
   
   <url>
-    <loc>/request-examples/financial-records/bill-lists/</loc>
+    <loc>/example-requests/financial-records/bill-lists/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/police-records/bodycam/</loc>
+    <loc>/example-requests/police-records/bodycam/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/financial-records/budgets/</loc>
+    <loc>/example-requests/financial-records/budgets/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/police-records/cad-reports/</loc>
+    <loc>/example-requests/police-records/cad-reports/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -48,12 +48,12 @@
   </url>
   
   <url>
-    <loc>/request-examples/contracts/collective-bargaining/</loc>
+    <loc>/example-requests/contracts/collective-bargaining/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/legal-documents/complaints/</loc>
+    <loc>/example-requests/legal-documents/complaints/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -73,12 +73,12 @@
   </url>
   
   <url>
-    <loc>/request-examples/emails/bodies/</loc>
+    <loc>/example-requests/emails/bodies/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/emails/email-logs/</loc>
+    <loc>/example-requests/emails/email-logs/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -93,7 +93,7 @@
   </url>
   
   <url>
-    <loc>/request-examples/police-records/internal-affairs/</loc>
+    <loc>/example-requests/police-records/internal-affairs/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -103,27 +103,27 @@
   </url>
   
   <url>
-    <loc>/request-examples/ethics/lfb/</loc>
+    <loc>/example-requests/ethics/lfb/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/legal-documents/motions/</loc>
+    <loc>/example-requests/legal-documents/motions/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/police-records/mva-reports/</loc>
+    <loc>/example-requests/police-records/mva-reports/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/financial-records/pensions/</loc>
+    <loc>/example-requests/financial-records/pensions/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/police-records/training-records/</loc>
+    <loc>/example-requests/police-records/training-records/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -133,7 +133,7 @@
   </url>
   
   <url>
-    <loc>/request-examples/financial-records/public-employee-salaries/</loc>
+    <loc>/example-requests/financial-records/public-employee-salaries/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -163,12 +163,12 @@
   </url>
   
   <url>
-    <loc>/request-examples/ethics/schoolethics/</loc>
+    <loc>/example-requests/ethics/schoolethics/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/legal-documents/settlements/</loc>
+    <loc>/example-requests/legal-documents/settlements/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -183,7 +183,7 @@
   </url>
   
   <url>
-    <loc>/request-examples/police-records/summonses/</loc>
+    <loc>/example-requests/police-records/summonses/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -193,12 +193,12 @@
   </url>
   
   <url>
-    <loc>/request-examples/police-records/uof/</loc>
+    <loc>/example-requests/police-records/uof/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/financial-records/vendor-history-reports/</loc>
+    <loc>/example-requests/financial-records/vendor-history-reports/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -208,12 +208,12 @@
   </url>
   
   <url>
-    <loc>/request-examples/bid-documents/</loc>
+    <loc>/example-requests/bid-documents/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/contracts/</loc>
+    <loc>/example-requests/contracts/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -223,12 +223,12 @@
   </url>
   
   <url>
-    <loc>/request-examples/emails/</loc>
+    <loc>/example-requests/emails/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/request-examples/ethics/</loc>
+    <loc>/example-requests/ethics/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -238,7 +238,7 @@
   </url>
   
   <url>
-    <loc>/request-examples/legal-documents/</loc>
+    <loc>/example-requests/legal-documents/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -248,7 +248,7 @@
   </url>
   
   <url>
-    <loc>/request-examples/</loc>
+    <loc>/example-requests/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -258,7 +258,7 @@
   </url>
   
   <url>
-    <loc>/request-examples/police-records/</loc>
+    <loc>/example-requests/police-records/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   

@@ -1,17 +1,17 @@
 [
 {
-	"uri": "/request-examples/police-records/911/",
+	"uri": "/example-requests/police-records/911/",
 	"title": "911 Tapes",
 	"tags": [],
 	"description": "Obtaining 911 tapes",
 	"content": "You can request 911 tapes under OPRA. Typically county sheriff\u0026rsquo;s departments or public safety departments would have custody of these recordings. For recordings of phone calls of municipal police departments, you should file your request with that department\u0026rsquo;s custodian of records.\n"
 },
 {
-	"uri": "/request-examples/legal-documents/attorneybills/",
+	"uri": "/example-requests/legal-documents/attorneybills/",
 	"title": "Attorney Bills",
 	"tags": [],
 	"description": "Obtaining attorney bills using OPRAmachine",
-	"content": "Warning: If you request several months worth of legal bills with detail billing, you may get hit with a \u0026ldquo;special service\u0026rdquo; fee for the labor required to make the redactions. Consider breaking requests for these records into smaller requests.\n Governments hire attorneys for all for all sorts of legal matters. In many instances, a local government may end up hiring several law firms, with each firm covering a certain area of expertise. In many municipalities it\u0026rsquo;s not unusual to have separate attorneys for general legal matters, collective bargaining \u0026amp; labor relations and another for land use matters.\nYou can get an idea of what kinds of work a law firm is doing for a government agency by requesting copies of legal bills. If you are simply looking to get the amounts of money that are being paid to a certain law firm each month, a vendor history report would probably do the job instead.\nLegal bills are often a valuable source of information because they can reveal the identities of individuals involved in current or potential litigation against public entities. Along this vein, law firms often have attorney-client privileged information on detail billing that will need to be redacted. For this reason, it is best to have requests for legal bills be in as narrow of a timeframe as possible, such as requesting one month at a time, in order to avoid getting hit with \u0026ldquo;special service\u0026rdquo; fees.\n"
+	"content": " Warning: If you request several months worth of legal bills with detail billing, you may get hit with a \u0026ldquo;special service\u0026rdquo; fee for the labor required to make the redactions. Consider breaking requests for these records into smaller requests.\n Governments hire attorneys for all for all sorts of legal matters. In many instances, a local government may end up hiring several law firms, with each firm covering a certain area of expertise. In many municipalities it\u0026rsquo;s not unusual to have separate attorneys for general legal matters, collective bargaining \u0026amp; labor relations and another for land use matters.\nYou can get an idea of what kinds of work a law firm is doing for a government agency by requesting copies of legal bills. If you are simply looking to get the amounts of money that are being paid to a certain law firm each month, a vendor history report would probably do the job instead.\nLegal bills are often a valuable source of information because they can reveal the identities of individuals involved in current or potential litigation against public entities. Along this vein, law firms often have attorney-client privileged information on detail billing that will need to be redacted. For this reason, it is best to have requests for legal bills be in as narrow of a timeframe as possible, such as requesting one month at a time, in order to avoid getting hit with \u0026ldquo;special service\u0026rdquo; fees.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/making-requests/batch-requests/",
@@ -28,32 +28,32 @@
 	"content": "Keep your request concise. Be as specific as possible. Try and identify specific documents and use narrow date ranges. This helps the custodian to quickly locate the public records that are responsive to your request, and helps you avoid being charged special service fees due to the time required to fulfill your request, such as if it is exceedingly voluminous.\nDon\u0026rsquo;t use overbroad language in your request. For example, requests that seek information and not specifically identifiable government records, and requests seeking \u0026ldquo;any and all records\u0026rdquo; will likely be denied as invalid under OPRA.\n"
 },
 {
-	"uri": "/request-examples/financial-records/bill-lists/",
+	"uri": "/example-requests/financial-records/bill-lists/",
 	"title": "Bill Lists",
 	"tags": [],
 	"description": "How to request bill lists from New Jersey government",
-	"content": "Most municipal and county governments produce a monthly list of bills and claims. This bills and claims list shows the vendors and purchase orders open / processed for that time period. The report is generated by the government agency\u0026rsquo;s computerized accounting software and is sometimes included with meeting agenda handouts.\n"
+	"content": " Most municipal and county governments produce a monthly list of bills and claims. This bills and claims list shows the vendors and purchase orders open / processed for that time period. The report is generated by the government agency\u0026rsquo;s computerized accounting software and is sometimes included with meeting agenda handouts.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
-	"uri": "/request-examples/police-records/bodycam/",
+	"uri": "/example-requests/police-records/bodycam/",
 	"title": "Body Cam Footage",
 	"tags": [],
 	"description": "Obtaining police body camera footage",
-	"content": "Police body camera footage can be obtained under OPRA, however a special concern associated with it will inevitably be the large size of video files. For that reason, the video files produced by the body cameras are often too large to email. Police departments may request that you pay a fee to have the video burned onto a disc or loaded onto a USB flash drive. Keep this in mind when requesting body camera footage of specific incidents.\n"
+	"content": " Police body camera footage can be obtained under OPRA, however a special concern associated with it will inevitably be the large size of video files. For that reason, the video files produced by the body cameras are often too large to email. Police departments may request that you pay a fee to have the video burned onto a disc or loaded onto a USB flash drive. Keep this in mind when requesting body camera footage of specific incidents.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
-	"uri": "/request-examples/financial-records/budgets/",
+	"uri": "/example-requests/financial-records/budgets/",
 	"title": "Budgets",
 	"tags": [],
 	"description": "Obtaining budgets",
-	"content": "The Municipal Budget is perhaps the most requested municipal record, as it is passed every year and influences the size and scale of municipal government for the upcoming calendar, and for residents, that size and scale comes in the form of property taxes.\nYou can request copies of municipal budgets using OPRAmachine. Note that these budgets are commonly available on other internet websites.\n"
+	"content": " The Municipal Budget is perhaps the most requested municipal record, as it is passed every year and influences the size and scale of municipal government for the upcoming calendar, and for residents, that size and scale comes in the form of property taxes.\nYou can request copies of municipal budgets using OPRAmachine. Note that these budgets are commonly available on other internet websites.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
-	"uri": "/request-examples/police-records/cad-reports/",
+	"uri": "/example-requests/police-records/cad-reports/",
 	"title": "CAD Reports",
 	"tags": [],
 	"description": "Obtaining Police CAD reports",
-	"content": "Almost every police department currently makes use of a Computer Aided Dispatch (CAD) system. CAD allows police departments to effectively store data about calls for service and the status of officers in the field. It allows law enforcement officers to quickly obtain the information that they need to accomplish their jobs, as well as assisting dispatchers with the logistics of their operations.\nRequesting CAD reports can allow you to get an idea of the types of police, fire \u0026amp; EMS calls for service at a given address for a period of time.\n"
+	"content": " Almost every police department currently makes use of a Computer Aided Dispatch (CAD) system. CAD allows police departments to effectively store data about calls for service and the status of officers in the field. It allows law enforcement officers to quickly obtain the information that they need to accomplish their jobs, as well as assisting dispatchers with the logistics of their operations.\nRequesting CAD reports can allow you to get an idea of the types of police, fire \u0026amp; EMS calls for service at a given address for a period of time.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/site-policies-and-procedures/code-of-conduct/",
@@ -63,18 +63,18 @@
 	"content": "We have a code of conduct that governs user behavior on the OPRAmachine website, including the content of OPRA requests, annotations, and comment in our sponsored Facebook groups and pages. The purpose of this code of conduct is to maximize the ability of users to engage in a robust, wide open debate on matters of public concern, while also ensuring that the site administration can preserve the OPRAmachine community by moderating content that is contrary to the values expressed in this Code of Conduct.\nMembers shall:\n Refrain from posting material that violates copyright protections Not use the platform to harass others or violate laws Not make abusive or vexatious requests, or requests which contain profane language Abide by directions of site administrators and comply with their reasonable requests  "
 },
 {
-	"uri": "/request-examples/contracts/collective-bargaining/",
+	"uri": "/example-requests/contracts/collective-bargaining/",
 	"title": "Collective Bargaining Contracts",
 	"tags": [],
 	"description": "Obtaining labor contracts",
 	"content": "Collective bargaining contracts are executed with public bodies as a result of negotiations between representatives of the management of the public entity and the negotiations team of the union. Government employees are typically divided into collective bargaining units that negotiate contractual work and compensation terms for the employees that are covered by their respective union. The contractual agreements cover a range of items, from health and dental coverage, to work hours and the procedures in place for handling grievances.\nSome types of collective bargaining records, such as those related to ongoing negotiations or grievances, cannot be obtained under OPRA because of exemptions.\n"
 },
 {
-	"uri": "/request-examples/legal-documents/complaints/",
+	"uri": "/example-requests/legal-documents/complaints/",
 	"title": "Complaints",
 	"tags": [],
 	"description": "Obtaining complaints",
-	"content": "The complaint is the first document that is filed in a lawsuit. It is a summary of the factual and legal allegations that give rise to the lawsuit.\n"
+	"content": " The complaint is the first document that is filed in a lawsuit. It is a summary of the factual and legal allegations that give rise to the lawsuit.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/site-policies-and-procedures/content-removal/",
@@ -98,18 +98,18 @@
 	"content": "Our email alerts feature allows you to receive an email notification every time there is new activity related to the requests, public bodies or users that you follow on OPRAmachine. It is the simplest way to begin tracking OPRA requests. You can track requests made through the site without requiring you to publicly file requests under your real name, so if having your identity exposed is a concern preventing you from making a request, email alerts allow you to directly benefit from the information obtained by other people\u0026rsquo;s requests made on the OPRAmachine platform.\n"
 },
 {
-	"uri": "/request-examples/emails/bodies/",
+	"uri": "/example-requests/emails/bodies/",
 	"title": "Email Bodies",
 	"tags": [],
 	"description": "Getting bodies of email messages",
-	"content": "The bodies of email messages often reveal the most detail for a given piece of correspondence, yet getting them can often be difficult. In order to obtain the bodies of email, statutory and case law has required that requesters be specific as to the source of the emails (either sender of recipient), as well as the date range and subject matter.\nOftentimes, a strategy that can be employed by requesters to obtain the bodies of email messages would be to first file an OPRA request for copies of the email logs for a public employee\u0026rsquo;s email account during the date range in question. Then, once you are in possession of the email logs, use the email logs to formulate a future OPRA request where you request to see copies of the specific bodies of email messages of interest that you have identified from the email logs.\n"
+	"content": " The bodies of email messages often reveal the most detail for a given piece of correspondence, yet getting them can often be difficult. In order to obtain the bodies of email, statutory and case law has required that requesters be specific as to the source of the emails (either sender of recipient), as well as the date range and subject matter.\nOftentimes, a strategy that can be employed by requesters to obtain the bodies of email messages would be to first file an OPRA request for copies of the email logs for a public employee\u0026rsquo;s email account during the date range in question. Then, once you are in possession of the email logs, use the email logs to formulate a future OPRA request where you request to see copies of the specific bodies of email messages of interest that you have identified from the email logs.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
-	"uri": "/request-examples/emails/email-logs/",
+	"uri": "/example-requests/emails/email-logs/",
 	"title": "Email Logs",
 	"tags": [],
 	"description": "Getting email logs under OPRA",
-	"content": "Since the New Jersey Supreme Court\u0026rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.\nEmail logs consist of the metadata associated with a public employee\u0026rsquo;s email account. They are almost like a snapshot of the account\u0026rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee\u0026rsquo;s email account.\nEmail logs can reveal who a public official is talking to and what they are saying. That\u0026rsquo;s why they are a powerful tool for journalists and the public.\n"
+	"content": " Since the New Jersey Supreme Court\u0026rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.\nEmail logs consist of the metadata associated with a public employee\u0026rsquo;s email account. They are almost like a snapshot of the account\u0026rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee\u0026rsquo;s email account.\nEmail logs can reveal who a public official is talking to and what they are saying. That\u0026rsquo;s why they are a powerful tool for journalists and the public.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/site-policies-and-procedures/email-verification/",
@@ -126,11 +126,11 @@
 	"content": "The following presentation shows how OPRAmachine works and explains some of the basic concepts about the site and its operations.\n ## How OPRAmachine Works OPRAmachine is a statewide platform that is helping to make New Jersey government more transparent using the Open Public Records Act. - Send requests to state \u0026 local government - Track response time \u0026 publish responsive documents ___ ## Send Your Request - Draft request and pick which public authority you want to send it to - Our software delivers requests to the email addresses of government agency's records custodian - OPRAmachine also takes care of tracking the timeline of the government's response --- ## Receiving Documents - OPRAmachine parses emails received from public authorities and notifies you when they respond. - Our servers take care of hosting and storing both the documents or denials provided by government agencies as well as a paper trail of all correspondence regarding the public records request. ___ ## Creating Government Transparency - Documents that one requester received are automatically shared with the entire public through our website. - Search engines like Google \u0026 Bing index the PDF files hosted on OPRAmachine, allowing internet users to have access to higher quality information about state and local governments and the collective decisions that they make. ___ ## Conclusion - OPRAmachine is a tool that helps you get answers from the government and share those answers with everyone else. - You can use the service to request public records from the government, or you can just search our public database of requests to follow requests currently in progress or view documents that other people have obtained. ___       function initSlides() { Reveal.initialize({ embedded : true, controls : false, center: true ,\thistory: false , progress: \"true\" , transition: \"concave\", dependencies: [ { src: '\\/revealjs\\/lib\\/js\\/classList.js\"', condition: function() { return !document.body.classList; } }, { src: '\\/revealjs\\/plugin\\/markdown\\/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } }, { src: '\\/revealjs\\/plugin\\/markdown\\/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } }, { src: '\\/revealjs\\/plugin\\/highlight\\/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }, { src: '\\/revealjs\\/plugin\\/zoom-js\\/zoom.js', async: true, condition: function() { return !!document.body.classList; } }, { src: '\\/revealjs\\/plugin\\/notes\\/notes.js', async: true, condition: function() { return !!document.body.classList; } } ] }); }   See it fullscreen var toto = document.getElementById('slideContent').innerHTML document.getElementById('slideFrame').contentWindow.document.write(document.getElementById('slideContent').innerHTML); document.getElementById('slideContent').remove(); document.addEventListener(\"DOMContentLoaded\",function(){ setTimeout(function () { document.getElementById('slideFrame').contentWindow.initSlides() ; }, 2000); }); function slideFullScreen() { document.open(); document.write(toto); document.close(); initSlides() }  "
 },
 {
-	"uri": "/request-examples/police-records/internal-affairs/",
+	"uri": "/example-requests/police-records/internal-affairs/",
 	"title": "Internal Affairs Records",
 	"tags": [],
 	"description": "Obtaining police internal affairs records",
-	"content": "The types of internal affairs records that the public can obtain under OPRA is limited to aggregate level summaries of cases that do not individually identify the officers that were involved in the case. Typically, the summary reports obtainable under OPRA will include a list of the types of cases and their disposition, such as whether the allegations were sustained or not.\n"
+	"content": " The types of internal affairs records that the public can obtain under OPRA is limited to aggregate level summaries of cases that do not individually identify the officers that were involved in the case. Typically, the summary reports obtainable under OPRA will include a list of the types of cases and their disposition, such as whether the allegations were sustained or not.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/making-requests/tracking-requests/using-data-feeds/json/",
@@ -140,39 +140,39 @@
 	"content": "You can get JSON-formatted data out of OPRAmachine by simply adding \u0026ldquo;.json\u0026rdquo; to the end of a URL.\n"
 },
 {
-	"uri": "/request-examples/ethics/lfb/",
+	"uri": "/example-requests/ethics/lfb/",
 	"title": "Local Finance Board Case Rosters",
 	"tags": [],
 	"description": "Obtaining Local Finance Board case rosters under OPRA",
-	"content": "The state Local Finance Board holds jurisdiction over state ethics matters such as the filing of financial disclosure forms by local public officials. They maintain a roster in the form of an Excel spreadsheet that lists ethics cases against local public officials that are adjudicated by the board.\n"
+	"content": " The state Local Finance Board holds jurisdiction over state ethics matters such as the filing of financial disclosure forms by local public officials. They maintain a roster in the form of an Excel spreadsheet that lists ethics cases against local public officials that are adjudicated by the board.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
-	"uri": "/request-examples/legal-documents/motions/",
+	"uri": "/example-requests/legal-documents/motions/",
 	"title": "Motion Papers",
 	"tags": [],
 	"description": "Obtaining motion papers in civil litigation using OPRA",
 	"content": "Motion papers are filed during the case and can take a variety of forms. The common thread of all motion papers is that they are requesting that the court do something, such as compel depositions, or a motion requesting that a lawsuit be dismissed.\nRequesting motion documents can be useful if you are attempting to follow a case as it is making its way through the system, typically during the pretrial phase of the case.\n"
 },
 {
-	"uri": "/request-examples/police-records/mva-reports/",
+	"uri": "/example-requests/police-records/mva-reports/",
 	"title": "Motor Vehicle Accident Reports",
 	"tags": [],
 	"description": "Obtaining Motor Vehicle Accident reports",
-	"content": "Reports completed by police departments investigating motor vehicle accidents are obtainable under OPRA. Often, companies will file requests seeking copies of all motor vehicle accident reports for a given period of time. Police typically provide the reports in full, while redacting some sensitive personal information, such as drivers license numbers and insurance policy numbers.\n"
+	"content": " Reports completed by police departments investigating motor vehicle accidents are obtainable under OPRA. Often, companies will file requests seeking copies of all motor vehicle accident reports for a given period of time. Police typically provide the reports in full, while redacting some sensitive personal information, such as drivers license numbers and insurance policy numbers.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
-	"uri": "/request-examples/financial-records/pensions/",
+	"uri": "/example-requests/financial-records/pensions/",
 	"title": "Pension Records",
 	"tags": [],
 	"description": "How to request pension records",
-	"content": "The amount and types of pensions records maintained by local governments has varied based on the experiences of OPRAmachine users. Some towns provided pension information in response to requests, while others directed requesters to go to the State of New Jersey\u0026rsquo;s online pensions transparency center that allows individuals to lookup the details of state pensions.\n"
+	"content": " The amount and types of pensions records maintained by local governments has varied based on the experiences of OPRAmachine users. Some towns provided pension information in response to requests, while others directed requesters to go to the State of New Jersey\u0026rsquo;s online pensions transparency center that allows individuals to lookup the details of state pensions.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
-	"uri": "/request-examples/police-records/training-records/",
+	"uri": "/example-requests/police-records/training-records/",
 	"title": "Police Officer Training Records",
 	"tags": [],
 	"description": "Obtaining police officer training records via OPRAmachine.",
-	"content": "You can request copies of police officer training and certification information for a given pollice department. There were several requests for these types of information that were filed by a user of OPRAmachine in 2017.\n"
+	"content": " You can request copies of police officer training and certification information for a given pollice department. There were several requests for these types of information that were filed by a user of OPRAmachine in 2017.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/site-policies-and-procedures/political-speech/",
@@ -182,11 +182,11 @@
 	"content": "Requests made by individuals seeking to promote a particular agenda are permitted on OPRAmachine. We seek to serve all political stakeholders equally. We will allow all individuals of all political persuasions to use OPRAmachine to increase the public\u0026rsquo;s understanding of public affairs in New Jersey. To that, end we are providing a limited public forum for the purposes of a robust public debate on the matters of public concern that are uncovered by the various public documents that are regularly published on the OPRAmachine.com website.\nPolitical speech, that is the type of verbiage that is explicitly advocating for one political position over another is never permissible in requests or correspondence with public bodies. While we forbid this language in request correspondence (in an effort to keep the request submissions limited to the original purpose of the site and prevent abuse), we do provide multiple venues where individuals may express their opinions on some of the topics covered by the site.\nThe OPRAmachine blog, NJ OPRA Facebook group and OPRAmachine Facebook page all have open comment sections and places where community members can share their posts. These public forums are all open to political speech, debate, discussion \u0026amp; dialogue. We ask that all users of the site respect our view of the types of language that should be used in the OPRA requests submitted to government agencies\n"
 },
 {
-	"uri": "/request-examples/financial-records/public-employee-salaries/",
+	"uri": "/example-requests/financial-records/public-employee-salaries/",
 	"title": "Public Employee Salaries",
 	"tags": [],
 	"description": "Public Employee Salaries",
-	"content": "The Open Public Records Act provides that a requester can request that a governmental agency provide a list of all employees, including salary, job title, date of hire and reason for termination.\n"
+	"content": " The Open Public Records Act provides that a requester can request that a governmental agency provide a list of all employees, including salary, job title, date of hire and reason for termination.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/making-requests/tracking-requests/using-data-feeds/rss/",
@@ -224,18 +224,18 @@
 	"content": "If you would prefer to respond to an OPRAmachine request directly from your web browser, you can do so without having to bother with email. Please note that this method of responding will require you to register for an account with the OPRAmachine website using your government email address.\n##Responding using the web interface To respond to a request directly from the OPRAmachine website, simply navigate to the request webpage using a web browser.\n"
 },
 {
-	"uri": "/request-examples/ethics/schoolethics/",
+	"uri": "/example-requests/ethics/schoolethics/",
 	"title": "School Ethics Information",
 	"tags": [],
 	"description": "Obtaining school ethics information",
 	"content": "Before you file a request for records related to a school ethics matter, be sure to first check the website of the state School Ethics Commission. The commission regularly publishes PDF versions of their rulings in schools ethics complaints filed against school members.\n"
 },
 {
-	"uri": "/request-examples/legal-documents/settlements/",
+	"uri": "/example-requests/legal-documents/settlements/",
 	"title": "Settlement Agreements",
 	"tags": [],
 	"description": "Civil Settlement Agreements",
-	"content": "When a lawsuit is settled against a public agency, the terms of the settlement are memorialized as a settlement agreement. The settlement agreement recites some basic facts about the procedural history of a lawsuit before outlining the terms of the settlement. Typically, the plaintiff (the person who filed the lawsuit) is paid a sum of money to withdraw their litigation without the public body admitting any liability.\nSettlement agreements can be a useful tool for learning about the outcomes of litigation. Oftentimes, they are the only way of conclusively learning the end outcome of litigation against public bodies, as many times the settlement agreements will contain a confidentiality clause the prevents either the public body or the individual that sued them from speaking publicly about the events that gave rise to the litigation and settlement agreement, but courts have held that this confidentiality provision does not outweigh the public\u0026rsquo;s right to obtain a copy of the settlement agreement under OPRA\n"
+	"content": " When a lawsuit is settled against a public agency, the terms of the settlement are memorialized as a settlement agreement. The settlement agreement recites some basic facts about the procedural history of a lawsuit before outlining the terms of the settlement. Typically, the plaintiff (the person who filed the lawsuit) is paid a sum of money to withdraw their litigation without the public body admitting any liability.\nSettlement agreements can be a useful tool for learning about the outcomes of litigation. Oftentimes, they are the only way of conclusively learning the end outcome of litigation against public bodies, as many times the settlement agreements will contain a confidentiality clause the prevents either the public body or the individual that sued them from speaking publicly about the events that gave rise to the litigation and settlement agreement, but courts have held that this confidentiality provision does not outweigh the public\u0026rsquo;s right to obtain a copy of the settlement agreement under OPRA\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/site-administration/leadership/",
@@ -252,11 +252,11 @@
 	"content": "The OPRAmachine team takes our responsibility to prevent our platform from propagating internet spam seriously. User accounts that post spam links in the comment section, annotations, requests or any other area of our web properties risk immediate suspension using OPRAmachine web services.\n"
 },
 {
-	"uri": "/request-examples/police-records/summonses/",
+	"uri": "/example-requests/police-records/summonses/",
 	"title": "Summonses &amp; Charging Documents",
 	"tags": [],
 	"description": "Obtaining summonses issued by police and other charging documents using OPRAmachine.",
-	"content": "You can obtain copies of summonses for ordinance, municipal code or traffic violations issued by local police departments under OPRA. Be as specific as you can when describing the incident. Name the location, parties involved, and nature of the charges, if known in order to help the department identify and locate records that are responsive to your request.\n"
+	"content": " You can obtain copies of summonses for ordinance, municipal code or traffic violations issued by local police departments under OPRA. Be as specific as you can when describing the incident. Name the location, parties involved, and nature of the charges, if known in order to help the department identify and locate records that are responsive to your request.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/site-policies-and-procedures/terms/",
@@ -266,18 +266,18 @@
 	"content": " These are the official terms of service that govern your usage of the OPRAmachine website. Please read these terms carefully as you agree to them in consideration of making continued use of the OPRAmachine web application and affiliated online properties.\nNo Warranty The OPRAmachine service is offered free of charge. We offer no warranty and do not represent that product is merchantable or fit for any specific commercial purpose.\nService Availability We make no guarantee as to the availability of the service. Technical complications or reasons beyond our control may result in the site becoming unavailable or unresponsive. The OPRAmachine team will endeavor to ensure that the site remains up and running, however we cannot be held liable if the site is unavailable or useful for a particular commercial purpose. We may disconnect or suspend user accounts that violate these terms of service or for other good cause.\nNot Legal Advice Nothing in this documentation or on the OPRAmachine website should be construed as legal advice or creating an attorney-client relationship. Only a licensed attorney licensed to practice in New Jersey can provide legal advice. The information contained within this website is for the purpose of facilitating use of the OPRAmachine web application and answering user questions. While it may discuss legal issues or the law, commentary on the legal aspects of public records is the author\u0026rsquo;s personal opinion and should only be interpreted as such.\n"
 },
 {
-	"uri": "/request-examples/police-records/uof/",
+	"uri": "/example-requests/police-records/uof/",
 	"title": "Use of Force Reports",
 	"tags": [],
 	"description": "Use of Force Reports",
-	"content": "Police use of force reports can be a great tool for understanding the types of incidents occurring where members of law enforcement indicated that they used force in order to establish compliance.\nExample successful requests for use of force reports\n"
+	"content": " Police use of force reports can be a great tool for understanding the types of incidents occurring where members of law enforcement indicated that they used force in order to establish compliance.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
-	"uri": "/request-examples/financial-records/vendor-history-reports/",
+	"uri": "/example-requests/financial-records/vendor-history-reports/",
 	"title": "Vendor History Reports",
 	"tags": [],
 	"description": "How to request vendor history reports from New Jersey government",
-	"content": "Vendor history reports are printed reports generated from the procurement software utilized by government agencies. The reports show all of the amounts and payments of money remitted to vendors and contractors paid with taxpayer money. They can be useful for documenting how much money has been paid to professional services vendors retained by governments at the state and local level.\n"
+	"content": " Vendor history reports are printed reports generated from the procurement software utilized by government agencies. The reports show all of the amounts and payments of money remitted to vendors and contractors paid with taxpayer money. They can be useful for documenting how much money has been paid to professional services vendors retained by governments at the state and local level.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/site-policies-and-procedures/vexatious/",
@@ -287,14 +287,14 @@
 	"content": "Requests that are filed solely to harass governmental agencies (vexatious requests) are strictly prohibited and will not be tolerated on the OPRAmachine service. The OPRAmachine site administration does not condone the contents of any OPRA request.\nThe OPRAmachine site administration reserves the sole right to determine whether or not a request was vexatious, and we may wait to take action against a vexatious requester until the requester was provided an opportunity to be heard and / or an opportunity to correct or abate the vexatious requests.\n"
 },
 {
-	"uri": "/request-examples/bid-documents/",
+	"uri": "/example-requests/bid-documents/",
 	"title": "Bid Documents",
 	"tags": [],
 	"description": "Obtaining bid documents",
 	"content": "You can obtain bid documents detailing government procurement processes using OPRAmachine.\n"
 },
 {
-	"uri": "/request-examples/contracts/",
+	"uri": "/example-requests/contracts/",
 	"title": "Contracts",
 	"tags": [],
 	"description": "Obtaining Contracts",
@@ -308,14 +308,14 @@
 	"content": "You can use the data feeds that are produced by OPRAmachine on your own website or in your own projects - it\u0026rsquo;s simple!\n"
 },
 {
-	"uri": "/request-examples/emails/",
+	"uri": "/example-requests/emails/",
 	"title": "Emails",
 	"tags": [],
 	"description": "Getting emails of public officials",
 	"content": ""
 },
 {
-	"uri": "/request-examples/ethics/",
+	"uri": "/example-requests/ethics/",
 	"title": "Ethics Records",
 	"tags": [],
 	"description": "Obtaining ethics records",
@@ -329,7 +329,7 @@
 	"content": " OPRAmachine is an interactive web application designed to simplify the process of submitting a New Jersey Open Public Records Act (OPRA) request to state and local governmental agencies. OPRAmachine provides tracking functionality to ensure that your request is dealt with by public bodies in the time period prescribed by law. Each request that is made through the site is published on our website for all to see, allowing the entire public to benefit from each individual request that is made through the site.\nThe OPRA request process on OPRAmachine This diagram illustrates the lifecycle of a request for public records made via our web application.\nmermaid.initialize({startOnLoad:true}); graph LR; A[Requester submits initial request] --|OPRA request delivered via email| B(Custodian receives request) B -- C{Records Custodian Responds} C --|Request Approved| D[Documents Posted on OPRAmachine] C --|Request Denied| E[Denial Letter Posted on OPRAmachine]  "
 },
 {
-	"uri": "/request-examples/legal-documents/",
+	"uri": "/example-requests/legal-documents/",
 	"title": "Legal Documents",
 	"tags": [],
 	"description": "You can obtain legal documents using OPRA",
@@ -343,7 +343,7 @@
 	"content": "Making requests with OPRAmachine is easy.\nStart by selecting the public authority you would like to send your OPRA request to. Please note that only New Jersey state and local governmental agencies are subject to the Open Public Records Act and its restrictions. The New Jersey Judiciary and Legislature are both exempt from OPRA, so any requests to those entities made under the law would be invalid.\nFederal agencies, such as the FBI or DHS are not subject to OPRA. Their records can instead be accessed under the federal Freedom of Information Act (FOIA). OPRAmachine currently only supports requests made under OPRA. A future website may be added that supports making FOIA requests using a similar interface.\n"
 },
 {
-	"uri": "/request-examples/",
+	"uri": "/example-requests/",
 	"title": "OPRA Request Examples",
 	"tags": [],
 	"description": "Boilerplate language to request specific types of documents",
@@ -357,7 +357,7 @@
 	"content": " OPRAmachine docs There are currently NO site availability issues Last updated: December 20th, 2017 Welcome The OPRAmachine Documentation (docs.opramachine.com) is your destination for information on how the site works, how administration decisions are made, as well as guides on how to make requests for specific types of public records under the New Jersey Open Public Records Act using the OPRAmachine web interface.\nBeginning in 2018, this documentation website will supersede the existing help material that is currently hosted at the existing OPRAmachine website, as this documentation platform will allow us to more effectively meet the needs of our users and the community at large. During the transitional period between the two documentation interfaces, both systems will remain operational.\nOne of the reasons we have chose to migrate to this platform for is the fact that this documentation is hosted on a separate server and content delivery network from the main OPRAmachine application and it will not be impacted by server outages or maintenance issues. Since the launch of OPRAmachine in October, 2017 the site administration has received a number of inquiries from users of our platform.\nHelp improve our documentation We hope that this documentation will help answer some of the questions that we have commonly received from requesters and records custodians. The OPRAmachine administration also aims to communicate site technical issues and outages both on this platform and on the OPRAmachine blog (blog.opramachine.com). While we aim for this documentation to be as complete as possible, there may be some things we are missing. Feel free to update the content of this site\u0026rsquo;s pages, just click the Edit this page link displayed on top right of each page, and submit a pull request with your changes. Your changes will be deployed automatically when merged after review.\nYour feedback Please reach out to the documentation\u0026rsquo;s editor, Gavin Rozzi, www.gavinrozzi.com with any feedback about this documentation. Feedback may also be submitted to any other member of the OPRAmachine team for their consideration. Issues may be submitted via Github to any of our website repositories.\n"
 },
 {
-	"uri": "/request-examples/police-records/",
+	"uri": "/example-requests/police-records/",
 	"title": "Police Records",
 	"tags": [],
 	"description": "Obtaining records from New Jersey police departments",
