@@ -11,7 +11,7 @@ OPRAmachine is an interactive web application designed to simplify the process o
 
 This diagram illustrates the lifecycle of a request for public records made via our web application.
 
-{{<mermaid align="left">}}
+{{<mermaid align="center">}}
 graph LR;
     A[Requester submits initial request] -->|OPRA request delivered via email| B(Custodian receives request)
     B --> C{Records Custodian Responds}
