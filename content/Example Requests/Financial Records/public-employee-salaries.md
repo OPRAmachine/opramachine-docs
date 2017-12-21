@@ -18,3 +18,11 @@ The Open Public Records Act provides that a requester can request that a governm
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+https://opramachine.com/request/employee_payroll_records_50
+
+https://opramachine.com/request/employee_payroll_records_87#outgoing-1833
+
+https://opramachine.com/request/employee_payroll_records_30#incoming-1690
+
+https://opramachine.com/request/employee_payroll_records_73#incoming-1683

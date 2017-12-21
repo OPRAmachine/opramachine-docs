@@ -11,7 +11,7 @@
 	"title": "Attorney Bills",
 	"tags": [],
 	"description": "Obtaining attorney bills using OPRAmachine",
-	"content": " Warning: If you request several months worth of legal bills with detail billing, you may get hit with a \u0026ldquo;special service\u0026rdquo; fee for the labor required to make the redactions. Consider breaking requests for these records into smaller requests.\n Governments hire attorneys for all for all sorts of legal matters. In many instances, a local government may end up hiring several law firms, with each firm covering a certain area of expertise. In many municipalities it\u0026rsquo;s not unusual to have separate attorneys for general legal matters, collective bargaining \u0026amp; labor relations and another for land use matters.\nYou can get an idea of what kinds of work a law firm is doing for a government agency by requesting copies of legal bills. If you are simply looking to get the amounts of money that are being paid to a certain law firm each month, a vendor history report would probably do the job instead.\nLegal bills are often a valuable source of information because they can reveal the identities of individuals involved in current or potential litigation against public entities. Along this vein, law firms often have attorney-client privileged information on detail billing that will need to be redacted. For this reason, it is best to have requests for legal bills be in as narrow of a timeframe as possible, such as requesting one month at a time, in order to avoid getting hit with \u0026ldquo;special service\u0026rdquo; fees.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
+	"content": " Warning: If you request several months worth of legal bills with detail billing, you may get hit with a \u0026ldquo;special service\u0026rdquo; fee for the labor required to make the redactions. Consider breaking requests for these records into smaller requests.\n Governments hire attorneys for all for all sorts of legal matters. In many instances, a local government may end up hiring several law firms, with each firm covering a certain area of expertise. In many municipalities it\u0026rsquo;s not unusual to have separate attorneys for general legal matters, collective bargaining \u0026amp; labor relations and another for land use matters.\nYou can get an idea of what kinds of work a law firm is doing for a government agency by requesting copies of legal bills. If you are simply looking to get the amounts of money that are being paid to a certain law firm each month, a vendor history report would probably do the job instead.\nLegal bills are often a valuable source of information because they can reveal the identities of individuals involved in current or potential litigation against public entities. Along this vein, law firms often have attorney-client privileged information on detail billing that will need to be redacted. For this reason, it is best to have requests for legal bills be in as narrow of a timeframe as possible, such as requesting one month at a time, in order to avoid getting hit with \u0026ldquo;special service\u0026rdquo; fees.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/attorney_bills#incoming-1060\nhttps://opramachine.com/request/attorney_bills_5#incoming-702\nhttps://opramachine.com/request/attorney_bills_2#incoming-1358\n"
 },
 {
 	"uri": "/making-requests/batch-requests/",
@@ -74,7 +74,7 @@
 	"title": "Complaints",
 	"tags": [],
 	"description": "Obtaining complaints",
-	"content": " The complaint is the first document that is filed in a lawsuit. It is a summary of the factual and legal allegations that give rise to the lawsuit.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
+	"content": " The complaint is the first document that is filed in a lawsuit. It is a summary of the factual and legal allegations that give rise to the lawsuit.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/county_of_ocean_v_truex#incoming-1678\nhttps://opramachine.com/request/elissetche_v_hatch_et_al\n"
 },
 {
 	"uri": "/site-policies-and-procedures/content-removal/",
@@ -89,6 +89,13 @@
 	"tags": [],
 	"description": "How to respond to an OPRAmachine request with large files",
 	"content": " Sometimes the response to request will require a large amount of space, such as when videos are requested. There are several ways that custodians can deal with largeFiles when responding to requests through the OPRAmachine website.\nEmail Attachment File Size Limits Each new OPRA request submitted through OPRAmachine results in the generation of a unique @requests.opramachine.com email address. The requests.opramachine.com mail ServerIs currently configured to accept emailAttachmentsUp to 100 MB in size. Please note that this limit only applies to our server, and your email provider may have smaller quotas for attachment, so caveat emptor. We encourage government users to check with their IT departments to ascertain what their server\u0026rsquo;s attachment size limit is if they want to be certain.\nConsider breaking up the response into multiple email attachments If you need to send documents that are in excess of 100 MB (or whatever your email provider\u0026rsquo;s attachment file size limit is) in response to a request, one option of doing so is to break up your response up into multiple emails, and send part of the response in each email message.\nGoogle Drive and Dropbox Another option to consider for sharing large volumes of files that cannot be delivered via email attachments are cloud based solutions such as Google Drive and Dropbox. These cloud solutions are easy to use and secure, which has made them popular both with consumers and the public sector. These services may be appropriate for material such as police dashboard camera footage or large amount of data in other formats.\n"
+},
+{
+	"uri": "/example-requests/police-records/policies/",
+	"title": "Department Policies &amp; SOPs",
+	"tags": [],
+	"description": "Obtaining police department policies &amp; standard operating procedures using OPRAmachine.",
+	"content": " The policies and procedures that govern local and county police departments should be easily obtainable using OPRAmachine. As some of the example requests will show, it may be advisable to break your request into narrower requests to obtain specific policies in order to avoid dealing with special service charges levied by the departments due to the voluminous nature of the OPRA request.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
 	"uri": "/making-requests/tracking-requests/email-alerts/",
@@ -161,6 +168,13 @@
 	"content": " Reports completed by police departments investigating motor vehicle accidents are obtainable under OPRA. Often, companies will file requests seeking copies of all motor vehicle accident reports for a given period of time. Police typically provide the reports in full, while redacting some sensitive personal information, such as drivers license numbers and insurance policy numbers.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
+	"uri": "/example-requests/legal-documents/oprarequests/",
+	"title": "OPRA Requests",
+	"tags": [],
+	"description": "Obtaining OPRA requests using OPRAmachine",
+	"content": " Yes, OPRA requests themselves are public records and may be readily obtained using OPRAmachine. We have found that municipalities and counties have varied fairly wildly with the extent to which they redact personally identifying information from the request forms and emails sent requesting public records under OPRA.\nSome government agencies have imposed \u0026ldquo;special service\u0026rdquo; charges to requests that are seeking a high volume of records, such as OPRAs covering several months. As emphasized in past documentation pages, breaking a request into smaller requests for narrower periods of time is a good way to avoid being charged a fee for the records you are seeking.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/opra_requests_294#incoming-698\nhttps://opramachine.com/request/opra_requests_91#incoming-1510\nhttps://opramachine.com/request/opra_requests_29#incoming-282\n"
+},
+{
 	"uri": "/example-requests/financial-records/pensions/",
 	"title": "Pension Records",
 	"tags": [],
@@ -186,7 +200,7 @@
 	"title": "Public Employee Salaries",
 	"tags": [],
 	"description": "Public Employee Salaries",
-	"content": " The Open Public Records Act provides that a requester can request that a governmental agency provide a list of all employees, including salary, job title, date of hire and reason for termination.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
+	"content": " The Open Public Records Act provides that a requester can request that a governmental agency provide a list of all employees, including salary, job title, date of hire and reason for termination.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/employee_payroll_records_50\nhttps://opramachine.com/request/employee_payroll_records_87#outgoing-1833\nhttps://opramachine.com/request/employee_payroll_records_30#incoming-1690\nhttps://opramachine.com/request/employee_payroll_records_73#incoming-1683\n"
 },
 {
 	"uri": "/making-requests/tracking-requests/using-data-feeds/rss/",
@@ -235,7 +249,7 @@
 	"title": "Settlement Agreements",
 	"tags": [],
 	"description": "Civil Settlement Agreements",
-	"content": " When a lawsuit is settled against a public agency, the terms of the settlement are memorialized as a settlement agreement. The settlement agreement recites some basic facts about the procedural history of a lawsuit before outlining the terms of the settlement. Typically, the plaintiff (the person who filed the lawsuit) is paid a sum of money to withdraw their litigation without the public body admitting any liability.\nSettlement agreements can be a useful tool for learning about the outcomes of litigation. Oftentimes, they are the only way of conclusively learning the end outcome of litigation against public bodies, as many times the settlement agreements will contain a confidentiality clause the prevents either the public body or the individual that sued them from speaking publicly about the events that gave rise to the litigation and settlement agreement, but courts have held that this confidentiality provision does not outweigh the public\u0026rsquo;s right to obtain a copy of the settlement agreement under OPRA\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
+	"content": " When a lawsuit is settled against a public agency, the terms of the settlement are memorialized as a settlement agreement. The settlement agreement recites some basic facts about the procedural history of a lawsuit before outlining the terms of the settlement. Typically, the plaintiff (the person who filed the lawsuit) is paid a sum of money to withdraw their litigation without the public body admitting any liability.\nSettlement agreements can be a useful tool for learning about the outcomes of litigation. Oftentimes, they are the only way of conclusively learning the end outcome of litigation against public bodies, as many times the settlement agreements will contain a confidentiality clause the prevents either the public body or the individual that sued them from speaking publicly about the events that gave rise to the litigation and settlement agreement, but courts have held that this confidentiality provision does not outweigh the public\u0026rsquo;s right to obtain a copy of the settlement agreement under OPRA\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/settlement_agreement_robert_wyso\nhttps://opramachine.com/request/sexual_harassment_settlements\nhttps://opramachine.com/request/lt_laurie_cahill_whistleblower_l\n"
 },
 {
 	"uri": "/site-administration/leadership/",
@@ -385,6 +399,13 @@
 	"content": ""
 },
 {
+	"uri": "/example-requests/social-media/",
+	"title": "Social Media Records",
+	"tags": [],
+	"description": "Boilerplate language to request social media information from government",
+	"content": "When government agencies use social media, the records they generate are public records accessible under OPRA. Even deleted comments and messages are fair game for requests!\n"
+},
+{
 	"uri": "/making-requests/tracking-requests/",
 	"title": "Tracking Requests",
 	"tags": [],
@@ -394,6 +415,13 @@
 {
 	"uri": "/_header/",
 	"title": "header",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/example-requests/social-media/policefb/",
+	"title": "",
 	"tags": [],
 	"description": "",
 	"content": ""

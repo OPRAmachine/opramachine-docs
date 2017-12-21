@@ -20,3 +20,9 @@ Settlement agreements can be a useful tool for learning about the outcomes of li
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+https://opramachine.com/request/settlement_agreement_robert_wyso
+
+https://opramachine.com/request/sexual_harassment_settlements
+
+https://opramachine.com/request/lt_laurie_cahill_whistleblower_l

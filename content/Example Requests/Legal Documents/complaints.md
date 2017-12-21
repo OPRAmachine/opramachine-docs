@@ -18,3 +18,7 @@ The complaint is the first document that is filed in a lawsuit. It is a summary 
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+https://opramachine.com/request/county_of_ocean_v_truex#incoming-1678
+
+https://opramachine.com/request/elissetche_v_hatch_et_al

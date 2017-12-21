@@ -68,6 +68,11 @@
   </url>
   
   <url>
+    <loc>/example-requests/police-records/policies/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/making-requests/tracking-requests/email-alerts/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
@@ -114,6 +119,11 @@
   
   <url>
     <loc>/example-requests/police-records/mva-reports/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/example-requests/legal-documents/oprarequests/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -278,6 +288,11 @@
   </url>
   
   <url>
+    <loc>/example-requests/social-media/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/making-requests/tracking-requests/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
@@ -285,6 +300,10 @@
   <url>
     <loc>/_header/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/example-requests/social-media/policefb/</loc>
   </url>
   
   <url>

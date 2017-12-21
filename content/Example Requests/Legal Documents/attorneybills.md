@@ -26,3 +26,9 @@ Legal bills are often a valuable source of information because they can reveal t
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+https://opramachine.com/request/attorney_bills#incoming-1060
+
+https://opramachine.com/request/attorney_bills_5#incoming-702
+
+https://opramachine.com/request/attorney_bills_2#incoming-1358

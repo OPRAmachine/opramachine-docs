@@ -115,7 +115,9 @@ Requesting CAD reports can allow you to get an idea of the types of police, fire
       
       <guid>/example-requests/legal-documents/complaints/</guid>
       <description>The complaint is the first document that is filed in a lawsuit. It is a summary of the factual and legal allegations that give rise to the lawsuit.
-Example requests The following are example requests made for this type of record on OPRAmachine:</description>
+Example requests The following are example requests made for this type of record on OPRAmachine:
+https://opramachine.com/request/county_of_ocean_v_truex#incoming-1678
+https://opramachine.com/request/elissetche_v_hatch_et_al</description>
     </item>
     
     <item>
@@ -135,6 +137,16 @@ Example requests The following are example requests made for this type of record
       <guid>/responding-to-requests/large-files/</guid>
       <description>Sometimes the response to request will require a large amount of space, such as when videos are requested. There are several ways that custodians can deal with largeFiles when responding to requests through the OPRAmachine website.
 Email Attachment File Size Limits Each new OPRA request submitted through OPRAmachine results in the generation of a unique @requests.opramachine.com email address. The requests.opramachine.com mail ServerIs currently configured to accept emailAttachmentsUp to 100 MB in size.</description>
+    </item>
+    
+    <item>
+      <title>Department Policies &amp; SOPs</title>
+      <link>/example-requests/police-records/policies/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/police-records/policies/</guid>
+      <description>The policies and procedures that govern local and county police departments should be easily obtainable using OPRAmachine. As some of the example requests will show, it may be advisable to break your request into narrower requests to obtain specific policies in order to avoid dealing with special service charges levied by the departments due to the voluminous nature of the OPRA request.
+Example requests The following are example requests made for this type of record on OPRAmachine:</description>
     </item>
     
     <item>
@@ -235,6 +247,16 @@ Example requests The following are example requests made for this type of record
     </item>
     
     <item>
+      <title>OPRA Requests</title>
+      <link>/example-requests/legal-documents/oprarequests/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/legal-documents/oprarequests/</guid>
+      <description>Yes, OPRA requests themselves are public records and may be readily obtained using OPRAmachine. We have found that municipalities and counties have varied fairly wildly with the extent to which they redact personally identifying information from the request forms and emails sent requesting public records under OPRA.
+Some government agencies have imposed &amp;ldquo;special service&amp;rdquo; charges to requests that are seeking a high volume of records, such as OPRAs covering several months.</description>
+    </item>
+    
+    <item>
       <title>Pension Records</title>
       <link>/example-requests/financial-records/pensions/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -270,7 +292,11 @@ Example requests The following are example requests made for this type of record
       
       <guid>/example-requests/financial-records/public-employee-salaries/</guid>
       <description>The Open Public Records Act provides that a requester can request that a governmental agency provide a list of all employees, including salary, job title, date of hire and reason for termination.
-Example requests The following are example requests made for this type of record on OPRAmachine:</description>
+Example requests The following are example requests made for this type of record on OPRAmachine:
+https://opramachine.com/request/employee_payroll_records_50
+https://opramachine.com/request/employee_payroll_records_87#outgoing-1833
+https://opramachine.com/request/employee_payroll_records_30#incoming-1690
+https://opramachine.com/request/employee_payroll_records_73#incoming-1683</description>
     </item>
     
     <item>
@@ -416,6 +442,15 @@ The OPRAmachine site administration reserves the sole right to determine whether
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>/_header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/example-requests/social-media/policefb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/example-requests/social-media/policefb/</guid>
       <description></description>
     </item>
     
