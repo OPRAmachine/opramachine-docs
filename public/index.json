@@ -112,6 +112,13 @@
 	"content": " The bodies of email messages often reveal the most detail for a given piece of correspondence, yet getting them can often be difficult. In order to obtain the bodies of email, statutory and case law has required that requesters be specific as to the source of the emails (either sender of recipient), as well as the date range and subject matter.\nOftentimes, a strategy that can be employed by requesters to obtain the bodies of email messages would be to first file an OPRA request for copies of the email logs for a public employee\u0026rsquo;s email account during the date range in question. Then, once you are in possession of the email logs, use the email logs to formulate a future OPRA request where you request to see copies of the specific bodies of email messages of interest that you have identified from the email logs.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
 },
 {
+	"uri": "/site-administration/technical-problems/email/",
+	"title": "Email Delivery Issues",
+	"tags": [],
+	"description": "Delivery issues with request emails",
+	"content": "There continues to be problems with email delivery to a handful of municipalities. Their firewalls are improperly rejecting OPRAmachine correspondence. We need to investigate ways of approaching this issue and solving this problem proactively.\n"
+},
+{
 	"uri": "/example-requests/emails/email-logs/",
 	"title": "Email Logs",
 	"tags": [],
@@ -238,6 +245,13 @@
 	"content": "Before you file a request for records related to a school ethics matter, be sure to first check the website of the state School Ethics Commission. The commission regularly publishes PDF versions of their rulings in schools ethics complaints filed against school members.\n"
 },
 {
+	"uri": "/site-administration/technical-problems/serverissues/",
+	"title": "Server Crashes",
+	"tags": [],
+	"description": "Issues with the server that powers the site",
+	"content": "The server that has been running the site has been crashing because of the high load due to user demand. We need to investigate ways to obtain better performance for the site or explore upgrades to the Linode instance.\n"
+},
+{
 	"uri": "/example-requests/legal-documents/settlements/",
 	"title": "Settlement Agreements",
 	"tags": [],
@@ -257,6 +271,13 @@
 	"tags": [],
 	"description": "Our policy on spam",
 	"content": "The OPRAmachine team takes our responsibility to prevent our platform from propagating internet spam seriously. User accounts that post spam links in the comment section, annotations, requests or any other area of our web properties risk immediate suspension using OPRAmachine web services.\n"
+},
+{
+	"uri": "/site-administration/technical-problems/stats/",
+	"title": "Statistics Page Broken",
+	"tags": [],
+	"description": "The statistics page is broken",
+	"content": " The statistics page is currently broken. We are investigating the cause of the problem\nGithub issue (Upstream) https://github.com/mysociety/alaveteli/issues/4433\nRaw text of error message A Math::DomainError occurred in statistics#index:\nNumerical argument is out of domain - \u0026ldquo;sqrt\u0026rdquo; lib/confidence_intervals.rb:28:in `sqrt\u0026rsquo;\nRequest:  URL : https://opramachine.com/statistics HTTP Method: GET IP address : 54.161.187.202 Parameters : {\u0026ldquo;controller\u0026rdquo;=\u0026gt;\u0026ldquo;statistics\u0026rdquo;, \u0026ldquo;action\u0026rdquo;=\u0026gt;\u0026ldquo;index\u0026rdquo;} Timestamp : 2017-12-20 21:57:55 -0500 Server : opramachine.com Rails root : /var/www/opramachine.com/alaveteli Process: 23591  Session:  session id: [FILTERED] data: {\u0026ldquo;session_id\u0026rdquo;=\u0026gt;\u0026ldquo;95647a59eaf52bc425f666123ae9fff8\u0026rdquo;, \u0026ldquo;locale\u0026rdquo;=\u0026gt;\u0026ldquo;en\u0026rdquo;}  Environment:  GATEWAY_INTERFACE : CGI/1.2 HTTP_ACCEPT : / HTTP_ACCEPT_ENCODING : gzip,deflate HTTP_CONNECTION : close HTTP_HOST : opramachine.com HTTP_RANGE : bytes=0-16384 HTTP_USER_AGENT : Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots) HTTP_VERSION : HTTP/1.0 HTTP_X_ACCEL_MAPPING : /var/www/opramachine.com/alaveteli/cache/zips/production/download=/download HTTP_X_FORWARDED_FOR : 54.161.187.202 HTTP_X_FORWARDED_PROTO : https HTTP_X_REAL_IP : 54.161.187.202 HTTP_X_SENDFILE_TYPE : X-Accel-Redirect ORIGINAL_FULLPATH : /statistics ORIGINAL_SCRIPT_NAME : PATH_INFO : /statistics QUERY_STRING : REMOTE_ADDR : 127.0.0.1 REQUEST_METHOD : GET REQUEST_PATH : /statistics REQUEST_URI : /statistics ROUTES_53640860_SCRIPT_NAME : SCRIPT_NAME : SERVER_NAME : opramachine.com SERVER_PORT : 80 SERVER_PROTOCOL : HTTP/1.1 SERVER_SOFTWARE : thin 1.5.1 codename Straight Razor action_controller.instance : #StatisticsController:0x0000001129a7a0 action_dispatch.backtrace_cleaner : #Rails::BacktraceCleaner:0x0000000a89b570 action_dispatch.cookies : #ActionDispatch::Cookies::CookieJar:0x0000000d69b9e8 action_dispatch.cookies_digest : action_dispatch.cookies_serializer : hybrid action_dispatch.encrypted_cookie_salt : encrypted cookie action_dispatch.encrypted_signed_cookie_salt : signed encrypted cookie action_dispatch.http_auth_salt : http authentication action_dispatch.key_generator : #ActiveSupport::CachingKeyGenerator:0x000000095c7368 action_dispatch.logger : #ActiveSupport::Logger:0x0000000655fa18 action_dispatch.parameter_filter : [:password] action_dispatch.redirect_filter : [] action_dispatch.remote_ip : 54.161.187.202 action_dispatch.request.accepts : [#] action_dispatch.request.content_type : action_dispatch.request.formats : [#] action_dispatch.request.parameters : {\u0026ldquo;controller\u0026rdquo;=\u0026gt;\u0026ldquo;statistics\u0026rdquo;, \u0026ldquo;action\u0026rdquo;=\u0026gt;\u0026ldquo;index\u0026rdquo;} action_dispatch.request.path_parameters : {:controller=\u0026gt;\u0026ldquo;statistics\u0026rdquo;, :action=\u0026gt;\u0026ldquo;index\u0026rdquo;} action_dispatch.request.query_parameters : {} action_dispatch.request.request_parameters : {} action_dispatch.request.unsigned_session_cookie: {\u0026ldquo;session_id\u0026rdquo;=\u0026gt;\u0026ldquo;95647a59eaf52bc425f666123ae9fff8\u0026rdquo;} action_dispatch.request_id : 7b0d26e2-9544-49b8-a094-c9861a3e1076 action_dispatch.routes : #ActionDispatch::Routing::RouteSet:0x0000000664fd38 action_dispatch.secret_key_base : this default is insecure as code is open source, please override for live sites in config/general; this will do for local development action_dispatch.secret_token : action_dispatch.show_detailed_exceptions : false action_dispatch.show_exceptions : true action_dispatch.signed_cookie_salt : signed cookie async.callback : # async.close : #EventMachine::DefaultDeferrable:0x0000000f5e4480 newrelic.transaction_started : true rack.errors : #IO:0x00000002041b98 rack.input : #StringIO:0x0000000f5e4ca0 rack.multiprocess : false rack.multithread : false rack.request.cookie_hash : {} rack.request.query_hash : {} rack.request.query_string : rack.run_once : false rack.session : #ActionDispatch::Request::Session:0x0000000f6343b8 rack.session.options : #ActionDispatch::Request::Session::Options:0x0000000f634368 rack.url_scheme : http rack.version : [1, 0]  Backtrace: lib/confidence_intervals.rb:28:in sqrt' lib/confidence_intervals.rb:28:inci_bounds\u0026rsquo; app/models/public_body.rb:722:in block in get_request_percentages' app/models/public_body.rb:721:ineach\u0026rsquo; app/models/public_body.rb:721:in each_with_index' app/models/public_body.rb:721:ineach\u0026rsquo; app/models/public_body.rb:721:in map' app/models/public_body.rb:721:inget_request_percentages\u0026rsquo; app/models/statistics.rb:49:in block (2 levels) in public_bodies' app/models/statistics.rb:43:ineach\u0026rsquo; app/models/statistics.rb:43:in block in public_bodies' app/models/statistics.rb:42:ineach\u0026rsquo; app/models/statistics.rb:42:in public_bodies' app/controllers/statistics_controller.rb:7:inindex\u0026rsquo; app/controllers/application_controller.rb:120:in record_memory' lib/strip_empty_sessions.rb:13:incall\u0026rsquo;\n"
 },
 {
 	"uri": "/example-requests/police-records/summonses/",
@@ -404,6 +425,13 @@
 	"tags": [],
 	"description": "Boilerplate language to request social media information from government",
 	"content": "When government agencies use social media, the records they generate are public records accessible under OPRA. Even deleted comments and messages are fair game for requests!\n"
+},
+{
+	"uri": "/site-administration/technical-problems/",
+	"title": "Technical Issues",
+	"tags": [],
+	"description": "Information regarding technical problems being addressed by the OPRAmachine team",
+	"content": "This section of the documentation will provide information on the technical issues affecting the OPRAmachine site. Most of this will deal with the underlying errors in the Alaveteli open source software package that powers the site or the underlying Ruby on Rails web application framework.\n"
 },
 {
 	"uri": "/making-requests/tracking-requests/",

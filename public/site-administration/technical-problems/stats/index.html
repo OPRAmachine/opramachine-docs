@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="generator" content="Hugo 0.31.1" />
 
-<title>Batch Requests :: OPRAmachine Documentation</title>
+<title>Statistics Page Broken :: OPRAmachine Documentation</title>
 <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link href="/css/nucleus.css" rel="stylesheet">
 <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -23,12 +23,12 @@
     display:none !important;
   }
 </style>
-<meta name="description" content="Making batch OPRA requests">
+<meta name="description" content="The statistics page is broken">
 
 
     
   </head>
-  <body data-url="/making-requests/batch-requests/">
+  <body data-url="/site-administration/technical-problems/stats/">
     
       <div id="headermain"></div>
 <nav id="sidebar" class="showVisitedLinks">
@@ -77,13 +77,12 @@
     </li>
         </ul>
     </li>
-    <li data-nav-id="/making-requests/" class="dd-item parent">
+    <li data-nav-id="/making-requests/" class="dd-item">
       <a href="/making-requests/">
-        <span>Making Requests</span>
-            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+        <span>Making Requests</span><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
-      <li data-nav-id="/making-requests/batch-requests/" class="dd-item active">
+      <li data-nav-id="/making-requests/batch-requests/" class="dd-item">
         <a href="/making-requests/batch-requests/">
           <span>Batch Requests</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
@@ -325,9 +324,10 @@
     </li>
         </ul>
     </li>
-    <li data-nav-id="/site-administration/" class="dd-item">
+    <li data-nav-id="/site-administration/" class="dd-item parent">
       <a href="/site-administration/">
-        <span>Site Administration</span><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+        <span>Site Administration</span>
+            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
       <li data-nav-id="/site-administration/reactive/" class="dd-item">
@@ -340,9 +340,10 @@
           <span>Site Leadership</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
     </li>
-    <li data-nav-id="/site-administration/technical-problems/" class="dd-item">
+    <li data-nav-id="/site-administration/technical-problems/" class="dd-item parent">
       <a href="/site-administration/technical-problems/">
-        <span>Technical Issues</span><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+        <span>Technical Issues</span>
+            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
       <li data-nav-id="/site-administration/technical-problems/email/" class="dd-item">
@@ -355,7 +356,7 @@
           <span>Server Crashes</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
     </li>
-      <li data-nav-id="/site-administration/technical-problems/stats/" class="dd-item">
+      <li data-nav-id="/site-administration/technical-problems/stats/" class="dd-item active">
         <a href="/site-administration/technical-problems/stats/">
           <span>Statistics Page Broken</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
@@ -444,7 +445,7 @@
       
       
     <div id="top-github-link">
-      <a class="github-link" href="https://github.com/gavinrozzi/opramachine-docs/edit/master/content/Making%20Requests/batch-requests.md" target="blank">
+      <a class="github-link" href="https://github.com/gavinrozzi/opramachine-docs/edit/master/content/Site%20Administration/Technical%20Problems/stats.md" target="blank">
         <i class="fa fa-code-fork"></i>
         Edit page
       </a>
@@ -464,7 +465,12 @@
 
 
 
- <a href='/'>OPRAmachine Documentation</a> > <a href='/making-requests/'>Making Requests</a> > Batch Requests
+
+
+
+ <a href='/'>OPRAmachine Documentation</a> > <a href='/site-administration/'>Site Administration</a> > <a href='/site-administration/technical-problems/'>Technical Issues</a> > Statistics Page Broken
+
+ 
 
  
 
@@ -477,7 +483,19 @@
     
     <div class="progress">
         <div class="wrapper">
-    
+    <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#github-issue-upstream">Github issue (Upstream)</a></li>
+<li><a href="#raw-text-of-error-message">Raw text of error message</a></li>
+<li><a href="#request">Request:</a></li>
+<li><a href="#session">Session:</a></li>
+<li><a href="#environment">Environment:</a></li>
+<li><a href="#backtrace">Backtrace:</a></li>
+</ul></li>
+</ul>
+</nav>
         </div>
     </div>
     
@@ -487,7 +505,7 @@
 
 <div id="body-inner">
   
-    <h1>Batch Requests</h1>
+    <h1>Statistics Page Broken</h1>
   
 
 
@@ -495,9 +513,142 @@
     
     
     
-    <p>A  batch request is the same OPRA request submitted to multiple governmental agencies at the same time. An individual may wish to submit this sort of request if they were doing comparative research about the differences between municipalities or counties or even particular public bodies.</p>
+    
 
-<p>Due to spam concerns, the ability to submit batch requests is currently limited and requests to enable them are currently considered on a case-by-case basis. If you are interested in making use of batch requests, please contact us to discuss your needs.</p>
+<p>The statistics page is currently broken. We are investigating the cause of the problem</p>
+
+<h2 id="github-issue-upstream">Github issue (Upstream)</h2>
+
+<p><a href="https://github.com/mysociety/alaveteli/issues/4433">https://github.com/mysociety/alaveteli/issues/4433</a></p>
+
+<h2 id="raw-text-of-error-message">Raw text of error message</h2>
+
+<p>A Math::DomainError occurred in statistics#index:</p>
+
+<p>Numerical argument is out of domain - &ldquo;sqrt&rdquo;
+ lib/confidence_intervals.rb:28:in `sqrt&rsquo;</p>
+
+<hr />
+
+<h2 id="request">Request:</h2>
+
+<ul>
+<li>URL        : <a href="https://opramachine.com/statistics">https://opramachine.com/statistics</a></li>
+<li>HTTP Method: GET</li>
+<li>IP address : 54.161.187.202</li>
+<li>Parameters : {&ldquo;controller&rdquo;=&gt;&ldquo;statistics&rdquo;, &ldquo;action&rdquo;=&gt;&ldquo;index&rdquo;}</li>
+<li>Timestamp  : 2017-12-20 21:57:55 -0500</li>
+<li>Server : opramachine.com</li>
+<li>Rails root : /var/www/opramachine.com/alaveteli</li>
+<li>Process: 23591</li>
+</ul>
+
+<hr />
+
+<h2 id="session">Session:</h2>
+
+<ul>
+<li>session id: [FILTERED]</li>
+<li>data: {&ldquo;session_id&rdquo;=&gt;&ldquo;95647a59eaf52bc425f666123ae9fff8&rdquo;, &ldquo;locale&rdquo;=&gt;&ldquo;en&rdquo;}</li>
+</ul>
+
+<hr />
+
+<h2 id="environment">Environment:</h2>
+
+<ul>
+<li>GATEWAY_INTERFACE                              : CGI/1.2</li>
+<li>HTTP_ACCEPT                                    : <em>/</em></li>
+<li>HTTP_ACCEPT_ENCODING                           : gzip,deflate</li>
+<li>HTTP_CONNECTION                                : close</li>
+<li>HTTP_HOST                                      : opramachine.com</li>
+<li>HTTP_RANGE                                     : bytes=0-16384</li>
+<li>HTTP_USER_AGENT                                : Slackbot-LinkExpanding 1.0 (+<a href="https://api.slack.com/robots">https://api.slack.com/robots</a>)</li>
+<li>HTTP_VERSION                                   : HTTP/1.0</li>
+<li>HTTP_X_ACCEL_MAPPING                           : /var/www/opramachine.com/alaveteli/cache/zips/production/download=/download</li>
+<li>HTTP_X_FORWARDED_FOR                           : 54.161.187.202</li>
+<li>HTTP_X_FORWARDED_PROTO                         : https</li>
+<li>HTTP_X_REAL_IP                                 : 54.161.187.202</li>
+<li>HTTP_X_SENDFILE_TYPE                           : X-Accel-Redirect</li>
+<li>ORIGINAL_FULLPATH                              : /statistics</li>
+<li>ORIGINAL_SCRIPT_NAME                           :</li>
+<li>PATH_INFO                                      : /statistics</li>
+<li>QUERY_STRING                                   :</li>
+<li>REMOTE_ADDR                                    : 127.0.0.1</li>
+<li>REQUEST_METHOD                                 : GET</li>
+<li>REQUEST_PATH                                   : /statistics</li>
+<li>REQUEST_URI                                    : /statistics</li>
+<li>ROUTES_53640860_SCRIPT_NAME                    :</li>
+<li>SCRIPT_NAME                                    :</li>
+<li>SERVER_NAME                                    : opramachine.com</li>
+<li>SERVER_PORT                                    : 80</li>
+<li>SERVER_PROTOCOL                                : HTTP/1.1</li>
+<li>SERVER_SOFTWARE                                : thin 1.5.1 codename Straight Razor</li>
+<li>action_controller.instance                     : #<a href="StatisticsController:0x0000001129a7a0">StatisticsController:0x0000001129a7a0</a></li>
+<li>action_dispatch.backtrace_cleaner              : #<a href="Rails::BacktraceCleaner:0x0000000a89b570">Rails::BacktraceCleaner:0x0000000a89b570</a></li>
+<li>action_dispatch.cookies                        : #<a href="ActionDispatch::Cookies::CookieJar:0x0000000d69b9e8">ActionDispatch::Cookies::CookieJar:0x0000000d69b9e8</a></li>
+<li>action_dispatch.cookies_digest                 :</li>
+<li>action_dispatch.cookies_serializer             : hybrid</li>
+<li>action_dispatch.encrypted_cookie_salt          : encrypted cookie</li>
+<li>action_dispatch.encrypted_signed_cookie_salt   : signed encrypted cookie</li>
+<li>action_dispatch.http_auth_salt                 : http authentication</li>
+<li>action_dispatch.key_generator                  : #<a href="ActiveSupport::CachingKeyGenerator:0x000000095c7368">ActiveSupport::CachingKeyGenerator:0x000000095c7368</a></li>
+<li>action_dispatch.logger                         : #<a href="ActiveSupport::Logger:0x0000000655fa18">ActiveSupport::Logger:0x0000000655fa18</a></li>
+<li>action_dispatch.parameter_filter               : [:password]</li>
+<li>action_dispatch.redirect_filter                : []</li>
+<li>action_dispatch.remote_ip                      : 54.161.187.202</li>
+<li>action_dispatch.request.accepts                : [#<Mime::Type:0x00000011298f68 @synonyms=[], @symbol=nil, @string="*/*", @hash=4306184708532017714>]</li>
+<li>action_dispatch.request.content_type           :</li>
+<li>action_dispatch.request.formats                : [#<Mime::Type:0x00000011298f68 @synonyms=[], @symbol=nil, @string="*/*", @hash=4306184708532017714>]</li>
+<li>action_dispatch.request.parameters             : {&ldquo;controller&rdquo;=&gt;&ldquo;statistics&rdquo;, &ldquo;action&rdquo;=&gt;&ldquo;index&rdquo;}</li>
+<li>action_dispatch.request.path_parameters        : {:controller=&gt;&ldquo;statistics&rdquo;, :action=&gt;&ldquo;index&rdquo;}</li>
+<li>action_dispatch.request.query_parameters       : {}</li>
+<li>action_dispatch.request.request_parameters     : {}</li>
+<li>action_dispatch.request.unsigned_session_cookie: {&ldquo;session_id&rdquo;=&gt;&ldquo;95647a59eaf52bc425f666123ae9fff8&rdquo;}</li>
+<li>action_dispatch.request_id                     : 7b0d26e2-9544-49b8-a094-c9861a3e1076</li>
+<li>action_dispatch.routes                         : #<a href="ActionDispatch::Routing::RouteSet:0x0000000664fd38">ActionDispatch::Routing::RouteSet:0x0000000664fd38</a></li>
+<li>action_dispatch.secret_key_base                : this default is insecure as code is open source, please override for live sites in config/general; this will do for local development</li>
+<li>action_dispatch.secret_token                   :</li>
+<li>action_dispatch.show_detailed_exceptions       : false</li>
+<li>action_dispatch.show_exceptions                : true</li>
+<li>action_dispatch.signed_cookie_salt             : signed cookie</li>
+<li>async.callback                                 : #<Method: Thin::Connection#post_process></li>
+<li>async.close                                    : #<a href="EventMachine::DefaultDeferrable:0x0000000f5e4480">EventMachine::DefaultDeferrable:0x0000000f5e4480</a></li>
+<li>newrelic.transaction_started                   : true</li>
+<li>rack.errors                                    : #<a href="IO:0x00000002041b98">IO:0x00000002041b98</a></li>
+<li>rack.input                                     : #<a href="StringIO:0x0000000f5e4ca0">StringIO:0x0000000f5e4ca0</a></li>
+<li>rack.multiprocess                              : false</li>
+<li>rack.multithread                               : false</li>
+<li>rack.request.cookie_hash                       : {}</li>
+<li>rack.request.query_hash                        : {}</li>
+<li>rack.request.query_string                      :</li>
+<li>rack.run_once                                  : false</li>
+<li>rack.session                                   : #<a href="ActionDispatch::Request::Session:0x0000000f6343b8">ActionDispatch::Request::Session:0x0000000f6343b8</a></li>
+<li>rack.session.options                           : #<a href="ActionDispatch::Request::Session::Options:0x0000000f634368">ActionDispatch::Request::Session::Options:0x0000000f634368</a></li>
+<li>rack.url_scheme                                : http</li>
+<li>rack.version                                   : [1, 0]</li>
+</ul>
+
+<hr />
+
+<h2 id="backtrace">Backtrace:</h2>
+
+<p>lib/confidence_intervals.rb:28:in <code>sqrt'
+ lib/confidence_intervals.rb:28:in</code>ci_bounds&rsquo;
+ app/models/public_body.rb:722:in <code>block in get_request_percentages'
+ app/models/public_body.rb:721:in</code>each&rsquo;
+ app/models/public_body.rb:721:in <code>each_with_index'
+ app/models/public_body.rb:721:in</code>each&rsquo;
+ app/models/public_body.rb:721:in <code>map'
+ app/models/public_body.rb:721:in</code>get_request_percentages&rsquo;
+ app/models/statistics.rb:49:in <code>block (2 levels) in public_bodies'
+ app/models/statistics.rb:43:in</code>each&rsquo;
+ app/models/statistics.rb:43:in <code>block in public_bodies'
+ app/models/statistics.rb:42:in</code>each&rsquo;
+ app/models/statistics.rb:42:in <code>public_bodies'
+ app/controllers/statistics_controller.rb:7:in</code>index&rsquo;
+ app/controllers/application_controller.rb:120:in <code>record_memory'
+ lib/strip_empty_sessions.rb:13:in</code>call&rsquo;</p>
 
 
     
@@ -512,8 +663,8 @@
 </div>
 
 <div id="navigation">
-<a class="nav nav-prev" href="/making-requests/" title="Making Requests"> <i class="fa fa-chevron-left"></i></a>
-    <a class="nav nav-next" href="/making-requests/best/" title="Best Practices" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a></div>
+<a class="nav nav-prev" href="/site-administration/technical-problems/serverissues/" title="Server Crashes"> <i class="fa fa-chevron-left"></i></a>
+    <a class="nav nav-next" href="/site-policies-and-procedures/" title="Site Policies and Procedures" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a></div>
 
 </section>
 <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">

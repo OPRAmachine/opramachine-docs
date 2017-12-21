@@ -83,6 +83,11 @@
   </url>
   
   <url>
+    <loc>/site-administration/technical-problems/email/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/example-requests/emails/email-logs/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
@@ -173,6 +178,11 @@
   </url>
   
   <url>
+    <loc>/site-administration/technical-problems/serverissues/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/example-requests/legal-documents/settlements/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
@@ -184,6 +194,11 @@
   
   <url>
     <loc>/site-policies-and-procedures/spam/</loc>
+    <lastmod>2017-12-19T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/site-administration/technical-problems/stats/</loc>
     <lastmod>2017-12-19T18:36:24+02:00</lastmod>
   </url>
   
@@ -289,6 +304,11 @@
   
   <url>
     <loc>/example-requests/social-media/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/site-administration/technical-problems/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   

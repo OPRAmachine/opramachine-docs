@@ -169,6 +169,15 @@ Oftentimes, a strategy that can be employed by requesters to obtain the bodies o
     </item>
     
     <item>
+      <title>Email Delivery Issues</title>
+      <link>/site-administration/technical-problems/email/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-administration/technical-problems/email/</guid>
+      <description>There continues to be problems with email delivery to a handful of municipalities. Their firewalls are improperly rejecting OPRAmachine correspondence. We need to investigate ways of approaching this issue and solving this problem proactively.</description>
+    </item>
+    
+    <item>
       <title>Email Logs</title>
       <link>/example-requests/emails/email-logs/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -348,6 +357,15 @@ Responding using the web interface To respond to a request directly from the OPR
     </item>
     
     <item>
+      <title>Server Crashes</title>
+      <link>/site-administration/technical-problems/serverissues/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-administration/technical-problems/serverissues/</guid>
+      <description>The server that has been running the site has been crashing because of the high load due to user demand. We need to investigate ways to obtain better performance for the site or explore upgrades to the Linode instance.</description>
+    </item>
+    
+    <item>
       <title>Settlement Agreements</title>
       <link>/example-requests/legal-documents/settlements/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -374,6 +392,19 @@ Gavin Rozzi Gavin Rozzi is the founder of OPRAmachine.com. He is responsible for
       
       <guid>/site-policies-and-procedures/spam/</guid>
       <description>The OPRAmachine team takes our responsibility to prevent our platform from propagating internet spam seriously. User accounts that post spam links in the comment section, annotations, requests or any other area of our web properties risk immediate suspension using OPRAmachine web services.</description>
+    </item>
+    
+    <item>
+      <title>Statistics Page Broken</title>
+      <link>/site-administration/technical-problems/stats/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-administration/technical-problems/stats/</guid>
+      <description>The statistics page is currently broken. We are investigating the cause of the problem
+Github issue (Upstream) https://github.com/mysociety/alaveteli/issues/4433
+Raw text of error message A Math::DomainError occurred in statistics#index:
+Numerical argument is out of domain - &amp;ldquo;sqrt&amp;rdquo; lib/confidence_intervals.rb:28:in `sqrt&amp;rsquo;
+Request:  URL : https://opramachine.com/statistics HTTP Method: GET IP address : 54.161.187.202 Parameters : {&amp;ldquo;controller&amp;rdquo;=&amp;gt;&amp;ldquo;statistics&amp;rdquo;, &amp;ldquo;action&amp;rdquo;=&amp;gt;&amp;ldquo;index&amp;rdquo;} Timestamp : 2017-12-20 21:57:55 -0500 Server : opramachine.com Rails root : /var/www/opramachine.com/alaveteli Process: 23591  Session:  session id: [FILTERED] data: {&amp;ldquo;session_id&amp;rdquo;=&amp;gt;&amp;ldquo;95647a59eaf52bc425f666123ae9fff8&amp;rdquo;, &amp;ldquo;locale&amp;rdquo;=&amp;gt;&amp;ldquo;en&amp;rdquo;}  Environment:  GATEWAY_INTERFACE : CGI/1.</description>
     </item>
     
     <item>
