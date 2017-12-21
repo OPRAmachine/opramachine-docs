@@ -18,3 +18,7 @@ Police body camera footage can be obtained under OPRA, however a special concern
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+https://opramachine.com/request/body_cam_footage_of_the_raid_on
+
+https://opramachine.com/request/the_body_cam_of_greg_petersons_a

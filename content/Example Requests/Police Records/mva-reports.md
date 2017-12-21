@@ -18,3 +18,9 @@ Reports completed by police departments investigating motor vehicle accidents ar
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+https://opramachine.com/request/mva_reports
+
+https://opramachine.com/request/mva_reports_2
+
+https://opramachine.com/request/mva_reports_8

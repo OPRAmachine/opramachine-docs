@@ -18,3 +18,9 @@ The types of internal affairs records that the public can obtain under OPRA is l
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+https://opramachine.com/request/different_police_department_annu_2
+
+https://opramachine.com/request/different_police_department_annu_5
+
+https://opramachine.com/request/different_police_department_annu_7

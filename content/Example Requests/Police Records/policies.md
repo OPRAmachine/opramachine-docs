@@ -18,3 +18,7 @@ lastmodifieremail = "gr@gavinrozzi.com"
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+https://opramachine.com/request/a_copy_of_all_standard_operating_8#outgoing-1734
+
+https://opramachine.com/request/a_copy_of_all_standard_operating_4#outgoing-1733

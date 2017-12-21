@@ -17,3 +17,9 @@ Police use of force reports can be a great tool for understanding the types of i
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+https://opramachine.com/request/police_use_of_force_reports_janu_14#incoming-38
+
+https://opramachine.com/request/use_of_force_reports
+
+https://opramachine.com/request/different_police_department_annu_64#incoming-818
