@@ -5,7 +5,7 @@ date = "2017-04-24T18:36:24+02:00"
 
 +++
 # OPRAmachine docs
-{{% notice tip %}}There are currently NO site availability issues.{{% /notice %}}
+{{% notice tip %}}There are currently NO site availability issues{{% /notice %}}
 {{%alert%}}Last updated: December 20th, 2017{{%/alert%}}
 ## Welcome
 The OPRAmachine Documentation (docs.opramachine.com) is your destination for information on how the site works, how administration decisions are made, as well as guides on how to make requests for specific types of public records under the New Jersey Open Public Records Act using the OPRAmachine web interface.
@@ -17,7 +17,7 @@ hosted on a separate server and content delivery network from the main OPRAmachi
 not be impacted by server outages or maintenance issues. Since the launch of OPRAmachine in October, 2017
 the site administration has received a number of inquiries from users of our platform.
 
-## Help improve this documentation
+## Help improve our documentation
 We hope that this documentation will help answer some of the questions that we have commonly received from requesters and records custodians. The OPRAmachine administration also aims to communicate site technical issues and outages both on this platform and on the OPRAmachine blog (blog.opramachine.com).
 While we aim for this documentation to be as complete as possible, there may be some things we are missing. Feel free to update the content of this site's pages, just click the **Edit this page** link displayed on top right of each page, and submit a pull request with your changes. Your changes will be deployed automatically when merged after review.
 
