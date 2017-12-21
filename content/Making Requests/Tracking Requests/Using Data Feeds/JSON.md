@@ -14,4 +14,4 @@ lastmodifierdisplayname = "Gavin Rozzi"
 lastmodifieremail = "gr@gavinrozzi.com"
 +++
 
-You can get JSON-formatted data out of OPRAmachine by simply adding ".json" to the end of a URL.
+You can get **JSON**-formatted data out of OPRAmachine by simply adding ".json" to the end of a URL.
