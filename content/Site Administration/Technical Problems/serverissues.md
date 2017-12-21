@@ -15,3 +15,11 @@ lastmodifieremail = "gr@gavinrozzi.com"
 +++
 
 The server that has been running the site has been crashing because of the high load due to user demand. We need to investigate ways to obtain better performance for the site or explore upgrades to the Linode instance.
+
+### Reasons for server crashes
+Since late October there have been a variety of reasons for server crashes at OPRAmachine.
+
+Here are some of the reasons:
+- Lack of RAM
+- Database issues
+- Lack of disk space

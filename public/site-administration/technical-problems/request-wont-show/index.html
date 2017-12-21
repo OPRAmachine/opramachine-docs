@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="generator" content="Hugo 0.31.1" />
 
-<title>Responding via Email :: OPRAmachine Documentation</title>
+<title>Request Won&#39;t Show :: OPRAmachine Documentation</title>
 <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link href="/css/nucleus.css" rel="stylesheet">
 <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -23,12 +23,12 @@
     display:none !important;
   }
 </style>
-<meta name="description" content="How to respond to an OPRAmachine request via email">
+<meta name="description" content="OPRA request won&#39;t show">
 
 
     
   </head>
-  <body data-url="/responding-to-requests/email/">
+  <body data-url="/site-administration/technical-problems/request-wont-show/">
     
       <div id="headermain"></div>
 <nav id="sidebar" class="showVisitedLinks">
@@ -302,10 +302,9 @@
     </li>
         </ul>
     </li>
-    <li data-nav-id="/responding-to-requests/" class="dd-item parent">
+    <li data-nav-id="/responding-to-requests/" class="dd-item">
       <a href="/responding-to-requests/">
-        <span>Responding to Requests</span>
-            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+        <span>Responding to Requests</span><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
       <li data-nav-id="/responding-to-requests/large-files/" class="dd-item">
@@ -313,7 +312,7 @@
           <span>Dealing With Large Files</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
     </li>
-      <li data-nav-id="/responding-to-requests/email/" class="dd-item active">
+      <li data-nav-id="/responding-to-requests/email/" class="dd-item">
         <a href="/responding-to-requests/email/">
           <span>Responding via Email</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
@@ -325,9 +324,10 @@
     </li>
         </ul>
     </li>
-    <li data-nav-id="/site-administration/" class="dd-item">
+    <li data-nav-id="/site-administration/" class="dd-item parent">
       <a href="/site-administration/">
-        <span>Site Administration</span><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+        <span>Site Administration</span>
+            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
       <li data-nav-id="/site-administration/reactive/" class="dd-item">
@@ -340,9 +340,10 @@
           <span>Site Leadership</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
     </li>
-    <li data-nav-id="/site-administration/technical-problems/" class="dd-item">
+    <li data-nav-id="/site-administration/technical-problems/" class="dd-item parent">
       <a href="/site-administration/technical-problems/">
-        <span>Technical Problems</span><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+        <span>Technical Problems</span>
+            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
       <li data-nav-id="/site-administration/technical-problems/email/" class="dd-item">
@@ -350,7 +351,7 @@
           <span>Email Delivery Issues</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
     </li>
-      <li data-nav-id="/site-administration/technical-problems/request-wont-show/" class="dd-item">
+      <li data-nav-id="/site-administration/technical-problems/request-wont-show/" class="dd-item active">
         <a href="/site-administration/technical-problems/request-wont-show/">
           <span>Request Won&#39;t Show</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
@@ -449,7 +450,7 @@
       
       
     <div id="top-github-link">
-      <a class="github-link" href="https://github.com/gavinrozzi/opramachine-docs/edit/master/content/Responding%20to%20Requests/email.md" target="blank">
+      <a class="github-link" href="https://github.com/gavinrozzi/opramachine-docs/edit/master/content/Site%20Administration/Technical%20Problems/request-wont-show.md" target="blank">
         <i class="fa fa-code-fork"></i>
         Edit page
       </a>
@@ -469,7 +470,12 @@
 
 
 
- <a href='/'>OPRAmachine Documentation</a> > <a href='/responding-to-requests/'>Responding to Requests</a> > Responding via Email
+
+
+
+ <a href='/'>OPRAmachine Documentation</a> > <a href='/site-administration/'>Site Administration</a> > <a href='/site-administration/technical-problems/'>Technical Problems</a> > Request Won't Show
+
+ 
 
  
 
@@ -486,7 +492,12 @@
 <ul>
 <li>
 <ul>
-<li><a href="#reply-to-the-request-email">Reply to the request email</a></li>
+<li><a href="#upstream-github-issue">Upstream Github issue</a></li>
+<li><a href="#full-error-message">Full Error message</a></li>
+<li><a href="#request">Request:</a></li>
+<li><a href="#session">Session:</a></li>
+<li><a href="#environment">Environment:</a></li>
+<li><a href="#backtrace">Backtrace:</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -499,7 +510,7 @@
 
 <div id="body-inner">
   
-    <h1>Responding via Email</h1>
+    <h1>Request Won&#39;t Show</h1>
   
 
 
@@ -509,11 +520,140 @@
     
     
 
-<h2 id="reply-to-the-request-email">Reply to the request email</h2>
+<p>One OPRA response simply will not show, no matter what we try and do. This is a mystery and we have not been sure how to proceed.</p>
 
-<p>You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email that you would receive from any other sender.</p>
+<h2 id="upstream-github-issue">Upstream Github issue</h2>
 
-<p>Please note that the characters that appear before @requests.opramachine.com in the email addresses that send requests are used by the OPRAmachine software to categorize &amp; track OPRA requests. Please do not confuse these addresses. Improperly delivered responses can be recategorized by the site administration, however we our ability to recategorize requests is limited based upon time constraints so we may not be able to address each request right away.</p>
+<p>We have opened a <a href="https://github.com/mysociety/alaveteli/issues/4412">Github issue</a> with the open source software project that provides the code that runs on the OPRAmachine server. We are curently waiting to hear back as of 12/20/2017.</p>
+
+<h2 id="full-error-message">Full Error message</h2>
+
+<p>A RuntimeError occurred in request#show:</p>
+
+<p>main body text more than 1 MB, need to implement clipping like for attachment text, or there is some other MIME decoding problem or similar
+ app/models/incoming_message.rb:426:in `_cache_main_body_text&rsquo;</p>
+
+<hr />
+
+<h2 id="request">Request:</h2>
+
+<ul>
+<li>URL        : <a href="https://opramachine.com/request/opra_requests_5">https://opramachine.com/request/opra_requests_5</a></li>
+<li>HTTP Method: GET</li>
+<li>IP address : 157.55.39.120</li>
+<li>Parameters : {&ldquo;controller&rdquo;=&gt;&ldquo;request&rdquo;, &ldquo;action&rdquo;=&gt;&ldquo;show&rdquo;, &ldquo;url_title&rdquo;=&gt;&ldquo;opra_requests_5&rdquo;}</li>
+<li>Timestamp  : 2017-12-20 23:22:06 -0500</li>
+<li>Server : opramachine.com</li>
+<li>Rails root : /var/www/opramachine.com/alaveteli</li>
+<li>Process: 23591</li>
+</ul>
+
+<hr />
+
+<h2 id="session">Session:</h2>
+
+<ul>
+<li>session id: [FILTERED]</li>
+<li>data: {&ldquo;session_id&rdquo;=&gt;&ldquo;6748e0b4f9d0d1600d1fcd55aa207611&rdquo;, &ldquo;locale&rdquo;=&gt;&ldquo;en&rdquo;}</li>
+</ul>
+
+<hr />
+
+<h2 id="environment">Environment:</h2>
+
+<ul>
+<li>GATEWAY_INTERFACE                              : CGI/1.2</li>
+<li>HTTP_ACCEPT                                    : <em>/</em></li>
+<li>HTTP_ACCEPT_ENCODING                           : gzip, deflate</li>
+<li>HTTP_CACHE_CONTROL                             : no-cache</li>
+<li>HTTP_CONNECTION                                : close</li>
+<li>HTTP_FROM                                      : bingbot(at)microsoft.com</li>
+<li>HTTP_HOST                                      : opramachine.com</li>
+<li>HTTP_PRAGMA                                    : no-cache</li>
+<li>HTTP_USER_AGENT                                : Mozilla/5.0 (compatible; bingbot/2.0; +<a href="http://www.bing.com/bingbot.htm">http://www.bing.com/bingbot.htm</a>)</li>
+<li>HTTP_VERSION                                   : HTTP/1.0</li>
+<li>HTTP_X_ACCEL_MAPPING                           : /var/www/opramachine.com/alaveteli/cache/zips/production/download=/download</li>
+<li>HTTP_X_FORWARDED_FOR                           : 157.55.39.120</li>
+<li>HTTP_X_FORWARDED_PROTO                         : https</li>
+<li>HTTP_X_REAL_IP                                 : 157.55.39.120</li>
+<li>HTTP_X_SENDFILE_TYPE                           : X-Accel-Redirect</li>
+<li>ORIGINAL_FULLPATH                              : /request/opra_requests_5</li>
+<li>ORIGINAL_SCRIPT_NAME                           :</li>
+<li>PATH_INFO                                      : /request/opra_requests_5</li>
+<li>QUERY_STRING                                   :</li>
+<li>REMOTE_ADDR                                    : 127.0.0.1</li>
+<li>REQUEST_METHOD                                 : GET</li>
+<li>REQUEST_PATH                                   : /request/opra_requests_5</li>
+<li>REQUEST_URI                                    : /request/opra_requests_5</li>
+<li>ROUTES_53640860_SCRIPT_NAME                    :</li>
+<li>SCRIPT_NAME                                    :</li>
+<li>SERVER_NAME                                    : opramachine.com</li>
+<li>SERVER_PORT                                    : 80</li>
+<li>SERVER_PROTOCOL                                : HTTP/1.1</li>
+<li>SERVER_SOFTWARE                                : thin 1.5.1 codename Straight Razor</li>
+<li>action_controller.instance                     : #<a href="RequestController:0x000000102f2640">RequestController:0x000000102f2640</a></li>
+<li>action_dispatch.backtrace_cleaner              : #<a href="Rails::BacktraceCleaner:0x0000000a89b570">Rails::BacktraceCleaner:0x0000000a89b570</a></li>
+<li>action_dispatch.cookies                        : #<a href="ActionDispatch::Cookies::CookieJar:0x00000010393180">ActionDispatch::Cookies::CookieJar:0x00000010393180</a></li>
+<li>action_dispatch.cookies_digest                 :</li>
+<li>action_dispatch.cookies_serializer             : hybrid</li>
+<li>action_dispatch.encrypted_cookie_salt          : encrypted cookie</li>
+<li>action_dispatch.encrypted_signed_cookie_salt   : signed encrypted cookie</li>
+<li>action_dispatch.http_auth_salt                 : http authentication</li>
+<li>action_dispatch.key_generator                  : #<a href="ActiveSupport::CachingKeyGenerator:0x000000095c7368">ActiveSupport::CachingKeyGenerator:0x000000095c7368</a></li>
+<li>action_dispatch.logger                         : #<a href="ActiveSupport::Logger:0x0000000655fa18">ActiveSupport::Logger:0x0000000655fa18</a></li>
+<li>action_dispatch.parameter_filter               : [:password]</li>
+<li>action_dispatch.redirect_filter                : []</li>
+<li>action_dispatch.remote_ip                      : 157.55.39.120</li>
+<li>action_dispatch.request.accepts                : [#<Mime::Type:0x000000102f0ca0 @synonyms=[], @symbol=nil, @string="*/*", @hash=4306184708532017714>]</li>
+<li>action_dispatch.request.content_type           :</li>
+<li>action_dispatch.request.flash_hash             : #<a href="ActionDispatch::Flash::FlashHash:0x0000001145a4c8">ActionDispatch::Flash::FlashHash:0x0000001145a4c8</a></li>
+<li>action_dispatch.request.formats                : [#<Mime::Type:0x000000102f0ca0 @synonyms=[], @symbol=nil, @string="*/*", @hash=4306184708532017714>]</li>
+<li>action_dispatch.request.parameters             : {&ldquo;controller&rdquo;=&gt;&ldquo;request&rdquo;, &ldquo;action&rdquo;=&gt;&ldquo;show&rdquo;, &ldquo;url_title&rdquo;=&gt;&ldquo;opra_requests_5&rdquo;}</li>
+<li>action_dispatch.request.path_parameters        : {:controller=&gt;&ldquo;request&rdquo;, :action=&gt;&ldquo;show&rdquo;, :url_title=&gt;&ldquo;opra_requests_5&rdquo;}</li>
+<li>action_dispatch.request.query_parameters       : {}</li>
+<li>action_dispatch.request.request_parameters     : {}</li>
+<li>action_dispatch.request.unsigned_session_cookie: {&ldquo;session_id&rdquo;=&gt;&ldquo;6748e0b4f9d0d1600d1fcd55aa207611&rdquo;}</li>
+<li>action_dispatch.request_id                     : 9e9248e2-8440-457b-87b4-d8568a9ca412</li>
+<li>action_dispatch.routes                         : #<a href="ActionDispatch::Routing::RouteSet:0x0000000664fd38">ActionDispatch::Routing::RouteSet:0x0000000664fd38</a></li>
+<li>action_dispatch.secret_key_base                : this default is insecure as code is open source, please override for live sites in config/general; this will do for local development</li>
+<li>action_dispatch.secret_token                   :</li>
+<li>action_dispatch.show_detailed_exceptions       : false</li>
+<li>action_dispatch.show_exceptions                : true</li>
+<li>action_dispatch.signed_cookie_salt             : signed cookie</li>
+<li>async.callback                                 : #<Method: Thin::Connection#post_process></li>
+<li>async.close                                    : #<a href="EventMachine::DefaultDeferrable:0x000000102ccc10">EventMachine::DefaultDeferrable:0x000000102ccc10</a></li>
+<li>newrelic.transaction_started                   : true</li>
+<li>rack.errors                                    : #<a href="IO:0x00000002041b98">IO:0x00000002041b98</a></li>
+<li>rack.input                                     : #<a href="StringIO:0x000000102cd520">StringIO:0x000000102cd520</a></li>
+<li>rack.multiprocess                              : false</li>
+<li>rack.multithread                               : false</li>
+<li>rack.request.cookie_hash                       : {}</li>
+<li>rack.request.query_hash                        : {}</li>
+<li>rack.request.query_string                      :</li>
+<li>rack.run_once                                  : false</li>
+<li>rack.session                                   : #<a href="ActionDispatch::Request::Session:0x000000102ec5b0">ActionDispatch::Request::Session:0x000000102ec5b0</a></li>
+<li>rack.session.options                           : #<a href="ActionDispatch::Request::Session::Options:0x000000102ec560">ActionDispatch::Request::Session::Options:0x000000102ec560</a></li>
+<li>rack.url_scheme                                : http</li>
+<li>rack.version                                   : [1, 0]</li>
+</ul>
+
+<hr />
+
+<h2 id="backtrace">Backtrace:</h2>
+
+<p>app/models/incoming_message.rb:426:in <code>_cache_main_body_text'
+ app/models/incoming_message.rb:452:in</code>get_main_body_text_unfolded&rsquo;
+ app/models/incoming_message.rb:616:in <code>get_body_for_html_display'
+ app/views/request/_incoming_correspondence.html.erb:24:in</code>_app_views_request<strong>incoming_correspondence_html_erb</strong>_4053020488255440338_85045320&rsquo;
+ app/views/request/_correspondence.html.erb:4:in <code>_app_views_request__correspondence_html_erb__2668726388495238954_86949000'
+ app/views/request/show.html.erb:68:in</code>block in _app_views_request_show_html_erb___283401135198515593_88463540&rsquo;
+ app/views/request/show.html.erb:66:in <code>_app_views_request_show_html_erb___283401135198515593_88463540'
+ app/controllers/request_controller.rb:133:in</code>block (3 levels) in show&rsquo;
+ app/controllers/request_controller.rb:132:in <code>block in show'
+ lib/alaveteli_localization.rb:43:in</code>with_locale&rsquo;
+ app/controllers/request_controller.rb:89:in <code>show'
+ app/controllers/application_controller.rb:120:in</code>record_memory&rsquo;
+ lib/strip_empty_sessions.rb:13:in `call&rsquo;</p>
 
 
     
@@ -528,8 +668,8 @@
 </div>
 
 <div id="navigation">
-<a class="nav nav-prev" href="/responding-to-requests/large-files/" title="Dealing With Large Files"> <i class="fa fa-chevron-left"></i></a>
-    <a class="nav nav-next" href="/responding-to-requests/direct/" title="Responding via the Web" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a></div>
+<a class="nav nav-prev" href="/site-administration/technical-problems/email/" title="Email Delivery Issues"> <i class="fa fa-chevron-left"></i></a>
+    <a class="nav nav-next" href="/site-administration/technical-problems/serverissues/" title="Server Crashes" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a></div>
 
 </section>
 <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">

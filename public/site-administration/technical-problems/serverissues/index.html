@@ -342,13 +342,18 @@
     </li>
     <li data-nav-id="/site-administration/technical-problems/" class="dd-item parent">
       <a href="/site-administration/technical-problems/">
-        <span>Technical Issues</span>
+        <span>Technical Problems</span>
             <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
       <li data-nav-id="/site-administration/technical-problems/email/" class="dd-item">
         <a href="/site-administration/technical-problems/email/">
           <span>Email Delivery Issues</span><i class="fa fa-circle-thin read-icon"></i>
+        </a>
+    </li>
+      <li data-nav-id="/site-administration/technical-problems/request-wont-show/" class="dd-item">
+        <a href="/site-administration/technical-problems/request-wont-show/">
+          <span>Request Won&#39;t Show</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
     </li>
       <li data-nav-id="/site-administration/technical-problems/serverissues/" class="dd-item active">
@@ -468,7 +473,7 @@
 
 
 
- <a href='/'>OPRAmachine Documentation</a> > <a href='/site-administration/'>Site Administration</a> > <a href='/site-administration/technical-problems/'>Technical Issues</a> > Server Crashes
+ <a href='/'>OPRAmachine Documentation</a> > <a href='/site-administration/'>Site Administration</a> > <a href='/site-administration/technical-problems/'>Technical Problems</a> > Server Crashes
 
  
 
@@ -483,7 +488,17 @@
     
     <div class="progress">
         <div class="wrapper">
-    
+    <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#reasons-for-server-crashes">Reasons for server crashes</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
         </div>
     </div>
     
@@ -501,7 +516,18 @@
     
     
     
-    <p>The server that has been running the site has been crashing because of the high load due to user demand. We need to investigate ways to obtain better performance for the site or explore upgrades to the Linode instance.</p>
+    
+
+<p>The server that has been running the site has been crashing because of the high load due to user demand. We need to investigate ways to obtain better performance for the site or explore upgrades to the Linode instance.</p>
+
+<h3 id="reasons-for-server-crashes">Reasons for server crashes</h3>
+
+<p>Since late October there have been a variety of reasons for server crashes at OPRAmachine.</p>
+
+<p>Here are some of the reasons:
+- Lack of RAM
+- Database issues
+- Lack of disk space</p>
 
 
     
@@ -516,7 +542,7 @@
 </div>
 
 <div id="navigation">
-<a class="nav nav-prev" href="/site-administration/technical-problems/email/" title="Email Delivery Issues"> <i class="fa fa-chevron-left"></i></a>
+<a class="nav nav-prev" href="/site-administration/technical-problems/request-wont-show/" title="Request Won&#39;t Show"> <i class="fa fa-chevron-left"></i></a>
     <a class="nav nav-next" href="/site-administration/technical-problems/stats/" title="Statistics Page Broken" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a></div>
 
 </section>

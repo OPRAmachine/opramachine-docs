@@ -1,5 +1,5 @@
 +++
-title = "Technical Issues"
+title = "Technical Problems"
 description = "Information regarding technical problems being addressed by the OPRAmachine team"
 date = "2017-04-24T18:36:24+02:00"
 

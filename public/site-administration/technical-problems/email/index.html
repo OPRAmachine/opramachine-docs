@@ -342,13 +342,18 @@
     </li>
     <li data-nav-id="/site-administration/technical-problems/" class="dd-item parent">
       <a href="/site-administration/technical-problems/">
-        <span>Technical Issues</span>
+        <span>Technical Problems</span>
             <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </a>
         <ul>
       <li data-nav-id="/site-administration/technical-problems/email/" class="dd-item active">
         <a href="/site-administration/technical-problems/email/">
           <span>Email Delivery Issues</span><i class="fa fa-circle-thin read-icon"></i>
+        </a>
+    </li>
+      <li data-nav-id="/site-administration/technical-problems/request-wont-show/" class="dd-item">
+        <a href="/site-administration/technical-problems/request-wont-show/">
+          <span>Request Won&#39;t Show</span><i class="fa fa-circle-thin read-icon"></i>
         </a>
     </li>
       <li data-nav-id="/site-administration/technical-problems/serverissues/" class="dd-item">
@@ -468,7 +473,7 @@
 
 
 
- <a href='/'>OPRAmachine Documentation</a> > <a href='/site-administration/'>Site Administration</a> > <a href='/site-administration/technical-problems/'>Technical Issues</a> > Email Delivery Issues
+ <a href='/'>OPRAmachine Documentation</a> > <a href='/site-administration/'>Site Administration</a> > <a href='/site-administration/technical-problems/'>Technical Problems</a> > Email Delivery Issues
 
  
 
@@ -483,7 +488,15 @@
     
     <div class="progress">
         <div class="wrapper">
-    
+    <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#spam-issues">Spam Issues</a></li>
+<li><a href="#amazon-issues">Amazon Issues</a></li>
+</ul></li>
+</ul>
+</nav>
         </div>
     </div>
     
@@ -501,7 +514,17 @@
     
     
     
-    <p>There continues to be problems with email delivery to a handful of municipalities. Their firewalls are improperly rejecting OPRAmachine correspondence. We need to investigate ways of approaching this issue and solving this problem proactively.</p>
+    
+
+<p>There continues to be problems with email delivery to a handful of municipalities. Their firewalls are improperly rejecting OPRAmachine correspondence. We need to investigate ways of approaching this issue and solving this problem proactively.</p>
+
+<h2 id="spam-issues">Spam Issues</h2>
+
+<p>Identify towns where this is a problem</p>
+
+<h2 id="amazon-issues">Amazon Issues</h2>
+
+<p>We currently use Amazon SES to send outbound SMTP emails for OPRA requests sent via the site. We should investigate whether this is playing a role in deliverability and if alternatives may be warranted.</p>
 
 
     
@@ -516,8 +539,8 @@
 </div>
 
 <div id="navigation">
-<a class="nav nav-prev" href="/site-administration/technical-problems/" title="Technical Issues"> <i class="fa fa-chevron-left"></i></a>
-    <a class="nav nav-next" href="/site-administration/technical-problems/serverissues/" title="Server Crashes" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a></div>
+<a class="nav nav-prev" href="/site-administration/technical-problems/" title="Technical Problems"> <i class="fa fa-chevron-left"></i></a>
+    <a class="nav nav-next" href="/site-administration/technical-problems/request-wont-show/" title="Request Won&#39;t Show" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a></div>
 
 </section>
 <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">

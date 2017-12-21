@@ -15,3 +15,9 @@ lastmodifieremail = "gr@gavinrozzi.com"
 +++
 
 There continues to be problems with email delivery to a handful of municipalities. Their firewalls are improperly rejecting OPRAmachine correspondence. We need to investigate ways of approaching this issue and solving this problem proactively.
+
+## Spam Issues
+Identify towns where this is a problem
+
+## Amazon Issues
+We currently use Amazon SES to send outbound SMTP emails for OPRA requests sent via the site. We should investigate whether this is playing a role in deliverability and if alternatives may be warranted.
