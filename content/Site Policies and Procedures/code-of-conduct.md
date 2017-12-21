@@ -15,3 +15,10 @@ lastmodifieremail = "gr@gavinrozzi.com"
 +++
 
 We have a code of conduct that governs user behavior on the OPRAmachine website, including the content of OPRA requests, annotations, and comment in our sponsored Facebook groups and pages. The purpose of this code of conduct is to maximize the ability of users to engage in a robust, wide open debate on matters of public concern, while also ensuring that the site administration can preserve the OPRAmachine community by moderating content that is contrary to the values expressed in this Code of Conduct.
+
+Members shall:
+
+- Refrain from posting material that violates copyright protections
+- Not use the platform to harass others or violate laws
+- Not make abusive or vexatious requests, or requests which contain profane language
+- Abide by directions of site administrators and comply with their reasonable requests
