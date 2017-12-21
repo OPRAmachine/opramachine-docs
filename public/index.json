@@ -116,7 +116,7 @@
 	"title": "Email Logs",
 	"tags": [],
 	"description": "Getting email logs under OPRA",
-	"content": " Since the New Jersey Supreme Court\u0026rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.\nEmail logs consist of the metadata associated with a public employee\u0026rsquo;s email account. They are almost like a snapshot of the account\u0026rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee\u0026rsquo;s email account.\nEmail logs can reveal who a public official is talking to and what they are saying. That\u0026rsquo;s why they are a powerful tool for journalists and the public.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
+	"content": " Since the New Jersey Supreme Court\u0026rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.\nEmail logs consist of the metadata associated with a public employee\u0026rsquo;s email account. They are almost like a snapshot of the account\u0026rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee\u0026rsquo;s email account.\nEmail logs can reveal who a public official is talking to and what they are saying. That\u0026rsquo;s why they are a powerful tool for journalists and the public.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/copies_of_email_logs_for_sheriff#incoming-862\n"
 },
 {
 	"uri": "/site-policies-and-procedures/email-verification/",
@@ -228,14 +228,14 @@
 	"title": "Responding via Email",
 	"tags": [],
 	"description": "How to respond to an OPRAmachine request via email",
-	"content": "##Reply to the request email You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email that you would receive from any other sender.\nPlease note that the characters that appear before @requests.opramachine.com in the email addresses that send requests are used by the OPRAmachine software to categorize \u0026amp; track OPRA requests. Please do not confuse these addresses. Improperly delivered responses can be recategorized by the site administration, however we our ability to recategorize requests is limited based upon time constraints so we may not be able to address each request right away.\n"
+	"content": " Reply to the request email You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email that you would receive from any other sender.\nPlease note that the characters that appear before @requests.opramachine.com in the email addresses that send requests are used by the OPRAmachine software to categorize \u0026amp; track OPRA requests. Please do not confuse these addresses. Improperly delivered responses can be recategorized by the site administration, however we our ability to recategorize requests is limited based upon time constraints so we may not be able to address each request right away.\n"
 },
 {
 	"uri": "/responding-to-requests/direct/",
 	"title": "Responding via the Web",
 	"tags": [],
 	"description": "How to respond to an OPRAmachine request directly on its web page",
-	"content": "If you would prefer to respond to an OPRAmachine request directly from your web browser, you can do so without having to bother with email. Please note that this method of responding will require you to register for an account with the OPRAmachine website using your government email address.\n##Responding using the web interface To respond to a request directly from the OPRAmachine website, simply navigate to the request webpage using a web browser.\n"
+	"content": " If you would prefer to respond to an OPRAmachine request directly from your web browser, you can do so without having to bother with email. Please note that this method of responding will require you to register for an account with the OPRAmachine website using your government email address.\nResponding using the web interface To respond to a request directly from the OPRAmachine website, simply navigate to the request webpage using a web browser.\n"
 },
 {
 	"uri": "/example-requests/ethics/schoolethics/",

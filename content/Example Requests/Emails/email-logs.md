@@ -22,3 +22,5 @@ Email logs can reveal who a public official is talking to and what they are sayi
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+https://opramachine.com/request/copies_of_email_logs_for_sheriff#incoming-862
