@@ -51,15 +51,6 @@ Be as specific as possible in your request. If you know what types of records th
     </item>
     
     <item>
-      <title>Best Practices</title>
-      <link>/making-requests/legal-issues/</link>
-      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
-      
-      <guid>/making-requests/legal-issues/</guid>
-      <description>Here be dragons! If you&amp;rsquo;re not sure about a legal issues that comes up during your request, the best thing to do is contact an attorney. The OPRAmachine team consists of volunteers. We are unable to provide legal advice on specific requests. Only a licensed attorney can provide legal advice. OPRA caselaw reference information We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for users of OPRAmachine.</description>
-    </item>
-    
-    <item>
       <title>Bill Lists</title>
       <link>/example-requests/financial-records/bill-lists/</link>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
@@ -234,6 +225,15 @@ Example requests The following are example requests made for this type of record
       
       <guid>/making-requests/tracking-requests/using-data-feeds/json/</guid>
       <description>You can get JSON-formatted data out of OPRAmachine by simply adding &amp;ldquo;.json&amp;rdquo; to the end of a URL.</description>
+    </item>
+    
+    <item>
+      <title>Legal Issues</title>
+      <link>/making-requests/legal-issues/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/making-requests/legal-issues/</guid>
+      <description>Here be dragons! If you&amp;rsquo;re not sure about a legal issues that comes up during your request, the best thing to do is contact an attorney. The OPRAmachine team consists of volunteers. We are unable to provide legal advice on specific requests. Only a licensed attorney can provide legal advice. OPRA caselaw reference information We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for requesters making use of OPRAmachine.</description>
     </item>
     
     <item>

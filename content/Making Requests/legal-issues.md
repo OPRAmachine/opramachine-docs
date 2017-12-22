@@ -1,8 +1,8 @@
 +++
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
-title = "Best Practices"
-description = "Best practices for making requests on OPRAmachine."
+title = "Legal Issues"
+description = "Legal issues that may come up making requests on OPRAmachine."
 date = "2017-12-19T18:36:24+02:00"
 # Creator's Display name
 creatordisplayname = "Gavin Rozzi"
@@ -18,7 +18,7 @@ lastmodifieremail = "gr@gavinrozzi.com"
 
 ## OPRA caselaw reference information
 
-We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for users of OPRAmachine. These cases provide condensed versions of the conclusions courts have made about the accessibility of certain types of public records under OPRA.
+We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for requesters making use of OPRAmachine. These cases (current to 2015) provide condensed versions of the conclusions courts have made about the accessibility of certain types of public records under OPRA. You may use the information from these cases [adapted from here](http://state.nj.us/grc/meetings/present/1%20-%20Useful%20OPRA%20Cases%20by%20Subject%20(June%202015).pdf) to answer your own questions and ascertain whether or not the denial of your request was valid.
 
 ### 911 Tapes
 
