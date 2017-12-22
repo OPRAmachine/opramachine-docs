@@ -14,7 +14,7 @@ lastmodifierdisplayname = "Gavin Rozzi"
 lastmodifieremail = "gr@gavinrozzi.com"
 +++
 
-## Reply to the request email
+## Respond to request via email
 You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email that you would receive from any other sender.
 
 Please note that the characters that appear before @requests.opramachine.com in the email addresses that send requests are used by the OPRAmachine software to categorize & track OPRA requests. Please do not confuse these addresses. Improperly delivered responses can be recategorized by the site administration, however we our ability to recategorize requests is limited based upon time constraints so we may not be able to address each request right away.

@@ -16,6 +16,6 @@ lastmodifieremail = "gr@gavinrozzi.com"
 
 Keep your request concise and do not ramble / use the request letter as a venue to argue your opinion or your side of the argument of a legal case.
 
-Be as **specific** as possible in your request. Try and identify specific *documents* and use narrow date ranges so your request clearly identifies the types of records you are seeking copies of. Specificity in your request helps the custodian to quickly locate the public records that are responsive to your request, and also helps you avoid being charged **special service fees** due to the time required to fulfill your request, such as if it is exceedingly voluminous.
+Be as **specific** as possible in your request. If you know what types of records the government agency may have that will answer your question, try and identify specific *documents* in your initial request and use narrow date ranges so your request clearly identifies the time period of records responsive to your request. Specificity in your request helps the custodian to quickly locate the public records that are responsive to your request, and also helps you avoid being charged **special service fees** due to the time required to fulfill your request, such as if it is exceedingly voluminous.
 
 Don't use overbroad language in your request. For example, requests that seek information and not specifically identifiable government records, and requests seeking "any and all records" will likely be denied as invalid under OPRA.

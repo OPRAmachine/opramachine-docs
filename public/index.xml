@@ -37,7 +37,7 @@
       
       <guid>/making-requests/batch-requests/</guid>
       <description>A batch request is the same OPRA request submitted to multiple governmental agencies at the same time. An individual may wish to submit this sort of request if they were doing comparative research about the differences between municipalities or counties or even particular public bodies.
-Due to spam concerns, the ability to submit batch requests is currently limited and requests to enable them are currently considered on a case-by-case basis. If you are interested in making use of batch requests, please contact us to discuss your needs.</description>
+For example, a good use case of a batch request was this request for police use of force reports from multiple municipalities in Ocean County.</description>
     </item>
     
     <item>
@@ -47,7 +47,16 @@ Due to spam concerns, the ability to submit batch requests is currently limited 
       
       <guid>/making-requests/best/</guid>
       <description>Keep your request concise and do not ramble / use the request letter as a venue to argue your opinion or your side of the argument of a legal case.
-Be as specific as possible in your request. Try and identify specific documents and use narrow date ranges so your request clearly identifies the types of records you are seeking copies of. Specificity in your request helps the custodian to quickly locate the public records that are responsive to your request, and also helps you avoid being charged special service fees due to the time required to fulfill your request, such as if it is exceedingly voluminous.</description>
+Be as specific as possible in your request. If you know what types of records the government agency may have that will answer your question, try and identify specific documents in your initial request and use narrow date ranges so your request clearly identifies the time period of records responsive to your request.</description>
+    </item>
+    
+    <item>
+      <title>Best Practices</title>
+      <link>/making-requests/legal-issues/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/making-requests/legal-issues/</guid>
+      <description>Here be dragons! If you&amp;rsquo;re not sure about a legal issues that comes up during your request, the best thing to do is contact an attorney. The OPRAmachine team consists of volunteers. We are unable to provide legal advice on specific requests. Only a licensed attorney can provide legal advice. OPRA caselaw reference information We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for users of OPRAmachine.</description>
     </item>
     
     <item>
@@ -346,7 +355,7 @@ Full Error message A RuntimeError occurred in request#show:</description>
       <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
       
       <guid>/responding-to-requests/email/</guid>
-      <description>Reply to the request email You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email that you would receive from any other sender.
+      <description>Respond to request via email You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email that you would receive from any other sender.
 Please note that the characters that appear before @requests.opramachine.com in the email addresses that send requests are used by the OPRAmachine software to categorize &amp;amp; track OPRA requests.</description>
     </item>
     
