@@ -28,17 +28,7 @@ url = "https://opramachine.com/select_authority"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-camera'></i> Request Templates"
-url = "/opra-request-templates"
-weight = 11
-
-[[menu.shortcuts]]
-name = "<i class='fa fa-bookmark'></i> Facebook Group"
+name = "<i class='fa fa-bookmark'></i> NJ OPRA Facebook Group"
 identifier = "hugodoc"
 url = "https://www.facebook.com/groups/njopra/"
 weight = 20
-
-[[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> Credits"
-url = "/credits"
-weight = 30
