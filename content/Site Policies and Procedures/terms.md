@@ -24,13 +24,13 @@ You represent and warrant that you are at least 18-year-old and, if acting on be
 -	if OPRAmachine.com determines, in its sole discretion, that you are using your account in a manner not permitted by these Terms of Service, or
 - in other circumstances, as OPRAmachine.com deems appropriate in its sole discretion.
 
-##2.	Intellectual Property and Data Security.  
+## 2.	Intellectual Property and Data Security.  
 ### A.	Our Intellectual Property:
 You are granted a limited, non-exclusive, non-transferable license to use the Service according to these Terms or Service. OPRAmachine.com content, software and design are fully covered by national and international intellectual property law, and you are forbidden to reproduce or imitate the likeness or experience of the site without our written permission. You are free to use parts of content that already belong to the public domain, but OPRAmachine.com results and reports are not for reproduction, in full or part, without our written permission.
 ### B.	Your Intellectual Property:
 We don’t claim ownership on content that you submit to OPRAmachine.com. You grant us a limited license to read, process, and store your content only for the purpose of delivering you the Service. We don’t share your personal information or search history with third parties and we don’t use this data to file patent applications. Please refer to our Privacy Policy for more details on how we process information.
 
-##3.	Disclaimer of Warranties, Limitations of Liability and Indemnification.
+## 3.	Disclaimer of Warranties, Limitations of Liability and Indemnification.
 Your use of OPRAmachine.com is at your sole risk. The service is provided "as is" and "as available". We adopt TLS encrypted browsing and industry standard security protocols, but we disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. We are not liable for damages, direct or consequential, resulting from your use of the site, and you agree to defend, indemnify and hold us harmless from any claims, losses, liability costs and expenses (including but not limited to attorney's fees) arising from your violation of any third-party's rights. Because the site is not error or bug free, you agree that you will use it carefully and avoid using it ways which might result in any loss of your or any third party's property or information. We also disclaim any legal liability related to the accuracy or completeness of the OPRAmachine.com results and reports. The Service is not a substitute for legal advice and no attorney-client relationship is created.
 
 ## 4.	Restriction of Use.
