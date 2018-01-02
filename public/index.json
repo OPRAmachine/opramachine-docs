@@ -329,6 +329,13 @@
 	"content": " Police use of force reports can be a great tool for understanding the types of incidents occurring where members of law enforcement indicated that they used force in order to establish compliance.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/police_use_of_force_reports_janu_14#incoming-38\nhttps://opramachine.com/request/use_of_force_reports\nhttps://opramachine.com/request/different_police_department_annu_64#incoming-818\n"
 },
 {
+	"uri": "/site-policies-and-procedures/userprivacy/",
+	"title": "User Privacy",
+	"tags": [],
+	"description": "Policy on user privacy",
+	"content": "The OPRAmachine team is committed to maintaining the privacy of user email addresses. We will only use your email address to send you information about the OPRAmachine service, your requests\nAny OPRAmachine administrator is strictly prohibited from publicly disclosing:\n Names of anonymous sources Private email addresses or (nonpublic) identities of anonymous account holders Hashed or plaintext passwords  A violation of this policy shall be cause for the immediate termination of any individuals associated\n"
+},
+{
 	"uri": "/example-requests/financial-records/vendor-history-reports/",
 	"title": "Vendor History Reports",
 	"tags": [],
