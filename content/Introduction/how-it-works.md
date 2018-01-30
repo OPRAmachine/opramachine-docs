@@ -16,8 +16,6 @@ lastmodifieremail = "gr@gavinrozzi.com"
 
 The following presentation shows how OPRAmachine works and explains some of the basic concepts about the site and its operations.
 
-{{<revealjs theme="moon" progress="true">}}
-
 ## How OPRAmachine Works
 OPRAmachine is a statewide platform that is helping to make New Jersey government more transparent using the Open Public Records Act.
 - Send requests to state & local government
@@ -51,5 +49,3 @@ ___
 - OPRAmachine is a tool that helps you get answers from the government and share those answers with everyone else.
 - You can use the service to request public records from the government, or you can just search our public database of requests to follow requests currently in progress or view documents that other people have obtained.
 ___
-
-{{</revealjs>}}
