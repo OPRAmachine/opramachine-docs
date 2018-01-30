@@ -6,7 +6,8 @@ date = "2017-04-24T18:36:24+02:00"
 +++
 # OPRAmachine Docs
 {{% notice tip %}}There are currently **NO** site outages{{% /notice %}}
-{{% notice warning %}}Last updated: January 25th, 2018{{% /notice %}}
+
+{{% notice warning %}}Last updated: January 30th, 2018{{% /notice %}}
 
 ## Welcome
 The **OPRAmachine Documentation** [(docs.opramachine.com)](https://docs.opramachine.com/) is your destination for information on how the [OPRAmachine](https://opramachine.com/) website works, how the website's administration decisions are made, as well as guides on how to make requests for specific types of public records under the New Jersey Open Public Records Act using the OPRAmachine transparency platform.
