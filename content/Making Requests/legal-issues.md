@@ -3,7 +3,7 @@
 type="page"
 title = "Legal Issues"
 description = "Legal issues that may come up making requests on OPRAmachine."
-date = "2017-12-19T18:36:24+02:00"
+date = "2018-02-12T13:46:24+02:00"
 # Creator's Display name
 creatordisplayname = "Gavin Rozzi"
 # Creator's Email
