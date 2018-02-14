@@ -3,7 +3,7 @@
 type="page"
 title = "JSON Data Feeds"
 description = "OPRAmachine provides JSON feeds"
-date = "2017-12-19T18:36:24+02:00"
+date = "2018-02-13T18:36:24+02:00"
 # Creator's Display name
 creatordisplayname = "Gavin Rozzi"
 # Creator's Email
@@ -14,4 +14,10 @@ lastmodifierdisplayname = "Gavin Rozzi"
 lastmodifieremail = "gr@gavinrozzi.com"
 +++
 
-You can get **JSON**-formatted data out of OPRAmachine by simply adding ".json" to the end of a URL.
+You can get **JSON** structured data out of OPRAmachine by simply adding ".json" to the end of a feed URL.
+
+### Examples
+
+[Successful OPRA requests (JSON)][1]
+
+[1]: https://opramachine.com/feed/search/%20(latest_status:successful%20OR%20latest_status:partially_successful).json

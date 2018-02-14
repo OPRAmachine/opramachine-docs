@@ -6,10 +6,20 @@
     <description>Recent content on OPRAmachine Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 13:36:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2018 13:36:24 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JSON Data Feeds</title>
+      <link>/making-requests/tracking-requests/using-data-feeds/json/</link>
+      <pubDate>Tue, 13 Feb 2018 18:36:24 +0200</pubDate>
+      
+      <guid>/making-requests/tracking-requests/using-data-feeds/json/</guid>
+      <description>You can get JSON structured data out of OPRAmachine by simply adding &amp;ldquo;.json&amp;rdquo; to the end of a feed URL.
+Examples Successful OPRA requests (JSON)</description>
+    </item>
     
     <item>
       <title>Legal Issues</title>
@@ -244,15 +254,6 @@ Send Your Request  Draft request and pick which public authority you want to sen
       <guid>/example-requests/police-records/internal-affairs/</guid>
       <description>The types of internal affairs records that the public can obtain under OPRA is limited to aggregate level summaries of cases that do not individually identify the officers that were involved in the case. Typically, the summary reports obtainable under OPRA will include a list of the types of cases and their disposition, such as whether the allegations were sustained or not.
 Example requests The following are example requests made for this type of record on OPRAmachine:</description>
-    </item>
-    
-    <item>
-      <title>JSON Data Feeds</title>
-      <link>/making-requests/tracking-requests/using-data-feeds/json/</link>
-      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
-      
-      <guid>/making-requests/tracking-requests/using-data-feeds/json/</guid>
-      <description>You can get JSON-formatted data out of OPRAmachine by simply adding &amp;ldquo;.json&amp;rdquo; to the end of a URL.</description>
     </item>
     
     <item>
