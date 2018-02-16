@@ -3,7 +3,7 @@
 type="page"
 title = "Legal Issues"
 description = "Legal issues that may come up making requests on OPRAmachine."
-date = "2018-02-12T13:46:24+02:00"
+date = "2018-02-15T20:46:24+02:00"
 # Creator's Display name
 creatordisplayname = "Gavin Rozzi"
 # Creator's Email
@@ -18,7 +18,7 @@ lastmodifieremail = "gr@gavinrozzi.com"
 
 ## OPRA caselaw reference information
 
-We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for requesters making use of OPRAmachine. These cases (current to 2015) provide condensed versions of the conclusions courts have made about the accessibility of certain types of public records under OPRA. You may use the information from these cases [adapted from here](http://state.nj.us/grc/meetings/present/1%20-%20Useful%20OPRA%20Cases%20by%20Subject%20(June%202015).pdf) to answer your own questions and ascertain whether or not the denial of your request was valid.
+We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for requesters making use of OPRAmachine. These cases (current to cases decided by the GRC up to 2017) provide condensed versions of the conclusions courts have made about the accessibility of certain types of public records under OPRA. You may use the information from these cases [adapted from here](http://state.nj.us/grc/meetings/present/1%20-%20Useful%20OPRA%20Cases%20by%20Subject%20(June%202015).pdf) to answer your own questions and ascertain whether or not the denial of your request was valid.
 Note: This is NOT an exhaustive list of cases or subject areas. Information contained herein is not
 intended, nor should be construed, as legal advice. Please consult appropriate legal counsel.
 
