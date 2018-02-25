@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/making-requests/legal-issues/</loc>
+    <lastmod>2018-02-15T20:46:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/making-requests/tracking-requests/using-data-feeds/json/</loc>
     <lastmod>2018-02-13T18:36:24+02:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2018-02-13T13:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/making-requests/legal-issues/</loc>
-    <lastmod>2018-02-12T13:46:24+02:00</lastmod>
   </url>
   
   <url>

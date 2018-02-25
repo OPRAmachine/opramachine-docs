@@ -7,7 +7,7 @@ date = "2018-02-13T13:36:24+02:00"
 # OPRAmachine Docs
 {{% notice tip %}}There are currently **NO** site outages{{% /notice %}}
 
-{{% notice warning %}}Last updated: February 13th, 2018{{% /notice %}}
+{{% notice warning %}}Last updated: February 25th, 2018{{% /notice %}}
 
 ## Welcome
 The **OPRAmachine Documentation** [(docs.opramachine.com)](https://docs.opramachine.com/) is your destination for information on how the [OPRAmachine](https://opramachine.com/) website works, how the website's administration decisions are made, as well as guides on how to make requests for specific types of public records under the New Jersey Open Public Records Act using the OPRAmachine transparency platform.
@@ -20,3 +20,6 @@ This documentation is [open source](https://github.com/gavinrozzi/opramachine-do
 
 ## Your feedback
 Please reach out to the documentation's editor, [Gavin Rozzi](https://www.gavinrozzi.com) with any feedback about this documentation or suggestions on how it can be improved. Feedback may also be submitted to any other member of the OPRAmachine team for their consideration. Issues may be submitted via [Github](https://github.com/gavinrozzi/opramachine-docs/issues) to this or any of our website repositories.
+
+### Stats
+{{% opramachine_stats %}}

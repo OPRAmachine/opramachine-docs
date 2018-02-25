@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Legal Issues</title>
+      <link>/making-requests/legal-issues/</link>
+      <pubDate>Thu, 15 Feb 2018 20:46:24 +0200</pubDate>
+      
+      <guid>/making-requests/legal-issues/</guid>
+      <description>Here be dragons! If you&amp;rsquo;re not sure about a legal issues that comes up during your request, the best thing to do is contact an attorney. The OPRAmachine team consists of volunteers. We are unable to provide legal advice on specific requests. Only a licensed attorney can provide legal advice. OPRA caselaw reference information We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for requesters making use of OPRAmachine.</description>
+    </item>
+    
+    <item>
       <title>JSON Data Feeds</title>
       <link>/making-requests/tracking-requests/using-data-feeds/json/</link>
       <pubDate>Tue, 13 Feb 2018 18:36:24 +0200</pubDate>
@@ -19,15 +28,6 @@
       <guid>/making-requests/tracking-requests/using-data-feeds/json/</guid>
       <description>You can get JSON structured data out of OPRAmachine by simply adding &amp;ldquo;.json&amp;rdquo; to the end of a feed URL.
 Examples Successful OPRA requests (JSON)</description>
-    </item>
-    
-    <item>
-      <title>Legal Issues</title>
-      <link>/making-requests/legal-issues/</link>
-      <pubDate>Mon, 12 Feb 2018 13:46:24 +0200</pubDate>
-      
-      <guid>/making-requests/legal-issues/</guid>
-      <description>Here be dragons! If you&amp;rsquo;re not sure about a legal issues that comes up during your request, the best thing to do is contact an attorney. The OPRAmachine team consists of volunteers. We are unable to provide legal advice on specific requests. Only a licensed attorney can provide legal advice. OPRA caselaw reference information We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for requesters making use of OPRAmachine.</description>
     </item>
     
     <item>
