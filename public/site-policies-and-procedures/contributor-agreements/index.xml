@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributor Agreements on OPRAmachine Documentation</title>
+    <link>/site-policies-and-procedures/contributor-agreements/</link>
+    <description>Recent content in Contributor Agreements on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/site-policies-and-procedures/contributor-agreements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agreement for Individuals</title>
+      <link>/site-policies-and-procedures/contributor-agreements/individuals/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-policies-and-procedures/contributor-agreements/individuals/</guid>
+      <description>Thank you for your interest in contributing to OPRAmachine (&amp;ldquo;We&amp;rdquo; or &amp;ldquo;Us&amp;rdquo;). This contributor agreement (&amp;ldquo;Agreement&amp;rdquo;) documents the rights granted by contributors to Us. To make this document effective, please sign it and send it to Us by email or electronic submission, following the instructions at . This is a legally binding document, so please read it carefully before agreeing to it. The Agreement may cover more than one software project managed by Us.</description>
+    </item>
+    
+    <item>
+      <title>Agreement for Organizations</title>
+      <link>/site-policies-and-procedures/contributor-agreements/organization/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-policies-and-procedures/contributor-agreements/organization/</guid>
+      <description>Thank you for your interest in contributing to OPRAmachine (&amp;ldquo;We&amp;rdquo; or &amp;ldquo;Us&amp;rdquo;). This contributor agreement (&amp;ldquo;Agreement&amp;rdquo;) documents the rights granted by contributors to Us. To make this document effective, please sign it and send it to Us by email or electronic submission, following the instructions at . This is a legally binding document, so please read it carefully before agreeing to it. The Agreement may cover more than one software project managed by Us.</description>
+    </item>
+    
+  </channel>
+</rss>

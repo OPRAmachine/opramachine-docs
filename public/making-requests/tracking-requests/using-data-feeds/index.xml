@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Feeds on OPRAmachine Documentation</title>
+    <link>/making-requests/tracking-requests/using-data-feeds/</link>
+    <description>Recent content in Data Feeds on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/making-requests/tracking-requests/using-data-feeds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JSON Data Feeds</title>
+      <link>/making-requests/tracking-requests/using-data-feeds/json/</link>
+      <pubDate>Tue, 13 Feb 2018 18:36:24 +0200</pubDate>
+      
+      <guid>/making-requests/tracking-requests/using-data-feeds/json/</guid>
+      <description>You can get JSON structured data out of OPRAmachine by simply adding &amp;ldquo;.json&amp;rdquo; to the end of a feed URL.
+Examples Successful OPRA requests (JSON)</description>
+    </item>
+    
+    <item>
+      <title>RSS Feeds</title>
+      <link>/making-requests/tracking-requests/using-data-feeds/rss/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/making-requests/tracking-requests/using-data-feeds/rss/</guid>
+      <description>You can use RSS feeds to obtain data on requests and responses sent via the OPRAmachine platform. On most URLs of the site, you can simply preface links with /feed/ in order to obtain an RSS feed for a particular public body, user or request.
+Local news websites have incorporated the RSS feeds by allowing their readers to view requests for a given government, such as a county or municipal government.</description>
+    </item>
+    
+  </channel>
+</rss>

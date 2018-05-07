@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Making Requests on OPRAmachine Documentation</title>
+    <link>/making-requests/</link>
+    <description>Recent content in Making Requests on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/making-requests/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Legal Issues</title>
+      <link>/making-requests/legal-issues/</link>
+      <pubDate>Thu, 15 Feb 2018 20:46:24 +0200</pubDate>
+      
+      <guid>/making-requests/legal-issues/</guid>
+      <description>Here be dragons! If you&amp;rsquo;re not sure about a legal issues that comes up during your request, the best thing to do is contact an attorney. The OPRAmachine team consists of volunteers. We are unable to provide legal advice on specific requests. Only a licensed attorney can provide legal advice. OPRA caselaw reference information We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for requesters making use of OPRAmachine.</description>
+    </item>
+    
+    <item>
+      <title>Batch Requests</title>
+      <link>/making-requests/batch-requests/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/making-requests/batch-requests/</guid>
+      <description>A batch request is the same OPRA request submitted to multiple governmental agencies at the same time. An individual may wish to submit this sort of request if they were doing comparative research about the differences between municipalities or counties or even particular public bodies.
+For example, a good use case of a batch request was this request for police use of force reports from multiple municipalities in Ocean County.</description>
+    </item>
+    
+    <item>
+      <title>Best Practices</title>
+      <link>/making-requests/best/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/making-requests/best/</guid>
+      <description>Keep your request concise and do not ramble / use the request letter as a venue to argue your opinion or your side of the argument of a legal case.
+Be as specific as possible in your request. If you know what types of records the government agency may have that will answer your question, try and identify specific documents in your initial request and use narrow date ranges so your request clearly identifies the time period of records responsive to your request.</description>
+    </item>
+    
+  </channel>
+</rss>

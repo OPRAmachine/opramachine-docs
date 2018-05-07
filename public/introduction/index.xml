@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on OPRAmachine Documentation</title>
+    <link>/introduction/</link>
+    <description>Recent content in Introduction on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How OPRAmachine Works</title>
+      <link>/introduction/how-it-works/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/introduction/how-it-works/</guid>
+      <description>The following presentation shows how OPRAmachine works and explains some of the basic concepts about the site and its operations.
+How OPRAmachine Works OPRAmachine is a statewide platform that is helping to make New Jersey government more transparent using the Open Public Records Act. - Send requests to state &amp;amp; local government - Track response time &amp;amp; publish responsive documents
+Send Your Request  Draft request and pick which public authority you want to send it to Our software delivers requests to the email addresses of government agency&amp;rsquo;s records custodian OPRAmachine also takes care of tracking the timeline of the government&amp;rsquo;s response  Receiving Documents  OPRAmachine parses emails received from public authorities and notifies you when they respond.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contracts on OPRAmachine Documentation</title>
+    <link>/example-requests/contracts/</link>
+    <description>Recent content in Contracts on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/example-requests/contracts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Collective Bargaining Contracts</title>
+      <link>/example-requests/contracts/collective-bargaining/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/contracts/collective-bargaining/</guid>
+      <description>Collective bargaining contracts are executed with public bodies as a result of negotiations between representatives of the management of the public entity and the negotiations team of the union. Government employees are typically divided into collective bargaining units that negotiate contractual work and compensation terms for the employees that are covered by their respective union. The contractual agreements cover a range of items, from health and dental coverage, to work hours and the procedures in place for handling grievances.</description>
+    </item>
+    
+  </channel>
+</rss>

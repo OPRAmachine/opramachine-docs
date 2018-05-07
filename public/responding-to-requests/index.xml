@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responding to Requests on OPRAmachine Documentation</title>
+    <link>/responding-to-requests/</link>
+    <description>Recent content in Responding to Requests on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/responding-to-requests/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dealing With Large Files</title>
+      <link>/responding-to-requests/large-files/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/responding-to-requests/large-files/</guid>
+      <description>Sometimes the response to request will require a large amount of space, such as when videos are requested. There are several ways that custodians can deal with largeFiles when responding to requests through the OPRAmachine website.
+Email Attachment File Size Limits Each new OPRA request submitted through OPRAmachine results in the generation of a unique @requests.opramachine.com email address. The requests.opramachine.com mail ServerIs currently configured to accept emailAttachmentsUp to 100 MB in size.</description>
+    </item>
+    
+    <item>
+      <title>Responding via Email</title>
+      <link>/responding-to-requests/email/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/responding-to-requests/email/</guid>
+      <description>Respond to request via email You can respond to an emailed OPRA request delivered via OPRAmachine just as if it is any other email. Simply reply to the email with a response providing the documents, seeking clarification or denying the request just as you would to any other email that you would receive from any other sender.
+Please note that the characters that appear before @requests.opramachine.com in the email addresses that send requests are used by the OPRAmachine software to categorize &amp;amp; track OPRA requests.</description>
+    </item>
+    
+    <item>
+      <title>Responding via the Web</title>
+      <link>/responding-to-requests/direct/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/responding-to-requests/direct/</guid>
+      <description>If you would prefer to respond to an OPRAmachine request directly from your web browser, you can do so without having to bother with email. Please note that this method of responding will require you to register for an account with the OPRAmachine website using your government email address.
+Responding using the web interface To respond to a request directly from the OPRAmachine website, simply navigate to the request webpage using a web browser.</description>
+    </item>
+    
+  </channel>
+</rss>

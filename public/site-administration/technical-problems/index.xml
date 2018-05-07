@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Problems on OPRAmachine Documentation</title>
+    <link>/site-administration/technical-problems/</link>
+    <description>Recent content in Technical Problems on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/site-administration/technical-problems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Email Delivery Issues</title>
+      <link>/site-administration/technical-problems/email/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-administration/technical-problems/email/</guid>
+      <description>There continues to be problems with email delivery to a handful of municipalities. Their firewalls are improperly rejecting OPRAmachine correspondence. We need to investigate ways of approaching this issue and solving this problem proactively.
+Spam Issues Identify towns where this is a problem
+Amazon Issues We currently use Amazon SES to send outbound SMTP emails for OPRA requests sent via the site. We should investigate whether this is playing a role in deliverability and if alternatives may be warranted.</description>
+    </item>
+    
+    <item>
+      <title>Request Won&#39;t Show</title>
+      <link>/site-administration/technical-problems/request-wont-show/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-administration/technical-problems/request-wont-show/</guid>
+      <description>One OPRA response simply will not show, no matter what we try and do. This is a mystery and we have not been sure how to proceed.
+Upstream Github issue We have opened a Github issue with the open source software project that provides the code that runs on the OPRAmachine server. We are curently waiting to hear back as of 12/20/2017.
+Full Error message A RuntimeError occurred in request#show:</description>
+    </item>
+    
+    <item>
+      <title>Server Crashes</title>
+      <link>/site-administration/technical-problems/serverissues/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-administration/technical-problems/serverissues/</guid>
+      <description>The server that has been running the site has been crashing because of the high load due to user demand. We need to investigate ways to obtain better performance for the site or explore upgrades to the Linode instance.
+Reasons for server crashes Since late October there have been a variety of reasons for server crashes at OPRAmachine.
+Here are some of the reasons: - Lack of RAM - Database issues - Lack of disk space</description>
+    </item>
+    
+    <item>
+      <title>Statistics Page Broken</title>
+      <link>/site-administration/technical-problems/stats/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-administration/technical-problems/stats/</guid>
+      <description>The statistics page is currently broken. We are investigating the cause of the problem
+Github issue (Upstream) https://github.com/mysociety/alaveteli/issues/4433
+Raw text of error message A Math::DomainError occurred in statistics#index:
+Numerical argument is out of domain - &amp;ldquo;sqrt&amp;rdquo; lib/confidence_intervals.rb:28:in `sqrt&amp;rsquo;
+Request:  URL : https://opramachine.com/statistics HTTP Method: GET IP address : 54.161.187.202 Parameters : {&amp;ldquo;controller&amp;rdquo;=&amp;gt;&amp;ldquo;statistics&amp;rdquo;, &amp;ldquo;action&amp;rdquo;=&amp;gt;&amp;ldquo;index&amp;rdquo;} Timestamp : 2017-12-20 21:57:55 -0500 Server : opramachine.com Rails root : /var/www/opramachine.com/alaveteli Process: 23591  Session:  session id: [FILTERED] data: {&amp;ldquo;session_id&amp;rdquo;=&amp;gt;&amp;ldquo;95647a59eaf52bc425f666123ae9fff8&amp;rdquo;, &amp;ldquo;locale&amp;rdquo;=&amp;gt;&amp;ldquo;en&amp;rdquo;}  Environment:  GATEWAY_INTERFACE : CGI/1.</description>
+    </item>
+    
+  </channel>
+</rss>

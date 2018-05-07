@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal Documents on OPRAmachine Documentation</title>
+    <link>/example-requests/legal-documents/</link>
+    <description>Recent content in Legal Documents on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/example-requests/legal-documents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attorney Bills</title>
+      <link>/example-requests/legal-documents/attorneybills/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/legal-documents/attorneybills/</guid>
+      <description>Warning: If you request several months worth of legal bills with detail billing, you may get hit with a &amp;ldquo;special service&amp;rdquo; fee for the labor required to make the redactions. Consider breaking requests for these records into smaller requests.
+ Governments hire attorneys for all for all sorts of legal matters. In many instances, a local government may end up hiring several law firms, with each firm covering a certain area of expertise.</description>
+    </item>
+    
+    <item>
+      <title>Complaints</title>
+      <link>/example-requests/legal-documents/complaints/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/legal-documents/complaints/</guid>
+      <description>The complaint is the first document that is filed in a lawsuit. It is a summary of the factual and legal allegations that give rise to the lawsuit.
+Example requests The following are example requests made for this type of record on OPRAmachine:
+https://opramachine.com/request/county_of_ocean_v_truex#incoming-1678
+https://opramachine.com/request/elissetche_v_hatch_et_al</description>
+    </item>
+    
+    <item>
+      <title>Motion Papers</title>
+      <link>/example-requests/legal-documents/motions/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/legal-documents/motions/</guid>
+      <description>Motion papers are filed during the case and can take a variety of forms. The common thread of all motion papers is that they are requesting that the court do something, such as compel depositions, or a motion requesting that a lawsuit be dismissed.
+Requesting motion documents can be useful if you are attempting to follow a case as it is making its way through the system, typically during the pretrial phase of the case.</description>
+    </item>
+    
+    <item>
+      <title>Settlement Agreements</title>
+      <link>/example-requests/legal-documents/settlements/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/legal-documents/settlements/</guid>
+      <description>When a lawsuit is settled against a public agency, the terms of the settlement are memorialized as a settlement agreement. The settlement agreement recites some basic facts about the procedural history of a lawsuit before outlining the terms of the settlement. Typically, the plaintiff (the person who filed the lawsuit) is paid a sum of money to withdraw their litigation without the public body admitting any liability.
+Settlement agreements can be a useful tool for learning about the outcomes of litigation.</description>
+    </item>
+    
+  </channel>
+</rss>

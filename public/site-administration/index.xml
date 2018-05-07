@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Administration on OPRAmachine Documentation</title>
+    <link>/site-administration/</link>
+    <description>Recent content in Site Administration on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/site-administration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reactive Moderation Principles</title>
+      <link>/site-administration/reactive/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-administration/reactive/</guid>
+      <description>To maximize the freedom of users to engage with our site, we moderate its content reactively. This means that we generally wait until an issue is brought to our attention to take action. Unless the user has continuously violated our policies after being given a warning, we are extremely hesitant to intervene, in the interest of allowing the users of our platform to freely express themselves. Members of the site administration team are expected to adhere to this principle.</description>
+    </item>
+    
+    <item>
+      <title>Site Leadership</title>
+      <link>/site-administration/leadership/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/site-administration/leadership/</guid>
+      <description>The leadership team of OPRAmachine.com is responsible for making administration decisions for the site, such as implementing our content removal policy.
+Gavin Rozzi Gavin Rozzi is the founder of OPRAmachine.com. He is responsible for managing most of the day-to-day technical issues that occur with the site and regularly fields inquiries from both users and governments on OPRA requests submitted through our system. He can be reached via phone at (732)-504-3636 or via the email link on this page.</description>
+    </item>
+    
+  </channel>
+</rss>

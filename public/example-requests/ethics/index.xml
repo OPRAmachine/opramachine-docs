@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics Records on OPRAmachine Documentation</title>
+    <link>/example-requests/ethics/</link>
+    <description>Recent content in Ethics Records on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/example-requests/ethics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Local Finance Board Case Rosters</title>
+      <link>/example-requests/ethics/lfb/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/ethics/lfb/</guid>
+      <description>The state Local Finance Board holds jurisdiction over state ethics matters such as the filing of financial disclosure forms by local public officials. They maintain a roster in the form of an Excel spreadsheet that lists ethics cases against local public officials that are adjudicated by the board.
+Example requests The following are example requests made for this type of record on OPRAmachine:</description>
+    </item>
+    
+    <item>
+      <title>School Ethics Information</title>
+      <link>/example-requests/ethics/schoolethics/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/ethics/schoolethics/</guid>
+      <description>Before you file a request for records related to a school ethics matter, be sure to first check the website of the state School Ethics Commission. The commission regularly publishes PDF versions of their rulings in schools ethics complaints filed against school members.</description>
+    </item>
+    
+  </channel>
+</rss>

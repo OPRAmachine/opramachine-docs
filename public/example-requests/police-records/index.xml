@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Police Records on OPRAmachine Documentation</title>
+    <link>/example-requests/police-records/</link>
+    <description>Recent content in Police Records on OPRAmachine Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/example-requests/police-records/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>911 Tapes</title>
+      <link>/example-requests/police-records/911/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/police-records/911/</guid>
+      <description>You can request 911 tapes under OPRA. Typically county sheriff&amp;rsquo;s departments or public safety departments would have custody of these recordings. For recordings of phone calls of municipal police departments, you should file your request with that department&amp;rsquo;s custodian of records.</description>
+    </item>
+    
+    <item>
+      <title>Body Cam Footage</title>
+      <link>/example-requests/police-records/bodycam/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/police-records/bodycam/</guid>
+      <description>Police body camera footage can be obtained under OPRA, however a special concern associated with it will inevitably be the large size of video files. For that reason, the video files produced by the body cameras are often too large to email. Police departments may request that you pay a fee to have the video burned onto a disc or loaded onto a USB flash drive. Keep this in mind when requesting body camera footage of specific incidents.</description>
+    </item>
+    
+    <item>
+      <title>CAD Reports</title>
+      <link>/example-requests/police-records/cad-reports/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/police-records/cad-reports/</guid>
+      <description>Almost every police department currently makes use of a Computer Aided Dispatch (CAD) system. CAD allows police departments to effectively store data about calls for service and the status of officers in the field. It allows law enforcement officers to quickly obtain the information that they need to accomplish their jobs, as well as assisting dispatchers with the logistics of their operations.
+Requesting CAD reports can allow you to get an idea of the types of police, fire &amp;amp; EMS calls for service at a given address for a period of time.</description>
+    </item>
+    
+    <item>
+      <title>Department Policies &amp; SOPs</title>
+      <link>/example-requests/police-records/policies/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/police-records/policies/</guid>
+      <description>The policies and procedures that govern local and county police departments should be easily obtainable using OPRAmachine. As some of the example requests will show, it may be advisable to break your request into narrower requests to obtain specific policies in order to avoid dealing with special service charges levied by the departments due to the voluminous nature of the OPRA request.
+Example requests The following are example requests made for this type of record on OPRAmachine:</description>
+    </item>
+    
+    <item>
+      <title>Internal Affairs Records</title>
+      <link>/example-requests/police-records/internal-affairs/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/police-records/internal-affairs/</guid>
+      <description>The types of internal affairs records that the public can obtain under OPRA is limited to aggregate level summaries of cases that do not individually identify the officers that were involved in the case. Typically, the summary reports obtainable under OPRA will include a list of the types of cases and their disposition, such as whether the allegations were sustained or not.
+Example requests The following are example requests made for this type of record on OPRAmachine:</description>
+    </item>
+    
+    <item>
+      <title>Motor Vehicle Accident Reports</title>
+      <link>/example-requests/police-records/mva-reports/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/police-records/mva-reports/</guid>
+      <description>Reports completed by police departments investigating motor vehicle accidents are obtainable under OPRA. Often, companies will file requests seeking copies of all motor vehicle accident reports for a given period of time. Police typically provide the reports in full, while redacting some sensitive personal information, such as drivers license numbers and insurance policy numbers.
+Example requests The following are example requests made for this type of record on OPRAmachine:</description>
+    </item>
+    
+    <item>
+      <title>Police Officer Training Records</title>
+      <link>/example-requests/police-records/training-records/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/police-records/training-records/</guid>
+      <description>You can request copies of police officer training and certification information for a given pollice department. There were several requests for these types of information that were filed by a user of OPRAmachine in 2017.
+Example requests The following are example requests made for this type of record on OPRAmachine:</description>
+    </item>
+    
+    <item>
+      <title>Summonses &amp; Charging Documents</title>
+      <link>/example-requests/police-records/summonses/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/police-records/summonses/</guid>
+      <description>You can obtain copies of summonses for ordinance, municipal code or traffic violations issued by local police departments under OPRA. Be as specific as you can when describing the incident. Name the location, parties involved, and nature of the charges, if known in order to help the department identify and locate records that are responsive to your request.
+Example requests The following are example requests made for this type of record on OPRAmachine:</description>
+    </item>
+    
+    <item>
+      <title>Use of Force Reports</title>
+      <link>/example-requests/police-records/uof/</link>
+      <pubDate>Tue, 19 Dec 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/example-requests/police-records/uof/</guid>
+      <description>Police use of force reports can be a great tool for understanding the types of incidents occurring where members of law enforcement indicated that they used force in order to establish compliance.
+Example requests The following are example requests made for this type of record on OPRAmachine:
+https://opramachine.com/request/police_use_of_force_reports_janu_14#incoming-38
+https://opramachine.com/request/use_of_force_reports
+https://opramachine.com/request/different_police_department_annu_64#incoming-818</description>
+    </item>
+    
+  </channel>
+</rss>
