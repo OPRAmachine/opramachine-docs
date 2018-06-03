@@ -12,12 +12,23 @@
     
     
     <item>
+      <title>Desktop Apps</title>
+      <link>/introduction/desktop/</link>
+      <pubDate>Sun, 03 Jun 2018 09:35:24 +0200</pubDate>
+      
+      <guid>/introduction/desktop/</guid>
+      <description>OPRAmachine now has desktop applications available for Windows and Mac systems. The desktop applications provide the same functionality as the main OPRAmachine website in a new and convenient form factor.
+We recommend downloading the desktop app if you frequently use OPRAmachine from your computer, as we plan to add more functionality in the future to make the experience more tailored to the needs of desktop users.
+IMPORTANT NOTE: If you receive a notification the the app was blocked by Windows Defender Smart Screen (such as &amp;ldquo;Windows Protected Your PC) or if you receive a security warning from Google Chrome when downloading the app, you may safely disregard the warning and allow the installation to proceed.</description>
+    </item>
+    
+    <item>
       <title>Legal Issues</title>
       <link>/making-requests/legal-issues/</link>
       <pubDate>Thu, 15 Feb 2018 20:46:24 +0200</pubDate>
       
       <guid>/making-requests/legal-issues/</guid>
-      <description>Here be dragons! If you&amp;rsquo;re not sure about a legal issues that comes up during your request, the best thing to do is contact an attorney. The OPRAmachine team consists of volunteers. We are unable to provide legal advice on specific requests. Only a licensed attorney can provide legal advice. OPRA caselaw reference information We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for requesters making use of OPRAmachine.</description>
+      <description>Here be dragons! If you&amp;rsquo;re not sure about a legal issues that comes up during your request, the best thing to do is contact an attorney. The OPRAmachine team consists of volunteers. We are unable to provide legal advice on specific requests. Only a licensed attorney can provide legal advice.OPRA caselaw reference information We are making the following summaries of holdings from precedential OPRA cases adjudicated in New Jersey courts available for requesters making use of OPRAmachine.</description>
     </item>
     
     <item>
@@ -64,7 +75,7 @@ Examples Successful OPRA requests (JSON)</description>
       
       <guid>/example-requests/legal-documents/attorneybills/</guid>
       <description>Warning: If you request several months worth of legal bills with detail billing, you may get hit with a &amp;ldquo;special service&amp;rdquo; fee for the labor required to make the redactions. Consider breaking requests for these records into smaller requests.
- Governments hire attorneys for all for all sorts of legal matters. In many instances, a local government may end up hiring several law firms, with each firm covering a certain area of expertise.</description>
+Governments hire attorneys for all for all sorts of legal matters. In many instances, a local government may end up hiring several law firms, with each firm covering a certain area of expertise.</description>
     </item>
     
     <item>
