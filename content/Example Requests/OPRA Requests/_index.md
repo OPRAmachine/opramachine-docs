@@ -12,8 +12,12 @@ Some government agencies have imposed "special service" charges to requests that
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
 
-https://opramachine.com/request/opra_requests_294#incoming-698
+[Copies of all OPRA requests - Egg Harbor Township](https://opramachine.com/request/opra_requests_23#incoming-901)
 
-https://opramachine.com/request/opra_requests_91#incoming-1510
+[Copies of all OPRA requests - New Jersey Division & Families](https://opramachine.com/request/opra_requests_108#incoming-789)
 
-https://opramachine.com/request/opra_requests_29#incoming-282
+[Copies of all OPRA requests - Red Bank Borough](https://opramachine.com/request/opra_requests_260#incoming-583)
+
+[Copies of all OPRA requests - Gloucester County](https://opramachine.com/request/opra_requests_64#incoming-1028)
+
+[Copies of all OPRA requests - New Jersey Department of Education](https://opramachine.com/request/opra_requests_100#incoming-1489)
