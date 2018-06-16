@@ -20,3 +20,6 @@ Oftentimes, a strategy that can be employed by requesters to obtain the bodies o
 
 ## Example requests
 The following are example requests made for this type of record on OPRAmachine:
+
+[Requesting a copy of a specific email - 9/12 email from Brennan to BOE](https://opramachine.com/request/912_email_from_brennan_to_board#incoming-703)
+
