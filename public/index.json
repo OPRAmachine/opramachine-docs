@@ -1,5 +1,40 @@
 [
 {
+	"uri": "/exemptions/acd/",
+	"title": "Advisory / Consultative / Deliberative",
+	"tags": [],
+	"description": "Details about the Advisory / Consultative / Deliberative exemption",
+	"content": " Legal basis: What it covers: Example denials: "
+},
+{
+	"uri": "/exemptions/biotech/",
+	"title": "Biotechnology Trade Secrets",
+	"tags": [],
+	"description": "Details about the Biotechnology Trade Secrets exemption",
+	"content": " What it covers: Proprietary information about commercially used genetically modified organisms.\nLegal basis: N.J.S.A 47:1A-1 defines biotechnology as \u0026ldquo;\u0026hellip; any technique that uses living organisms, or parts of living organisms, to make or modify products, to improve plants or animals, or to develop micro-organisms for specific uses; including the industrial use of recombinant DNA, cell fusion, and novel bioprocessing techniques.\u0026rdquo;\nExample denials: "
+},
+{
+	"uri": "/exemptions/legislative/",
+	"title": "Legislative Records",
+	"tags": [],
+	"description": "Details about the Legislative Records exemption",
+	"content": " What it covers: Materials sent or received by elected members of the New Jersey General Assembly and State Senate.\nLegal basis: N.J.S.A 47:1A-1.1 exempts from disclosure:\n\u0026ldquo;information received by a member of the Legislature from a constituent or information held by a member of the Legislature concerning a constituent, including but not limited to information in written form or contained in any e-mail or computer data base, or in any telephone record whatsoever, unless it is information the constituent is required by law to transmit; any memorandum, correspondence, notes, report or other communication prepared by, or for, the specific use of a member of the Legislature in the course of the member\u0026rsquo;s official duties, except that this provision shall not apply to an otherwise publicly-accessible report which is required by law to be submitted to the Legislature or its members.\u0026rdquo;\nExample denials: "
+},
+{
+	"uri": "/exemptions/medicalexaminer/",
+	"title": "Medical Examiner Records",
+	"tags": [],
+	"description": "Details about the Medical Examiner Records exemption",
+	"content": " What it covers: Photos of dead bodies taken by medical examiners in the course of death investigations.\nLegal basis: N.J.S.A. 47:1A-1.1 exempts from disclosure:\n\u0026rdquo;\u0026hellip;any copy, reproduction or facsimile of any photograph, negative or print, including instant photographs and videotapes of the body, or any portion of the body, of a deceased person, taken by or for the medical examiner at the scene of death or in the course of a post mortem examination or autopsy made by or caused to be made by the medical examiner except: when used in a criminal action or proceeding in this State which relates to the death of that person, for the use as a court of this State permits, by order after good cause has been shown and after written notification of the request for the court order has been served at least five days before the order is made upon the county prosecutor for the county in which the post mortem examination or autopsy occurred, for use in the field of forensic pathology or for use in medical or scientific education or research, or for use by any law enforcement agency in this State or any other state or federal law enforcement agency.\u0026rdquo;\nExample denials: "
+},
+{
+	"uri": "/",
+	"title": "OPRAmachine Documentation",
+	"tags": [],
+	"description": "Providing information for users and administrators of OPRAmachine.com",
+	"content": " OPRAmachine Docs There are currently NO site outages\rLast updated: June 26th, 2018\rWelcome The OPRAmachine Documentation (docs.opramachine.com) is your destination for information on how the OPRAmachine website works, how the website\u0026rsquo;s administration decisions are made, as well as guides on how to make requests for specific types of public records under the New Jersey Open Public Records Act using the OPRAmachine transparency platform.\nHelp improve our documentation We hope that this documentation will help answer some of the most common questions that we have received from requesters and records custodians. The OPRAmachine administration also aims to communicate site technical issues and outages both on this platform and on the OPRAmachine blog (blog.opramachine.com). While we aim for this documentation to be as complete as possible, there may be some things we are missing.\nThis documentation is open source. If you would like to help improve the content \u0026amp; quality of this documentation, feel free to make changes using the Github editing interface. Just click the Edit this page link displayed on top right of each page, and submit a pull request with your changes. Your changes will be deployed automatically when merged after review.\nYour feedback Please reach out to the documentation\u0026rsquo;s editor, Gavin Rozzi with any feedback about this documentation or suggestions on how it can be improved. Feedback may also be submitted to any other member of the OPRAmachine team for their consideration. Issues may be submitted via Github to this or any of our website repositories.\nStats Since October, 2017, OPRAmachine has seen:\r\r1904 public records requests\r1492 followup messages sent\r223 registered users\r905 public bodies\r86 annotations added to requests\r169 tracked requests\r\r"
+},
+{
 	"uri": "/introduction/desktop/",
 	"title": "Desktop Apps",
 	"tags": [],
@@ -19,13 +54,6 @@
 	"tags": [],
 	"description": "OPRAmachine provides JSON feeds",
 	"content": " You can get JSON structured data out of OPRAmachine by simply adding \u0026ldquo;.json\u0026rdquo; to the end of a feed URL.\nExamples Successful OPRA requests (JSON)\n"
-},
-{
-	"uri": "/",
-	"title": "OPRAmachine Documentation",
-	"tags": [],
-	"description": "Providing information for users and administrators of OPRAmachine.com",
-	"content": " OPRAmachine Docs There are currently NO site outages\rLast updated: June 3rd, 2018\rWelcome The OPRAmachine Documentation (docs.opramachine.com) is your destination for information on how the OPRAmachine website works, how the website\u0026rsquo;s administration decisions are made, as well as guides on how to make requests for specific types of public records under the New Jersey Open Public Records Act using the OPRAmachine transparency platform.\nHelp improve our documentation We hope that this documentation will help answer some of the most common questions that we have received from requesters and records custodians. The OPRAmachine administration also aims to communicate site technical issues and outages both on this platform and on the OPRAmachine blog (blog.opramachine.com). While we aim for this documentation to be as complete as possible, there may be some things we are missing.\nThis documentation is open source. If you would like to help improve the content \u0026amp; quality of this documentation, feel free to make changes using the Github editing interface. Just click the Edit this page link displayed on top right of each page, and submit a pull request with your changes. Your changes will be deployed automatically when merged after review.\nYour feedback Please reach out to the documentation\u0026rsquo;s editor, Gavin Rozzi with any feedback about this documentation or suggestions on how it can be improved. Feedback may also be submitted to any other member of the OPRAmachine team for their consideration. Issues may be submitted via Github to this or any of our website repositories.\nStats Since October, 2017, OPRAmachine has seen:\r\r1751 public records requests\r1370 followup messages sent\r201 registered users\r782 public bodies\r80 annotations added to requests\r151 tracked requests\r\r"
 },
 {
 	"uri": "/example-requests/police-records/911/",
@@ -151,7 +179,7 @@
 	"title": "Email Bodies",
 	"tags": [],
 	"description": "Getting bodies of email messages",
-	"content": " The bodies of email messages often reveal the most detail for a given piece of correspondence, yet getting them can often be difficult. In order to obtain the bodies of email, statutory and case law has required that requesters be specific as to the source of the emails (either sender of recipient), as well as the date range and subject matter.\nOftentimes, a strategy that can be employed by requesters to obtain the bodies of email messages would be to first file an OPRA request for copies of the email logs for a public employee\u0026rsquo;s email account during the date range in question. Then, once you are in possession of the email logs, use the email logs to formulate a future OPRA request where you request to see copies of the specific bodies of email messages of interest that you have identified from the email logs.\nExample requests The following are example requests made for this type of record on OPRAmachine:\n"
+	"content": " The bodies of email messages often reveal the most detail for a given piece of correspondence, yet getting them can often be difficult. In order to obtain the bodies of email, statutory and case law has required that requesters be specific as to the source of the emails (either sender of recipient), as well as the date range and subject matter.\nOftentimes, a strategy that can be employed by requesters to obtain the bodies of email messages would be to first file an OPRA request for copies of the email logs for a public employee\u0026rsquo;s email account during the date range in question. Then, once you are in possession of the email logs, use the email logs to formulate a future OPRA request where you request to see copies of the specific bodies of email messages of interest that you have identified from the email logs.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nRequesting a copy of a specific email - 9\u0026frasl;12 email from Brennan to BOE\n"
 },
 {
 	"uri": "/site-administration/technical-problems/email/",
@@ -165,7 +193,7 @@
 	"title": "Email Logs",
 	"tags": [],
 	"description": "Getting email logs under OPRA",
-	"content": " Since the New Jersey Supreme Court\u0026rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.\nEmail logs consist of the metadata associated with a public employee\u0026rsquo;s email account. They are almost like a snapshot of the account\u0026rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee\u0026rsquo;s email account.\nEmail logs can reveal who a public official is talking to and what they are saying. That\u0026rsquo;s why they are a powerful tool for journalists and the public.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/copies_of_email_logs_for_sheriff#incoming-862\n"
+	"content": " Since the New Jersey Supreme Court\u0026rsquo;s holding in the case Paff v. Galloway Township, the public has been able to request fields of digital data, such as email logs.\nEmail logs consist of the metadata associated with a public employee\u0026rsquo;s email account. They are almost like a snapshot of the account\u0026rsquo;s email inbox, as it reveals the sender, recipient, subject and timestamp of each email stored on the public employee\u0026rsquo;s email account.\nEmail logs can reveal who a public official is talking to and what they are saying. That\u0026rsquo;s why they are a powerful tool for journalists and the public.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nEmail logs for Monmouth County Sheriff Shaun Golden\n"
 },
 {
 	"uri": "/site-policies-and-procedures/email-verification/",
@@ -368,7 +396,14 @@
 	"title": "Bid Documents",
 	"tags": [],
 	"description": "Obtaining bid documents",
-	"content": "You can obtain bid documents detailing government procurement processes using OPRAmachine.\n"
+	"content": "You can obtain bid documents detailing government procurement processes using OPRAmachine.\nTypes of bid documents that have been requested using OPRAmachine include:\nQuotes and documents pertaining to 3rd party electric suppliers\nRFPs for legal services\nPrevailing wage information for contracts\nBid scoring sheet, professional services methodology evaluation\n"
+},
+{
+	"uri": "/example-requests/meeting-minutes--agendas/",
+	"title": "Meeting Minutes &amp; Agendas",
+	"tags": [],
+	"description": "Obtaining meeting minutes &amp; agendas using OPRAmachine",
+	"content": " Meeting minutes and agendas are among the most routinely requested records that are made available to the public under OPRA.\nExecutive session meeting minutes Executive session meetings exclude members of the public and allow members of governing bodies to receive confidential / attorney-client privileged / personnel and other information legally protected from disclosure.\nMinutes taken at executive sessions can be kept confidential, however previous executive session meeting minutes may be released under OPRA when the need for confidentiality is no longer present.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nCDBG Meeting Minutes - City of Camden\nHistoric Preservation Commission Meeting Minutes - City of Camden\nBrooklawn Borough Council Meeting Minutes and Executive Session Minutes from February 20 and March 19, 2018\n"
 },
 {
 	"uri": "/example-requests/contracts/",
@@ -406,6 +441,13 @@
 	"content": "Records related to ethics complaints can be obtained from a number of sources, most of which come from state agencies.\n"
 },
 {
+	"uri": "/exemptions/",
+	"title": "Exemptions",
+	"tags": [],
+	"description": "Exemptions",
+	"content": "OPRA has just over 25 different exmeptions that exempt certain types of documents from disclosure. In this section of the OPRAmachine documentation we will catalogue each exemption and provide example denials showing how public agencies have impelemented them in response to real-world requests.\n"
+},
+{
 	"uri": "/introduction/",
 	"title": "Introduction",
 	"tags": [],
@@ -438,7 +480,7 @@
 	"title": "OPRA Requests",
 	"tags": [],
 	"description": "Obtaining OPRA requests using OPRAmachine",
-	"content": " Yes, OPRA requests themselves are public records and may be readily obtained using OPRAmachine. We have found that municipalities and counties have varied fairly wildly with the extent to which they redact personally identifying information from the request forms and emails sent requesting public records under OPRA.\nSome government agencies have imposed \u0026ldquo;special service\u0026rdquo; charges to requests that are seeking a high volume of records, such as OPRAs covering several months. As emphasized in past documentation pages, breaking a request into smaller requests for narrower periods of time is a good way to avoid being charged a fee for the records you are seeking.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nhttps://opramachine.com/request/opra_requests_294#incoming-698\nhttps://opramachine.com/request/opra_requests_91#incoming-1510\nhttps://opramachine.com/request/opra_requests_29#incoming-282\n"
+	"content": " Yes, OPRA requests themselves are public records and may be readily obtained using OPRAmachine. We have found that municipalities and counties have varied fairly wildly with the extent to which they redact personally identifying information from the request forms and emails sent requesting public records under OPRA.\nSome government agencies have imposed \u0026ldquo;special service\u0026rdquo; charges to requests that are seeking a high volume of records, such as OPRAs covering several months. As emphasized in past documentation pages, breaking a request into smaller requests for narrower periods of time is a good way to avoid being charged a fee for the records you are seeking.\nExample requests The following are example requests made for this type of record on OPRAmachine:\nCopies of all OPRA requests - Egg Harbor Township\nCopies of all OPRA requests - New Jersey Division \u0026amp; Families\nCopies of all OPRA requests - Red Bank Borough\nCopies of all OPRA requests - Gloucester County\nCopies of all OPRA requests - New Jersey Department of Education\n"
 },
 {
 	"uri": "/example-requests/police-records/",
