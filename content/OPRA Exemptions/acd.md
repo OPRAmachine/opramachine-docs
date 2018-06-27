@@ -14,8 +14,15 @@ lastmodifierdisplayname = "Gavin Rozzi"
 lastmodifieremail = "gr@gavinrozzi.com"
 +++
 
-#### Legal basis:
-
 ### What it covers:
+
+Draft documents created before final action of public agency.
+
+### Legal basis:
+**N.J.S.A. 47:1A-1.1** exempts "Inter-agency  or  intra-agency  advisory,  cons
+ultative  or  deliberative  material."  
+
+**See also:** [Legal cases involving the advisory / consultative / deliberative exemption](https://docs.opramachine.com/making-requests/legal-issues/#advisory-consultative-or-deliberative-acd-material)
+
 
 ### Example denials:

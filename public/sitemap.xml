@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/exemptions/acd/</loc>
+    <loc>/opra-exemptions/acd/</loc>
     <lastmod>2018-06-26T07:35:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/exemptions/biotech/</loc>
+    <loc>/opra-exemptions/biotech/</loc>
     <lastmod>2018-06-26T07:35:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/exemptions/legislative/</loc>
+    <loc>/opra-exemptions/criminalinvestigatoryrecord/</loc>
     <lastmod>2018-06-26T07:35:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/exemptions/medicalexaminer/</loc>
+    <loc>/opra-exemptions/legislative/</loc>
+    <lastmod>2018-06-26T07:35:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/opra-exemptions/medicalexaminer/</loc>
     <lastmod>2018-06-26T07:35:24+02:00</lastmod>
   </url>
   
@@ -318,11 +323,6 @@
   </url>
   
   <url>
-    <loc>/exemptions/</loc>
-    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/introduction/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
@@ -334,6 +334,11 @@
   
   <url>
     <loc>/making-requests/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/opra-exemptions/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   

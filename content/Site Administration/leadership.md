@@ -19,5 +19,9 @@ The leadership team of OPRAmachine.com is responsible for making administration 
 ## Gavin Rozzi
 Gavin Rozzi is the founder of OPRAmachine.com. He is responsible for managing most of the day-to-day technical issues that occur with the site and regularly fields inquiries from both users and governments on OPRA requests submitted through our system. He can be reached via phone at (732)-504-3636 or via the email link on this page. Check out his personal website at [gavinrozzi.com](https://www.gavinrozzi.com/)
 
+[Gavin's requests on OPRAmachine](https://opramachine.com/user/gavin_rozzi/requests)
+
 ## Jeff Epstein
-Jeff Epstein serves as one of OPRAmachine's administrators. Mr. Epstein is also the founder of Citizens' Media TV.
+Jeff Epstein serves as one of OPRAmachine's administrators. Mr. Epstein is also the founder of [Citizens' Media TV.](http://citizensmedia.tv)
+
+[Jeff's requests on OPRAmachine](https://opramachine.com/user/jeff_epstein)

@@ -1,27 +1,34 @@
 [
 {
-	"uri": "/exemptions/acd/",
+	"uri": "/opra-exemptions/acd/",
 	"title": "Advisory / Consultative / Deliberative",
 	"tags": [],
 	"description": "Details about the Advisory / Consultative / Deliberative exemption",
-	"content": " Legal basis: What it covers: Example denials: "
+	"content": " What it covers: Draft documents created before final action of public agency.\nLegal basis: N.J.S.A. 47:1A-1.1 exempts \u0026ldquo;Inter-agency or intra-agency advisory, cons ultative or deliberative material.\u0026rdquo;\nSee also: Legal cases involving the advisory / consultative / deliberative exemption\nExample denials: "
 },
 {
-	"uri": "/exemptions/biotech/",
+	"uri": "/opra-exemptions/biotech/",
 	"title": "Biotechnology Trade Secrets",
 	"tags": [],
 	"description": "Details about the Biotechnology Trade Secrets exemption",
-	"content": " What it covers: Proprietary information about commercially used genetically modified organisms.\nLegal basis: N.J.S.A 47:1A-1 defines biotechnology as \u0026ldquo;\u0026hellip; any technique that uses living organisms, or parts of living organisms, to make or modify products, to improve plants or animals, or to develop micro-organisms for specific uses; including the industrial use of recombinant DNA, cell fusion, and novel bioprocessing techniques.\u0026rdquo;\nExample denials: "
+	"content": " What it covers: Proprietary information about commercially used genetically modified organisms.\nLegal basis: N.J.S.A 47:1A-1 defines biotechnology trade secrets as \u0026ldquo;\u0026hellip; any technique that uses living organisms, or parts of living organisms, to make or modify products, to improve plants or animals, or to develop micro-organisms for specific uses; including the industrial use of recombinant DNA, cell fusion, and novel bioprocessing techniques.\u0026rdquo;\nExample denials: "
 },
 {
-	"uri": "/exemptions/legislative/",
+	"uri": "/opra-exemptions/criminalinvestigatoryrecord/",
+	"title": "Criminal Invesitgatory Record",
+	"tags": [],
+	"description": "Details about the Criminal Invesitgatory Record exemption",
+	"content": " What it covers: Many police records, including those relative to investigations in progress and investigations that never resulted in a criminal prosecution.\nLegal basis: N.J.S.A. 47:1A1-1.1 provides that a criminal investigatory record is “a record which is not required by law to be made, maintained or kept on file that is held by a law enforcement agency which pertains to any criminal investigation or related civil enforcement proceeding.” The same statutes also explicity indicates that criminal investigatory records are not \u0026ldquo;government records\u0026rdquo; within the definition of OPRA.\nSee also: Legal cases involving the criminal investigatory record exemption\nPublic criminal investigation information While this exemption makes many types of law enforcement records unavailable to the public, the legislature also created a specific portion of that OPRA statute that makes limited information public about criminal investigations \u0026amp; police activity.\nN.J.S.A. 47:1A-3(b) requires that certain types of information regarding a criminal investigation be made available to the public within 24 hours or otherwise as soon as possible:\n where a crime has been reported but no arrest yet made, information as to the type of crime, time, location and type of weapon, if any;\n if an arrest has been made, information as to the name, address and age of any victims. Exceptions to this are:\n  (a) when there has not been sufficient opportunity for notification of next of kin of any victims of injury and/or death to any such victim; or\n(b) where the release of the names of any victim would be contrary to existing law or court rule.\nIn deciding on the release of information as to the identity of a victim, the safety of the victim and the victim\u0026rsquo;s family, and the integrity of any ongoing investigation, shall be considered;\n if an arrest has been made, information as to the defendant\u0026rsquo;s name, age, residence, occupation, marital status and similar background information and, the identity of the complaining party unless the release of such information is contrary to existing law or court rule;\n information as to the text of any charges such as the complaint, accusation and indictment unless sealed by the court or unless the release of such information is contrary to existing law or court rule;\n information as to the identity of the investigating and arresting personnel and agency and the length of the investigation;\n information of the circumstances immediately surrounding the arrest, including but not limited to the time and place of the arrest, resistance, if any, pursuit, possession and nature and use of weapons and ammunition by the suspect and by the police; and\n information as to circumstances surrounding bail, whether it was posted and the amount thereof.\n  Where it shall appear that the information requested will jeopardize the safety of any person or any investigation in progress or may be otherwise inappropriate to release, such information may be withheld. This exception shall be narrowly construed to prevent disclosure of information that would be harmful to a bona fide law enforcement purpose or the public safety. Whenever a law enforcement official determines that it is necessary to withhold information, the official shall issue a brief statement explaining the decision.\nExample denials: "
+},
+{
+	"uri": "/opra-exemptions/legislative/",
 	"title": "Legislative Records",
 	"tags": [],
 	"description": "Details about the Legislative Records exemption",
 	"content": " What it covers: Materials sent or received by elected members of the New Jersey General Assembly and State Senate.\nLegal basis: N.J.S.A 47:1A-1.1 exempts from disclosure:\n\u0026ldquo;information received by a member of the Legislature from a constituent or information held by a member of the Legislature concerning a constituent, including but not limited to information in written form or contained in any e-mail or computer data base, or in any telephone record whatsoever, unless it is information the constituent is required by law to transmit; any memorandum, correspondence, notes, report or other communication prepared by, or for, the specific use of a member of the Legislature in the course of the member\u0026rsquo;s official duties, except that this provision shall not apply to an otherwise publicly-accessible report which is required by law to be submitted to the Legislature or its members.\u0026rdquo;\nExample denials: "
 },
 {
-	"uri": "/exemptions/medicalexaminer/",
+	"uri": "/opra-exemptions/medicalexaminer/",
 	"title": "Medical Examiner Records",
 	"tags": [],
 	"description": "Details about the Medical Examiner Records exemption",
@@ -32,7 +39,7 @@
 	"title": "OPRAmachine Documentation",
 	"tags": [],
 	"description": "Providing information for users and administrators of OPRAmachine.com",
-	"content": " OPRAmachine Docs There are currently NO site outages\rLast updated: June 26th, 2018\rWelcome The OPRAmachine Documentation (docs.opramachine.com) is your destination for information on how the OPRAmachine website works, how the website\u0026rsquo;s administration decisions are made, as well as guides on how to make requests for specific types of public records under the New Jersey Open Public Records Act using the OPRAmachine transparency platform.\nHelp improve our documentation We hope that this documentation will help answer some of the most common questions that we have received from requesters and records custodians. The OPRAmachine administration also aims to communicate site technical issues and outages both on this platform and on the OPRAmachine blog (blog.opramachine.com). While we aim for this documentation to be as complete as possible, there may be some things we are missing.\nThis documentation is open source. If you would like to help improve the content \u0026amp; quality of this documentation, feel free to make changes using the Github editing interface. Just click the Edit this page link displayed on top right of each page, and submit a pull request with your changes. Your changes will be deployed automatically when merged after review.\nYour feedback Please reach out to the documentation\u0026rsquo;s editor, Gavin Rozzi with any feedback about this documentation or suggestions on how it can be improved. Feedback may also be submitted to any other member of the OPRAmachine team for their consideration. Issues may be submitted via Github to this or any of our website repositories.\nStats Since October, 2017, OPRAmachine has seen:\r\r1904 public records requests\r1492 followup messages sent\r223 registered users\r905 public bodies\r86 annotations added to requests\r169 tracked requests\r\r"
+	"content": " OPRAmachine Docs There are currently NO site outages\rLast updated: June 27th, 2018\rWelcome The OPRAmachine Documentation (docs.opramachine.com) is your destination for information on how the OPRAmachine website works, how the website\u0026rsquo;s administration decisions are made, as well as guides on how to make requests for specific types of public records under the New Jersey Open Public Records Act using the OPRAmachine transparency platform.\nHelp improve our documentation We hope that this documentation will help answer some of the most common questions that we have received from requesters and records custodians. The OPRAmachine administration also aims to communicate site technical issues and outages both on this platform and on the OPRAmachine blog (blog.opramachine.com). While we aim for this documentation to be as complete as possible, there may be some things we are missing.\nThis documentation is open source and editable using Github. If you would like to help improve the content \u0026amp; quality of this documentation, feel free to make changes and submit them for our consideration. Just click the Edit this page link displayed on top right of each page, and submit a pull request with your changes. Your changes will be deployed automatically when merged after review.\nYour feedback Please reach out to the documentation\u0026rsquo;s editor, Gavin Rozzi with any feedback about this documentation or suggestions on how it can be improved. Feedback may also be submitted to any other member of the OPRAmachine team for their consideration. Issues may be submitted via Github to this or any of our website repositories.\nStats Since October, 2017, OPRAmachine has seen:\r\r1904 public records requests\r1492 followup messages sent\r223 registered users\r905 public bodies\r86 annotations added to requests\r169 tracked requests\r\r"
 },
 {
 	"uri": "/introduction/desktop/",
@@ -333,7 +340,7 @@
 	"title": "Site Leadership",
 	"tags": [],
 	"description": "Our Leadership Team",
-	"content": " The leadership team of OPRAmachine.com is responsible for making administration decisions for the site, such as implementing our content removal policy.\nGavin Rozzi Gavin Rozzi is the founder of OPRAmachine.com. He is responsible for managing most of the day-to-day technical issues that occur with the site and regularly fields inquiries from both users and governments on OPRA requests submitted through our system. He can be reached via phone at (732)-504-3636 or via the email link on this page. Check out his personal website at gavinrozzi.com\nJeff Epstein Jeff Epstein serves as one of OPRAmachine\u0026rsquo;s administrators. Mr. Epstein is also the founder of Citizens\u0026rsquo; Media TV.\n"
+	"content": " The leadership team of OPRAmachine.com is responsible for making administration decisions for the site, such as implementing our content removal policy.\nGavin Rozzi Gavin Rozzi is the founder of OPRAmachine.com. He is responsible for managing most of the day-to-day technical issues that occur with the site and regularly fields inquiries from both users and governments on OPRA requests submitted through our system. He can be reached via phone at (732)-504-3636 or via the email link on this page. Check out his personal website at gavinrozzi.com\nGavin\u0026rsquo;s requests on OPRAmachine\nJeff Epstein Jeff Epstein serves as one of OPRAmachine\u0026rsquo;s administrators. Mr. Epstein is also the founder of Citizens\u0026rsquo; Media TV.\nJeff\u0026rsquo;s requests on OPRAmachine\n"
 },
 {
 	"uri": "/site-policies-and-procedures/spam/",
@@ -441,13 +448,6 @@
 	"content": "Records related to ethics complaints can be obtained from a number of sources, most of which come from state agencies.\n"
 },
 {
-	"uri": "/exemptions/",
-	"title": "Exemptions",
-	"tags": [],
-	"description": "Exemptions",
-	"content": "OPRA has just over 25 different exmeptions that exempt certain types of documents from disclosure. In this section of the OPRAmachine documentation we will catalogue each exemption and provide example denials showing how public agencies have impelemented them in response to real-world requests.\n"
-},
-{
 	"uri": "/introduction/",
 	"title": "Introduction",
 	"tags": [],
@@ -467,6 +467,13 @@
 	"tags": [],
 	"description": "Making requests using OPRAmachine",
 	"content": "Making requests for public records with New Jersey state, local and county government agencies using OPRAmachine is easy.\nStart by selecting the public authority you would like to send your OPRA request to. Please note that only New Jersey state and local governmental agencies are subject to the Open Public Records Act and its restrictions.\nNot all government agencies that operate in New Jersey are subject to OPRA. The New Jersey Judiciary and Legislature are both exempt from the law, so any requests to those entities made to them would be invalid, which is why OPRAmachine does not support them. Secondly, Federal agencies, such as the FBI or DHS are not subject to OPRA. Their records can instead be accessed under the federal Freedom of Information Act (FOIA). OPRAmachine currently only supports requests made under OPRA. A future website may be added that supports making FOIA requests using a similar interface.\n\r"
+},
+{
+	"uri": "/opra-exemptions/",
+	"title": "OPRA Exemptions",
+	"tags": [],
+	"description": "Exemptions from disclosure",
+	"content": "OPRA has just over 25 different exmeptions that exempt certain types of documents from disclosure. In this section of the OPRAmachine documentation we will catalogue each exemption and provide example denials showing how public agencies have impelemented them in response to real-world requests.\n"
 },
 {
 	"uri": "/example-requests/",
