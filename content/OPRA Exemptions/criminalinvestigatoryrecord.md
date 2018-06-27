@@ -1,8 +1,8 @@
 +++
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
-title = "Criminal Invesitgatory Record"
-description = "Details about the Criminal Invesitgatory Record exemption"
+title = "Criminal Investigatory Record"
+description = "Details about the Criminal Investigatory Record exemption"
 date = "2018-06-26T07:35:24+02:00"
 # Creator's Display name
 creatordisplayname = "Gavin Rozzi"
