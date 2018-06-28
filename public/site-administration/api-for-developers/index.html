@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="generator" content="Hugo 0.42.1" />
-    <meta name="description" content="Policy on content removal">
+    <meta name="description" content="OPRAmachine&#39;s API makes accessing OPRA request data easy.">
 
 
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
-    <title>Content Removal :: OPRAmachine Documentation</title>
+    <title>API for developers :: OPRAmachine Documentation</title>
     
     
     <link href="/css/nucleus.css?1530199021" rel="stylesheet">
@@ -34,7 +34,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/site-policies-and-procedures/content-removal/">
+  <body class="" data-url="/site-administration/api-for-developers/">
     <nav id="sidebar" class="">
 
 
@@ -1345,7 +1345,7 @@
   
     
     <li data-nav-id="/site-administration/" title="Site Administration" class="dd-item 
-        
+        parent
         
         
         ">
@@ -1410,8 +1410,8 @@
   
     
     <li data-nav-id="/site-administration/api-for-developers/" title="API for developers" class="dd-item 
-        
-        
+        parent
+        active
         
         ">
       <a href="/site-administration/api-for-developers/">
@@ -1551,7 +1551,7 @@
   
     
     <li data-nav-id="/site-policies-and-procedures/" title="Site Policies and Procedures" class="dd-item 
-        parent
+        
         
         
         ">
@@ -1596,7 +1596,7 @@
  
   
     
-      <li data-nav-id="/site-policies-and-procedures/content-removal/" title="Content Removal" class="dd-item active">
+      <li data-nav-id="/site-policies-and-procedures/content-removal/" title="Content Removal" class="dd-item ">
         <a href="/site-policies-and-procedures/content-removal/">
         Content Removal
         
@@ -1865,7 +1865,7 @@
                   
                   
                   <div id="top-github-link">
-                    <a class="github-link" title='Edit this page' href="https://github.com/gavinrozzi/opramachine-docs/edit/master/content/Site%20Policies%20and%20Procedures/content-removal.md" target="blank">
+                    <a class="github-link" title='Edit this page' href="https://github.com/gavinrozzi/opramachine-docs/edit/master/content/Site%20Administration/API%20for%20Developers/_index.md" target="blank">
                       <i class="fa fa-code-fork"></i>
                       <span id="top-github-link-text">Edit this page</span>
                     </a>
@@ -1894,7 +1894,7 @@
             
           
           
-            <a href='/'>OPRAmachine Documentation</a> > <a href='/site-policies-and-procedures/'>Site Policies and Procedures</a> > Content Removal
+            <a href='/'>OPRAmachine Documentation</a> > <a href='/site-administration/'>Site Administration</a> > API for developers
           
          
           
@@ -1906,16 +1906,7 @@
                 
                     <div class="progress">
     <div class="wrapper">
-<nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#types-of-content-subject-to-removal">Types of Content Subject To Removal</a></li>
-<li><a href="#requesting-removal">Requesting Removal</a></li>
-<li><a href="#removal-decisions">Removal Decisions</a></li>
-</ul></li>
-</ul>
-</nav>
+
     </div>
 </div>
 
@@ -1927,48 +1918,26 @@
         
         <div id="body-inner">
           
-            <h1>Content Removal</h1>
+            <h1>API for developers</h1>
           
 
         
 
 
+<p>We offer an API for developers to integrate their applications with OPRAmachine and our extensive archive of public records.</p>
 
+<p>The API currently offers read-only access to feeds of data and has both JSON and RSS endpoints. Data feeds are available for users, public agencies, and the site as a whole.</p>
 
-<p>The OPRAmachine site administration will endeavor to remove site content in legitimate instances where private identifying information, such as social security numbers and dates of birth are disclosed by way of the government documents published in the course of the site&rsquo;s operation. Generally, we will require a showing of material and substantial harm to an individual that would come as a result of the continued publication of information on OPRAmachine.</p>
+<p><a href="https://github.com/gavinrozzi/alaveteli-hugo-shortcodes">Example implementation of our API on a personal website</a></p>
 
-<h2 id="types-of-content-subject-to-removal">Types of Content Subject To Removal</h2>
+<p><a href="https://opramachine.com/feed/search/%20(latest_status:successful%20OR%20latest_status:partially_successful).json">JSON data feed - all successful OPRA requests</a></p>
 
-<ul>
-<li>Private personally identifying information, which if published would needlessly harm a private individual.</li>
-<li>Information that should have been redacted but was accidentally left clear. (This alone is not enough for the OPRAmachine administration to accommodate a removal request, we will still apply a public interest balancing test.)</li>
-<li>Information that violates our code of conduct, such as harassing or threatening comments posted on our social media pages.</li>
-<li>Content that infringes on copyright. If we receive a valid DMCA notice, we may remove the content from our platforms. If we believe that the content is not infringing, we may file a counter-notice or otherwise dispute said notice.</li>
-</ul>
-
-<h2 id="requesting-removal">Requesting Removal</h2>
-
-<p>Content removal requests will only be honored when submitted by a custodian of records for the government agency that provided the documents on the request page. The government agency should
-The government agency must contact the OPRAmachine site administration via email, online contact form or other means and identify with specificity the request that they are seeking removal of documents from.</p>
-
-<h2 id="removal-decisions">Removal Decisions</h2>
-
-<p>Removal of content from the publicly visible website and database of requests is an <strong>extraordinary</strong> remedy that will only be deployed on a case by case basis based upon the totality of the circumstances and any mitigating factors - not solely along bright line criteria. Failure to redact an item when the OPRA law would have allowed redaction is not reason enough for the removal of content.</p>
-
-<p>We will therefore only remove content (either that which was generated by users or provided by public bodies in response to a request when exceedingly persuasive justification is shown that the content&rsquo;s publication will directly and substantially injure a private citizen, absent any legitimate journalistic or public interest in the continued publication of the challenged material on OPRAmachine.com.</p>
-
-<p>Site administration intends for OPRAmachine to further governmental transparency and openness. We believe that the transparency provided by the site, including the publication of request and responses provides a public service and is essential to gaining a candid insight into the OPRA process.</p>
-
-<p>Before removing content, the OPRAmachine site administration will conduct a public interest balancing test. We will balance the privacy interest expressed by the party requesting removal of the material with our journalistic interest in publishing the documents. If we conclude that additional redactions or removal of the documents is necessary, we will attempt to work with the public body&rsquo;s records custodian to provide a properly redacted version of the files.</p>
+<p><a href="https://opramachine.com/feed/search/%20(variety:sent%20OR%20variety:followup_sent%20OR%20variety:response%20OR%20variety:comment).json">JSON data feed - all OPRA requests &amp; responses</a></p>
 
 
 <footer class=" footline" >
 	
-	    <i class='fa fa-user'></i> <a href="mailto:gr@gavinrozzi.com">Gavin Rozzi</a>  <i class='fa fa-calendar'></i> 19/12/2017
-	    </div>
-	
 </footer>
-
 
         
         </div> 
@@ -2906,12 +2875,81 @@ The government agency must contact the OPRAmachine site administration via email
             
                 
                     
+                    
                 
                 
 
                     
                     
                         
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
                     
                     
 
@@ -2977,18 +3015,11 @@ The government agency must contact the OPRAmachine site administration via email
                     
 
                     
-                        
             
+        
+                    
             
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
+        
                     
             
         
@@ -3003,11 +3034,10 @@ The government agency must contact the OPRAmachine site administration via email
 
                     
                     
+                        
+                    
                     
 
-                    
-            
-        
                     
                         
             
@@ -3029,83 +3059,6 @@ The government agency must contact the OPRAmachine site administration via email
             
             
                 
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
                     
                 
                 
@@ -3227,6 +3180,22 @@ The government agency must contact the OPRAmachine site administration via email
                     
 
                     
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
                         
             
             
@@ -3272,10 +3241,10 @@ The government agency must contact the OPRAmachine site administration via email
 
 
         
-            <a class="nav nav-prev" href="/site-policies-and-procedures/code-of-conduct/" title="Code of Conduct"> <i class="fa fa-chevron-left"></i></a>
+            <a class="nav nav-prev" href="/site-administration/leadership/" title="Site Leadership"> <i class="fa fa-chevron-left"></i></a>
         
         
-            <a class="nav nav-next" href="/site-policies-and-procedures/email-verification/" title="Email Verification" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+            <a class="nav nav-next" href="/site-administration/technical-problems/" title="Technical Problems" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 
@@ -3305,4 +3274,3 @@ The government agency must contact the OPRAmachine site administration via email
 
   </body>
 </html>
-
